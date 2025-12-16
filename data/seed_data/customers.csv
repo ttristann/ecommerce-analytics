@@ -1,0 +1,101 @@
+customer_id,email,first_name,last_name,phone,address,city,state,zip_code,country,registration_date,customer_segement,lifetime_value
+1,johnsonjoshua@example.org,Donald,Garcia,001-581-896-0013x3890,9402 Peterson Drives,Port Matthew,Colorado,50298,USA,2024-03-01 06:29:15,New,1202.18
+2,melanie94@example.org,Jessica,Herrera,(518)349-5931x0341,7525 Clark Grove Apt. 928,East Steven,Louisiana,84387,USA,2025-06-03 15:49:56,New,2822.79
+3,gabriellecameron@example.org,Jeremy,Johnson,564-613-9537x67242,653 William Course Apt. 122,Carlsonfurt,Missouri,78605,USA,2024-12-14 16:38:45,VIP,1481.43
+4,tasha01@example.net,Nicole,Potter,001-551-446-2704x82814,88095 Smith Lake Suite 303,North Jessicaland,Wisconsin,70323,USA,2025-08-02 23:45:07,VIP,6799.32
+5,davidalvarez@example.net,Frederick,Rose,+1-563-583-4657x871,0983 Adrian Station,East Carloston,Michigan,09788,USA,2025-01-19 12:07:42,New,960.69
+6,joshuawashington@example.net,David,Walls,001-897-737-6311,7010 Chandler Union Apt. 333,Taylorburgh,Louisiana,61138,USA,2024-06-28 04:17:35,Regular,414.65
+7,ramosmichelle@example.net,Corey,Pearson,+1-801-232-6773,0647 Henderson Street,Mooreport,Indiana,08166,USA,2025-03-11 00:16:00,VIP,2264.52
+8,adkinsbrian@example.net,Thomas,Calhoun,220.381.2191x36193,998 Donovan Ford Suite 346,Lake Debbie,New Jersey,41942,USA,2025-12-07 17:43:13,New,6059.99
+9,smithchristine@example.net,Wendy,Jones,484.925.1354,808 Huynh Cove Apt. 411,West Juan,Indiana,94559,USA,2024-09-08 11:18:55,New,2068.49
+10,gracefarrell@example.net,Tracy,Whitehead,4169400524,011 Amy Village Suite 982,Andersonport,Mississippi,05730,USA,2025-11-14 08:44:00,New,7043.12
+11,jason31@example.com,Kimberly,Henson,(392)832-2602x56342,3375 Hoover Well,East Andrew,Illinois,52728,USA,2024-08-28 02:48:35,Regular,2282.36
+12,michelle45@example.net,William,Frazier,+1-350-814-2940,569 Paul Ports Apt. 406,New Saraside,Utah,94798,USA,2025-12-16 11:20:18,New,2854.09
+13,michaeljones@example.net,Samantha,Hanson,+1-414-684-6564x82366,044 Russell Prairie Suite 777,New Thomas,West Virginia,22742,USA,2025-05-11 21:25:54,VIP,7612.19
+14,campbellelizabeth@example.net,Matthew,Cardenas,001-534-833-2003x79176,3201 Robinson Unions Suite 083,South Dennismouth,Texas,70117,USA,2025-02-23 06:41:10,VIP,7011.58
+15,stephanie79@example.net,Patricia,Simmons,+1-972-577-4348,1434 Flores Plains Apt. 223,Bensonborough,California,54878,USA,2024-10-28 17:45:59,Regular,2850.93
+16,amy60@example.org,Marissa,Price,001-590-996-7054x66889,6706 Caldwell Union,Ramseymouth,Florida,82061,USA,2025-02-04 00:20:59,VIP,9576.41
+17,meadowsbrittany@example.net,Anthony,Day,(772)704-6537,6417 Kaitlyn Center Suite 310,East Jamestown,South Carolina,20474,USA,2024-06-19 10:21:49,Regular,1111.88
+18,thomaswilson@example.org,Steven,Scott,(829)891-2419x049,93149 Laura Port,West Amandastad,California,66818,USA,2025-05-03 02:38:41,Regular,1057.49
+19,alexander67@example.org,Ryan,Cox,626.728.4987x769,47379 Rogers Park,Hunterborough,Minnesota,34363,USA,2024-09-06 11:56:22,Regular,6076.89
+20,nicole48@example.org,Zachary,Lee,367.683.7770,3495 Tran Key,Barajasside,Michigan,46613,USA,2025-06-15 01:43:45,VIP,7324.34
+21,qnelson@example.org,David,Lee,682-333-7498,3524 Jean Crossroad,Brandonton,Oklahoma,38791,USA,2025-06-10 20:21:57,New,1335.78
+22,danamullins@example.org,Monique,Andrews,277.452.0471x1671,413 Angela Mall,Port Alexandra,New Hampshire,58529,USA,2024-08-04 02:37:39,Regular,880.12
+23,ntorres@example.org,Chelsea,Singh,001-933-641-2328x12067,44713 French Road,South Danny,Iowa,85387,USA,2024-04-10 20:55:38,Regular,8311.11
+24,margaret10@example.org,Laura,Larson,001-947-917-4648,065 Johnson Forks,Port Emilyview,Oregon,05774,USA,2025-07-31 20:56:47,New,8865.97
+25,thomaspearson@example.com,Howard,Richards,+1-671-875-6551x2567,1545 Tara Lodge,Lake Mollymouth,Nebraska,07605,USA,2024-05-10 20:21:20,Regular,5815.79
+26,cindy77@example.org,James,Dunn,377-510-9324x8086,1274 Perry Orchard,Sanchezside,Georgia,50778,USA,2024-05-13 04:47:54,New,788.6
+27,michellehill@example.com,Matthew,French,704-849-9727x875,3396 Melissa Loop Apt. 576,Mcneilberg,New York,05353,USA,2024-03-24 04:57:52,New,2356.19
+28,molly71@example.net,Renee,Smith,(362)717-4596,7809 Jimmy Spur Suite 316,Port Cynthiaville,New Hampshire,22306,USA,2025-06-08 04:40:58,Regular,9853.69
+29,rebecca05@example.org,Kelly,Brooks,(838)569-2221,237 Stevens Shores Apt. 748,North Scott,Minnesota,77515,USA,2024-08-05 12:12:10,VIP,8678.19
+30,dvaughn@example.com,James,Cruz,213.969.5944x0640,95339 Byrd Stravenue Apt. 104,Johnsonstad,Washington,17725,USA,2024-02-25 03:46:17,Regular,2851.94
+31,mark62@example.org,David,Ryan,(488)542-4745x171,516 Joseph Crossing Suite 549,Carsonstad,Connecticut,88953,USA,2024-06-15 18:19:11,New,8357.69
+32,jjohnson@example.com,Rose,Walker,974-361-2004,82675 Matthews Stream,South Diana,New York,81195,USA,2024-10-29 03:23:42,VIP,3764.79
+33,antonio53@example.com,Sean,Young,(515)285-0643x171,3293 Maria Plaza,New Jason,Iowa,43565,USA,2025-08-09 14:50:24,VIP,6734.73
+34,kristinacarlson@example.com,Michele,Thomas,(584)721-0205,40268 Julie Mountains,Stricklandhaven,Pennsylvania,14794,USA,2024-12-02 05:33:19,New,9372.88
+35,soniawilliams@example.net,Adrienne,Ellis,3077661771,24998 James Ranch,Shawnchester,Connecticut,92484,USA,2024-03-15 00:23:47,New,806.88
+36,russellbeasley@example.com,Matthew,Chavez,(315)765-4527x11116,098 Santiago Loop,Morganchester,Washington,07244,USA,2024-07-27 13:21:51,New,1794.27
+37,michael98@example.org,Eric,Olson,258-651-4936,44550 Molly Port,Jonestown,Colorado,98295,USA,2025-02-01 04:28:39,New,2523.63
+38,nicholaschavez@example.org,Mitchell,Griffith,001-999-810-2290x14767,81561 Gregory Ramp Suite 840,South Tracey,Arkansas,01508,USA,2024-05-23 22:17:12,Regular,3856.61
+39,sierra24@example.com,Mark,Smith,001-862-226-8388x5160,59696 Roberts Lodge Apt. 529,Collierstad,Colorado,57741,USA,2025-10-03 01:53:35,New,6912.8
+40,sanchezbrianna@example.net,Christian,Harrell,001-453-552-1818x8355,43292 Gregory Trail,Marshallshire,Wisconsin,76453,USA,2024-11-29 19:45:50,VIP,6877.68
+41,michelle52@example.com,Carlos,Ramos,649-305-8147x7005,986 Carpenter Turnpike,South Reginashire,Tennessee,25173,USA,2024-08-22 21:15:24,VIP,2367.58
+42,dmason@example.com,Dale,Nolan,618-820-3778x89255,9051 Davis Springs Suite 449,West Christopher,Texas,19038,USA,2025-11-28 04:57:22,VIP,8069.95
+43,kyle62@example.net,Jeanne,Miller,+1-265-728-1685,35733 Eric Hill Apt. 888,Lake Matthewberg,Rhode Island,49878,USA,2024-04-14 23:02:36,Regular,2750.63
+44,henryschwartz@example.net,Lisa,Martin,606.953.7947x383,9774 Shaw Manor,Port James,Rhode Island,18641,USA,2025-10-25 05:29:56,VIP,9140.05
+45,brett75@example.net,Sarah,Dawson,214.812.4782x61375,8536 Nicholas Burgs,Sarahmouth,Georgia,18536,USA,2024-01-15 21:35:12,New,8776.04
+46,samantha72@example.net,Taylor,Gilbert,304-632-8986,1036 Brown Villages,Carlsontown,South Dakota,68052,USA,2025-03-07 19:13:30,Regular,2205.0
+47,jennifercarter@example.org,Christina,Allen,(221)885-1888x88067,0515 Jessica Road Apt. 952,West Amyburgh,Wyoming,90243,USA,2024-12-12 00:45:43,Regular,4016.76
+48,zwelch@example.org,Bryan,Parsons,904.630.3054x868,345 Michelle Isle,Davidstad,Nevada,52932,USA,2025-07-16 11:49:24,New,4642.63
+49,ykline@example.com,Terri,Crawford,358.341.6169x2845,447 Jackson Mills Suite 705,Hillton,California,88474,USA,2025-04-25 07:39:31,Regular,1482.34
+50,zcox@example.net,Erin,Cisneros,(897)202-1355,755 Hines Ports,New Michael,Massachusetts,85640,USA,2024-07-20 14:43:02,New,5657.54
+51,susanjohnson@example.org,Victor,Hughes,+1-514-347-3947,72715 Mckinney Plaza,Patriciaburgh,Virginia,93504,USA,2025-12-06 10:08:39,Regular,7495.44
+52,laurahicks@example.org,Tracie,Conner,470.358.9578,6786 Morrow Cliffs,West Dawn,New Hampshire,61558,USA,2025-05-28 09:42:50,Regular,8988.45
+53,david89@example.org,Katrina,Anderson,601.582.4225x35841,49818 Brittany Prairie Apt. 299,Meganshire,Arizona,04219,USA,2024-02-18 05:40:02,Regular,3683.76
+54,frykelli@example.com,Debra,Wang,(490)978-4473x64710,7359 Larry Stravenue Suite 562,Zacharyville,Massachusetts,32186,USA,2024-12-13 11:14:33,VIP,5144.31
+55,adamsjohn@example.org,Brent,Dougherty,+1-963-625-9532x787,16873 Brandy Causeway Apt. 479,Mitchelltown,Connecticut,56983,USA,2024-03-30 04:17:30,VIP,7582.24
+56,jessica65@example.org,Richard,Hudson,658.341.6878,65585 James Pass,Porterton,Arizona,18462,USA,2025-06-23 09:52:47,VIP,1613.13
+57,linda87@example.org,Catherine,Robertson,695-926-9495x88879,5169 Robles Stream,New Thomasshire,Oregon,30325,USA,2025-06-29 11:26:11,VIP,7941.59
+58,silvageorge@example.net,Jennifer,Hampton,(523)809-1307x5626,028 Ann Shore Suite 865,South Rhonda,Michigan,72102,USA,2024-09-17 07:57:06,Regular,6004.45
+59,chelsea33@example.com,Angela,Walker,843-875-7584x4198,40415 Douglas Summit Suite 338,Sarahview,Florida,14817,USA,2025-04-08 08:36:55,Regular,3878.03
+60,johnsantiago@example.net,Jeremiah,Hall,865-971-2082,345 Brewer Trafficway Apt. 938,East Robertburgh,Arizona,52535,USA,2025-08-20 04:12:51,Regular,5338.23
+61,vlopez@example.com,Nancy,Smith,001-491-954-7887,15274 Alexis Junction Suite 932,Wilcoxhaven,Massachusetts,11869,USA,2024-10-23 11:38:12,New,8621.72
+62,lopezdonald@example.com,Shari,Smith,(337)945-4990x4530,68414 Mendez Forges Apt. 727,Robertside,New Mexico,99768,USA,2025-02-06 15:37:10,VIP,6834.81
+63,kathleenbecker@example.net,Morgan,Miller,485.419.1088x398,713 Davis Pass Suite 072,Bryantton,Oklahoma,61105,USA,2025-05-22 16:51:45,VIP,6848.93
+64,jennifer64@example.org,Julie,Lane,6658180170,65676 Miller Shore,Lake Michelle,Delaware,23893,USA,2025-02-06 10:47:15,New,7533.69
+65,urice@example.org,Mary,Avila,378-268-6337x5243,033 Craig Bypass Suite 903,South Scottside,Indiana,99379,USA,2025-10-18 00:39:44,New,3467.74
+66,taylorvictoria@example.org,Lisa,Dennis,499-853-4283x64408,56856 Hernandez Lane Apt. 873,West Meredith,Georgia,61190,USA,2025-11-26 15:34:30,Regular,4404.18
+67,harttammy@example.net,Alyssa,Price,235-317-5183x046,837 Molly Isle,Susantown,Indiana,25407,USA,2025-07-15 01:39:47,Regular,132.13
+68,burgesskaren@example.org,Heather,Padilla,(938)954-6785x4458,753 Edwards Cape,Lake Dustin,Kentucky,73024,USA,2025-12-12 04:43:13,New,8770.94
+69,mphillips@example.com,Jerry,Hudson,778.454.7772,872 Alexandria Villages,Port Elizabethtown,Nebraska,18522,USA,2025-10-01 13:44:07,Regular,9721.69
+70,carloshernandez@example.org,William,Brooks,+1-697-670-0886x008,621 Alice Garden,New Alisha,Minnesota,35539,USA,2025-08-25 14:15:03,VIP,5126.05
+71,zmiller@example.com,Annette,Branch,941.201.6668,217 Newman Isle,New Samanthabury,Indiana,91240,USA,2025-11-05 12:46:30,VIP,8718.13
+72,enelson@example.net,Sara,Lam,001-302-650-3926,396 Reyes Streets,Port Vanessa,Washington,10780,USA,2025-01-09 03:01:08,Regular,8432.53
+73,brian63@example.org,Matthew,Mack,+1-465-804-7735x866,431 Joseph Light,Lake Peter,Mississippi,14466,USA,2024-02-26 05:37:41,New,6128.81
+74,hahnsean@example.com,Curtis,Miller,(778)888-6101x58199,6618 Ashley Extension,Jacksonview,Maryland,35681,USA,2025-01-03 04:03:36,VIP,3801.75
+75,bryanhamilton@example.com,Kevin,Patton,(843)779-9371x240,7569 Kevin Rapids Apt. 752,Novakport,West Virginia,91590,USA,2025-04-21 17:43:14,VIP,5439.85
+76,yfaulkner@example.org,Mark,Ramirez,(651)393-9828x0737,724 Johnny Drives Suite 617,Aguilarside,North Carolina,91164,USA,2024-11-06 01:15:13,New,9193.09
+77,gibbsmichael@example.net,Brittney,Rocha,835-329-0965,43888 Sean Lock,Bartonshire,Vermont,66098,USA,2024-04-12 05:39:10,New,3309.14
+78,whitney71@example.com,Robert,Nixon,725-945-7387,7514 Lisa Crescent,Port Matthewville,Utah,22043,USA,2025-12-08 10:34:27,VIP,1207.49
+79,zacharyarnold@example.com,Anita,Mullen,962.826.6093,33419 Lauren Plain Apt. 553,Wilsonfort,North Dakota,84270,USA,2024-08-16 13:50:22,Regular,8799.35
+80,lcarr@example.org,Michael,Bruce,+1-424-799-1251x341,669 Bailey Manors,South Cynthia,Vermont,85076,USA,2025-12-09 00:58:28,Regular,2470.58
+81,angelaburns@example.org,Jacob,Wilkinson,+1-905-807-2368x876,2190 Kelly Harbor Apt. 842,Cunninghamfort,Oklahoma,67453,USA,2024-03-14 01:58:10,VIP,8792.3
+82,adamsamy@example.com,Amber,Sherman,001-378-536-1340x74517,959 Martin Dam,Port Jamie,Arkansas,75221,USA,2024-09-14 15:14:17,VIP,947.97
+83,candice25@example.net,Kelly,Armstrong,412.660.4223x25367,7116 Neal Wells Suite 775,Port Kimland,Washington,60590,USA,2025-04-23 05:50:56,Regular,8178.63
+84,melissa86@example.org,Tammy,Summers,345.945.8929x7500,27706 Wendy Curve,Erikview,Colorado,86299,USA,2024-09-22 02:33:58,New,7681.76
+85,christopher20@example.com,Connie,Barber,001-236-211-0371x29387,62713 Davis Valley Apt. 155,Derrickberg,Tennessee,89254,USA,2024-04-06 02:32:16,VIP,6631.53
+86,morenoalan@example.net,Frank,Bell,326.897.3112,5234 John Rapid Suite 043,Lake Peter,Tennessee,07653,USA,2025-08-16 22:41:03,New,1734.76
+87,troyrodriguez@example.com,Danielle,Jones,4559269658,91043 Sandra Turnpike,Hunterhaven,Wyoming,54952,USA,2024-11-10 03:34:41,New,8737.09
+88,imiller@example.net,Christina,Ramirez,218-532-8569x1463,1799 Kyle Streets,North Alexander,Florida,92447,USA,2023-12-25 23:09:15,Regular,9647.19
+89,tylerreed@example.net,Krista,Le,(352)641-0564,7850 Villarreal Expressway,Ericville,Oregon,88859,USA,2025-06-30 13:07:44,New,7577.13
+90,perezwilliam@example.org,Michele,Smith,5757622086,5419 Wilson Spring,East Jeffreyhaven,Arizona,53051,USA,2024-02-08 16:26:43,New,2091.4
+91,xcline@example.com,Mark,Tran,7539494937,832 Sarah Burg,New Michael,Vermont,01758,USA,2024-09-02 08:44:24,Regular,4050.02
+92,blakenicholas@example.net,Jessica,Garcia,336.370.2410x38657,619 Ryan Curve,West Jose,Massachusetts,52006,USA,2025-06-13 10:02:08,New,6533.79
+93,louis43@example.org,Sherry,Taylor,001-991-621-2775x61853,1124 Jason Walks Suite 213,Randyton,Utah,39670,USA,2024-07-06 05:25:26,Regular,9006.18
+94,anthonysullivan@example.com,Angela,Pierce,571-821-0032,199 Lowery Club Apt. 137,North Rebecca,Michigan,16560,USA,2024-01-19 07:28:50,Regular,1297.94
+95,kwilliams@example.com,Lorraine,Foster,9664253244,993 Porter Plaza,Brownview,Missouri,18488,USA,2024-11-06 18:40:01,VIP,733.86
+96,dawnrobles@example.org,Crystal,Pham,7658787598,05930 Brown Mountains Suite 932,East Dianeview,Ohio,97108,USA,2024-01-29 13:46:35,VIP,5924.26
+97,barbaramcgrath@example.com,Michael,Combs,(423)595-5905,427 Christopher Fort Apt. 087,West Samanthaborough,Florida,45164,USA,2025-06-26 00:14:59,VIP,5925.56
+98,samantharichard@example.com,Brian,Hernandez,001-721-485-1569x154,675 Jasmine Points,Jeffreyshire,Idaho,50096,USA,2024-08-11 11:09:47,VIP,802.83
+99,david09@example.com,Melissa,Townsend,001-902-495-9391,135 Jackson Corners Suite 704,East Heather,Minnesota,34141,USA,2025-08-19 10:40:47,New,682.85
+100,lebrandon@example.com,Jessica,Costa,(676)258-6179x32710,1152 Martin Club Apt. 599,Bushchester,Tennessee,22127,USA,2025-04-01 20:47:04,VIP,9063.66
