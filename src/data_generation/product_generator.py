@@ -290,5 +290,3 @@ if __name__ == "__main__":
     # sabe to csv files
     save_to_csv(products_df, products_file)
     save_to_csv(inventory_df, inventory_file)
-
-
