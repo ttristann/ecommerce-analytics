@@ -1,0 +1,2780 @@
+transaction_id,product_id,product_name,category,quantity,unit_price,discount_amount,subtotal
+TXN-d60bf99b,126,"Vasquez, Pope and Cook Snacks Mix",Food & Beverage,1,62.66,9.4,53.26
+TXN-d60bf99b,7,Jordan PLC Skincare Kit,Beauty,3,125.73,0.0,377.19
+TXN-85932f92,101,Modern Decor Set,Home & Garden,1,1452.95,145.3,1307.65
+TXN-85932f92,21,Modern Outdoor Piece,Home & Garden,4,389.71,0.0,1558.84
+TXN-85932f92,198,Hayes-Thomas Skincare Kit,Beauty,1,16.12,0.0,16.12
+TXN-85932f92,176,Apparel Champion,Sports,2,194.64,0.0,389.28
+TXN-85932f92,126,"Vasquez, Pope and Cook Snacks Mix",Food & Beverage,5,62.66,31.33,281.97
+TXN-85932f92,83,Hunt-Harrison Gourmet Mix,Food & Beverage,1,40.45,4.05,36.4
+TXN-85932f92,112,Pro Outdoor Gear,Sports,2,425.16,127.55,722.77
+TXN-85932f92,148,Crimson Furniture,Home & Garden,5,138.5,34.62,657.88
+TXN-85932f92,156,Fitness Champion,Sports,2,186.84,18.68,355.0
+TXN-ed171d25,150,Luxury Makeup,Beauty,4,191.03,0.0,764.12
+TXN-ed171d25,167,"Smith, Hood and Charles Smartphones",Electronics,3,598.64,0.0,1795.92
+TXN-ed171d25,78,Polarized uniform solution,Books,2,36.94,14.78,59.1
+TXN-01211404,111,Modern Outdoor Set,Home & Garden,3,1304.78,391.43,3522.91
+TXN-01211404,134,Modern Decor Set,Home & Garden,3,1454.99,872.99,3491.98
+TXN-01211404,191,Bell PLC Tools Essentials,Beauty,1,175.9,26.39,149.51
+TXN-01211404,143,Premium Tablets Pro,Electronics,4,1587.61,635.04,5715.4
+TXN-01211404,136,Pro Team Sports Equipment,Sports,1,281.72,14.09,267.63
+TXN-01211404,12,The Among Visit,Books,1,39.59,3.96,35.63
+TXN-5669b063,18,Tablets Ultra,Electronics,5,188.17,0.0,940.85
+TXN-5669b063,58,Luxury Tools,Beauty,1,193.44,0.0,193.44
+TXN-5669b063,166,Upgradable interactive data-warehouse,Books,2,27.44,10.98,43.9
+TXN-5669b063,120,Roberts Group Fragrances Collection,Beauty,3,65.01,0.0,195.03
+TXN-5669b063,15,Lawson LLC Snacks Mix,Food & Beverage,2,97.86,39.14,156.58
+TXN-5669b063,3,The Soon No,Books,1,41.42,2.07,39.35
+TXN-96793a0d,42,Organic Beverages,Food & Beverage,3,68.26,0.0,204.78
+TXN-96793a0d,137,Johnson Group Laptops,Electronics,2,1642.57,492.77,2792.37
+TXN-96793a0d,18,Tablets Ultra,Electronics,3,188.17,84.68,479.83
+TXN-6a04bbf6,77,Pro Equipment Equipment,Sports,5,382.4,286.8,1625.2
+TXN-6a04bbf6,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,2,34.99,0.0,69.98
+TXN-6a04bbf6,190,FireBrick Accessrories Dress,Clothing,4,58.66,11.73,222.91
+TXN-c4ae8dfb,160,PaleTurquoise Lighting,Home & Garden,2,809.55,242.86,1376.24
+TXN-c4ae8dfb,175,Designer Accessrories Line,Clothing,3,158.02,94.81,379.25
+TXN-c4ae8dfb,149,Tablets X,Electronics,1,1248.96,0.0,1248.96
+TXN-c4ae8dfb,123,GreenYellow Decor,Home & Garden,1,276.78,55.36,221.42
+TXN-c4ae8dfb,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,3,46.94,7.04,133.78
+TXN-c4ae8dfb,164,MediumSlateBlue Kids Dress,Clothing,3,161.77,0.0,485.31
+TXN-c4ae8dfb,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,2,85.48,17.1,153.86
+TXN-c4ae8dfb,197,Organic Snacks,Food & Beverage,3,97.91,0.0,293.73
+TXN-c4ae8dfb,147,CornflowerBlue Accessrories Shirt,Clothing,4,212.24,42.45,806.51
+TXN-7ee05a99,40,Outdoor Champion,Sports,5,311.6,155.8,1402.2
+TXN-7ee05a99,181,Mayer and Sons Tools Essentials,Beauty,3,52.88,23.8,134.84
+TXN-7ee05a99,200,Pearson Group Tools Kit,Beauty,5,70.59,17.65,335.3
+TXN-7ee05a99,29,The Minute Visit,Books,5,37.29,9.32,177.13
+TXN-72c28740,49,LavenderBlush Kitchen,Home & Garden,4,1135.14,0.0,4540.56
+TXN-72c28740,132,DarkOrchid Kids Pants,Clothing,1,285.09,57.02,228.07
+TXN-72c28740,45,Luxury Tools,Beauty,1,197.7,0.0,197.7
+TXN-72c28740,190,FireBrick Accessrories Dress,Clothing,2,58.66,23.46,93.86
+TXN-72c28740,160,PaleTurquoise Lighting,Home & Garden,4,809.55,323.82,2914.38
+TXN-72c28740,77,Pro Equipment Equipment,Sports,1,382.4,19.12,363.28
+TXN-72c28740,5,Modern Lighting Piece,Home & Garden,4,1330.47,532.19,4789.69
+TXN-72c28740,130,The Term Class,Books,4,46.25,18.5,166.5
+TXN-72c28740,95,Team Sports Champion,Sports,3,375.81,112.74,1014.69
+TXN-20aca4a3,135,The Reveal No,Books,3,25.78,15.47,61.87
+TXN-20aca4a3,62,Khaki Lighting,Home & Garden,3,566.15,0.0,1698.45
+TXN-20aca4a3,8,Mccarthy Inc Snacks Mix,Food & Beverage,3,25.22,3.78,71.88
+TXN-20aca4a3,111,Modern Outdoor Set,Home & Garden,2,1304.78,130.48,2479.08
+TXN-20aca4a3,122,Ellis Inc Cameras,Electronics,1,1284.79,192.72,1092.07
+TXN-20aca4a3,53,Modern Decor Set,Home & Garden,3,982.21,294.66,2651.97
+TXN-20aca4a3,109,Barber-Benitez Skincare Essentials,Beauty,2,69.38,13.88,124.88
+TXN-20aca4a3,68,Pro Equipment Gear,Sports,1,455.17,91.03,364.14
+TXN-20aca4a3,48,Team Sports Champion,Sports,3,275.88,165.53,662.11
+TXN-2a6aa16f,98,Modern Outdoor Set,Home & Garden,2,192.68,38.54,346.82
+TXN-2a6aa16f,157,Luxury Fragrances,Beauty,5,109.88,0.0,549.4
+TXN-2a6aa16f,31,Premium Smartphones Pro,Electronics,5,1892.85,0.0,9464.25
+TXN-2a6aa16f,110,Accessories Plus,Electronics,4,238.3,0.0,953.2
+TXN-2a6aa16f,41,Outdoor Champion,Sports,1,260.48,0.0,260.48
+TXN-2a6aa16f,100,LavenderBlush Furniture,Home & Garden,3,1041.62,0.0,3124.86
+TXN-7ab21a4f,33,The During Author,Books,1,48.82,7.32,41.5
+TXN-7ab21a4f,63,LightGoldenRodYellow Decor,Home & Garden,4,198.57,158.86,635.42
+TXN-61ff7abe,175,Designer Accessrories Line,Clothing,2,158.02,47.41,268.63
+TXN-61ff7abe,145,Organic Beverages,Food & Beverage,4,88.92,35.57,320.11
+TXN-61ff7abe,11,Pro Apparel Kit,Sports,2,41.13,0.0,82.26
+TXN-d72a1d86,92,Luxury Fragrances,Beauty,5,168.24,168.24,672.96
+TXN-d72a1d86,16,The Challenge Answer,Books,2,48.4,14.52,82.28
+TXN-d72a1d86,121,Premium Laptops Pro,Electronics,3,899.57,134.94,2563.77
+TXN-d72a1d86,133,Cooper Inc Pantry Mix,Food & Beverage,3,15.71,2.36,44.77
+TXN-97244bca,70,Monitored fresh-thinking superstructure,Books,3,18.11,0.0,54.33
+TXN-97244bca,89,Optional client-server data-warehouse,Books,5,15.45,7.73,69.52
+TXN-ec17e706,50,Modern Outdoor Piece,Home & Garden,2,1091.79,0.0,2183.58
+TXN-e49aa506,57,"King, Oliver and Norman Haircare Collection",Beauty,3,12.4,5.58,31.62
+TXN-e49aa506,111,Modern Outdoor Set,Home & Garden,4,1304.78,0.0,5219.12
+TXN-e49aa506,76,Premium Accessories Pro,Electronics,5,1736.58,0.0,8682.9
+TXN-e49aa506,45,Luxury Tools,Beauty,5,197.7,98.85,889.65
+TXN-6073464d,103,LightGray Shoes Pants,Clothing,2,15.81,0.0,31.62
+TXN-6073464d,131,DarkCyan Decor,Home & Garden,1,1011.77,151.77,860.0
+TXN-6073464d,128,Pro Apparel Equipment,Sports,4,266.15,0.0,1064.6
+TXN-6073464d,15,Lawson LLC Snacks Mix,Food & Beverage,4,97.86,19.57,371.87
+TXN-6073464d,100,LavenderBlush Furniture,Home & Garden,4,1041.62,833.3,3333.18
+TXN-6073464d,28,Organic Pantry,Food & Beverage,1,3.76,0.56,3.2
+TXN-6073464d,180,Forbes-Moyer Fragrances Kit,Beauty,1,50.66,0.0,50.66
+TXN-609bff9a,176,Apparel Champion,Sports,2,194.64,0.0,389.28
+TXN-609bff9a,83,Hunt-Harrison Gourmet Mix,Food & Beverage,2,40.45,8.09,72.81
+TXN-f2c7ebf2,135,The Reveal No,Books,2,25.78,10.31,41.25
+TXN-f2c7ebf2,163,Designer Accessrories Style,Clothing,1,133.45,6.67,126.78
+TXN-f2c7ebf2,6,Brennan-Garrison Snacks Mix,Food & Beverage,5,39.87,0.0,199.35
+TXN-f2c7ebf2,46,Taylor-Moore Beverages Mix,Food & Beverage,1,84.47,12.67,71.8
+TXN-f2c7ebf2,100,LavenderBlush Furniture,Home & Garden,5,1041.62,1041.62,4166.48
+TXN-f2c7ebf2,162,Adams-Lewis Tools Collection,Beauty,1,65.04,0.0,65.04
+TXN-f2c7ebf2,60,SandyBrown Kitchen,Home & Garden,2,523.7,0.0,1047.4
+TXN-f2c7ebf2,137,Johnson Group Laptops,Electronics,4,1642.57,328.51,6241.77
+TXN-178e234a,116,Equipment Champion,Sports,2,307.47,30.75,584.19
+TXN-26032dbc,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,3,45.33,6.8,129.19
+TXN-26032dbc,119,Weeks and Sons Organic Mix,Food & Beverage,5,9.99,7.49,42.46
+TXN-26032dbc,194,Farley-Ford Laptops,Electronics,4,1177.71,0.0,4710.84
+TXN-26032dbc,87,Premium Accessories Pro,Electronics,2,374.41,0.0,748.82
+TXN-26032dbc,95,Team Sports Champion,Sports,2,375.81,0.0,751.62
+TXN-26032dbc,45,Luxury Tools,Beauty,5,197.7,148.28,840.22
+TXN-26032dbc,62,Khaki Lighting,Home & Garden,5,566.15,0.0,2830.75
+TXN-26032dbc,186,Tablets Plus,Electronics,3,1592.0,0.0,4776.0
+TXN-0ca24eb7,74,CadetBlue Decor,Home & Garden,2,1495.48,0.0,2990.96
+TXN-0ca24eb7,127,Proactive explicit strategy,Books,5,48.1,0.0,240.5
+TXN-0ca24eb7,8,Mccarthy Inc Snacks Mix,Food & Beverage,2,25.22,0.0,50.44
+TXN-0ca24eb7,39,Riddle Ltd Tablets,Electronics,5,1038.89,0.0,5194.45
+TXN-0ca24eb7,184,Luxury Haircare,Beauty,2,176.58,17.66,335.5
+TXN-0ca24eb7,59,Organic Snacks,Food & Beverage,1,30.06,3.01,27.05
+TXN-0ca24eb7,100,LavenderBlush Furniture,Home & Garden,2,1041.62,208.32,1874.92
+TXN-0ca24eb7,107,Designer Men Line,Clothing,5,50.96,0.0,254.8
+TXN-0ca24eb7,52,Pro Team Sports Kit,Sports,5,378.48,0.0,1892.4
+TXN-bfeb6587,112,Pro Outdoor Gear,Sports,3,425.16,0.0,1275.48
+TXN-bfeb6587,187,Fitness Champion,Sports,3,100.54,0.0,301.62
+TXN-bfeb6587,90,Modern Lighting Set,Home & Garden,3,462.75,69.41,1318.84
+TXN-bfeb6587,195,SeaShell Women Jacket,Clothing,2,233.26,69.98,396.54
+TXN-bfeb6587,8,Mccarthy Inc Snacks Mix,Food & Beverage,3,25.22,3.78,71.88
+TXN-bfeb6587,67,Organic Pantry,Food & Beverage,3,95.07,57.04,228.17
+TXN-1ba5b4a7,97,Reyes Ltd Organic Mix,Food & Beverage,1,13.51,0.0,13.51
+TXN-1ba5b4a7,176,Apparel Champion,Sports,5,194.64,0.0,973.2
+TXN-1ba5b4a7,67,Organic Pantry,Food & Beverage,5,95.07,0.0,475.35
+TXN-1ba5b4a7,5,Modern Lighting Piece,Home & Garden,2,1330.47,0.0,2660.94
+TXN-1ba5b4a7,120,Roberts Group Fragrances Collection,Beauty,1,65.01,0.0,65.01
+TXN-1ba5b4a7,89,Optional client-server data-warehouse,Books,3,15.45,0.0,46.35
+TXN-1ba5b4a7,109,Barber-Benitez Skincare Essentials,Beauty,2,69.38,6.94,131.82
+TXN-1ba5b4a7,161,Multi-channeled attitude-oriented synergy,Books,5,42.14,31.6,179.1
+TXN-1ba5b4a7,6,Brennan-Garrison Snacks Mix,Food & Beverage,3,39.87,11.96,107.65
+TXN-1ba5b4a7,103,LightGray Shoes Pants,Clothing,5,15.81,0.0,79.05
+TXN-f436b873,26,DarkTurquoise Kids Dress,Clothing,2,83.03,0.0,166.06
+TXN-f436b873,187,Fitness Champion,Sports,1,100.54,0.0,100.54
+TXN-e68024cd,153,Hill-Holden Fragrances Collection,Beauty,3,50.77,0.0,152.31
+TXN-e68024cd,15,Lawson LLC Snacks Mix,Food & Beverage,3,97.86,29.36,264.22
+TXN-e68024cd,77,Pro Equipment Equipment,Sports,4,382.4,0.0,1529.6
+TXN-e68024cd,199,Luxury Skincare,Beauty,1,56.5,0.0,56.5
+TXN-f077bd92,135,The Reveal No,Books,3,25.78,15.47,61.87
+TXN-b7b25cd1,32,Modern Kitchen Piece,Home & Garden,5,1350.49,1012.87,5739.58
+TXN-b7b25cd1,49,LavenderBlush Kitchen,Home & Garden,4,1135.14,454.06,4086.5
+TXN-b7b25cd1,169,The Various Picture,Books,1,39.4,0.0,39.4
+TXN-b7b25cd1,30,Premium Smartphones Pro,Electronics,1,700.44,105.07,595.37
+TXN-b7b25cd1,158,Modern Decor Piece,Home & Garden,2,1319.38,263.88,2374.88
+TXN-b7b25cd1,181,Mayer and Sons Tools Essentials,Beauty,1,52.88,10.58,42.3
+TXN-b7b25cd1,113,Luxury Haircare,Beauty,3,15.5,4.65,41.85
+TXN-b7b25cd1,101,Modern Decor Set,Home & Garden,5,1452.95,0.0,7264.75
+TXN-b4983b4d,63,LightGoldenRodYellow Decor,Home & Garden,3,198.57,0.0,595.71
+TXN-19e785af,146,Gibbs-Howard Snacks Mix,Food & Beverage,4,86.98,34.79,313.13
+TXN-19e785af,172,The Painting Material,Books,2,27.04,0.0,54.08
+TXN-19e785af,159,Designer Kids Style,Clothing,2,281.4,112.56,450.24
+TXN-19e785af,59,Organic Snacks,Food & Beverage,2,30.06,3.01,57.11
+TXN-19e785af,143,Premium Tablets Pro,Electronics,1,1587.61,0.0,1587.61
+TXN-19e785af,8,Mccarthy Inc Snacks Mix,Food & Beverage,3,25.22,15.13,60.53
+TXN-19e785af,139,Designer Accessrories Style,Clothing,4,142.85,114.28,457.12
+TXN-19e785af,140,Modern Decor Set,Home & Garden,2,465.7,0.0,931.4
+TXN-19e785af,151,The Material Worker,Books,2,32.23,12.89,51.57
+TXN-0c346c97,121,Premium Laptops Pro,Electronics,2,899.57,0.0,1799.14
+TXN-0c346c97,90,Modern Lighting Set,Home & Garden,4,462.75,0.0,1851.0
+TXN-0c346c97,129,Anderson and Sons Haircare Kit,Beauty,3,22.52,13.51,54.05
+TXN-0c346c97,71,The Writer Voice,Books,2,34.14,0.0,68.28
+TXN-0c346c97,30,Premium Smartphones Pro,Electronics,1,700.44,105.07,595.37
+TXN-0c346c97,167,"Smith, Hood and Charles Smartphones",Electronics,2,598.64,59.86,1137.42
+TXN-0c346c97,143,Premium Tablets Pro,Electronics,3,1587.61,0.0,4762.83
+TXN-0c346c97,69,Designer Women Line,Clothing,1,90.42,18.08,72.34
+TXN-12f77166,83,Hunt-Harrison Gourmet Mix,Food & Beverage,3,40.45,0.0,121.35
+TXN-12f77166,185,Designer Shoes Collection,Clothing,1,148.39,0.0,148.39
+TXN-12f77166,77,Pro Equipment Equipment,Sports,2,382.4,76.48,688.32
+TXN-12f77166,106,Taylor and Sons Smartphones,Electronics,3,1997.24,0.0,5991.72
+TXN-12f77166,39,Riddle Ltd Tablets,Electronics,1,1038.89,103.89,935.0
+TXN-12f77166,97,Reyes Ltd Organic Mix,Food & Beverage,4,13.51,0.0,54.04
+TXN-12f77166,164,MediumSlateBlue Kids Dress,Clothing,3,161.77,24.27,461.04
+TXN-12f77166,162,Adams-Lewis Tools Collection,Beauty,5,65.04,32.52,292.68
+TXN-12f77166,46,Taylor-Moore Beverages Mix,Food & Beverage,1,84.47,4.22,80.25
+TXN-5dfeb2b6,109,Barber-Benitez Skincare Essentials,Beauty,1,69.38,6.94,62.44
+TXN-5dfeb2b6,124,The Ahead Save,Books,5,19.54,14.65,83.05
+TXN-5dfeb2b6,59,Organic Snacks,Food & Beverage,2,30.06,0.0,60.12
+TXN-5dfeb2b6,39,Riddle Ltd Tablets,Electronics,4,1038.89,0.0,4155.56
+TXN-5dfeb2b6,32,Modern Kitchen Piece,Home & Garden,3,1350.49,405.15,3646.32
+TXN-5dfeb2b6,118,Smartphones Plus,Electronics,3,1019.9,458.95,2600.75
+TXN-5dfeb2b6,15,Lawson LLC Snacks Mix,Food & Beverage,1,97.86,14.68,83.18
+TXN-f7fd3be2,85,LightCoral Kitchen,Home & Garden,4,942.42,565.45,3204.23
+TXN-f7fd3be2,181,Mayer and Sons Tools Essentials,Beauty,3,52.88,15.86,142.78
+TXN-f7fd3be2,147,CornflowerBlue Accessrories Shirt,Clothing,2,212.24,0.0,424.48
+TXN-f7fd3be2,88,ForestGreen Shoes Pants,Clothing,4,132.43,79.46,450.26
+TXN-f7fd3be2,77,Pro Equipment Equipment,Sports,4,382.4,229.44,1300.16
+TXN-f7fd3be2,26,DarkTurquoise Kids Dress,Clothing,2,83.03,16.61,149.45
+TXN-a2159e8e,55,DarkOrchid Kids Dress,Clothing,3,45.81,0.0,137.43
+TXN-80803b97,158,Modern Decor Piece,Home & Garden,4,1319.38,263.88,5013.64
+TXN-80803b97,21,Modern Outdoor Piece,Home & Garden,4,389.71,233.83,1325.01
+TXN-80803b97,136,Pro Team Sports Equipment,Sports,2,281.72,56.34,507.1
+TXN-80803b97,162,Adams-Lewis Tools Collection,Beauty,4,65.04,52.03,208.13
+TXN-80803b97,192,Designer Women Line,Clothing,2,108.51,32.55,184.47
+TXN-80803b97,22,Moody-Taylor Beverages Mix,Food & Beverage,1,19.13,0.0,19.13
+TXN-9fd48cc7,123,GreenYellow Decor,Home & Garden,2,276.78,83.03,470.53
+TXN-9fd48cc7,66,Pro Team Sports Equipment,Sports,3,100.34,0.0,301.02
+TXN-dc64bef4,181,Mayer and Sons Tools Essentials,Beauty,5,52.88,52.88,211.52
+TXN-dc64bef4,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,1,85.48,4.27,81.21
+TXN-dc64bef4,29,The Minute Visit,Books,4,37.29,22.37,126.79
+TXN-dc64bef4,176,Apparel Champion,Sports,5,194.64,0.0,973.2
+TXN-dc64bef4,78,Polarized uniform solution,Books,4,36.94,7.39,140.37
+TXN-dc64bef4,188,Modern Kitchen Set,Home & Garden,4,882.04,0.0,3528.16
+TXN-dc64bef4,94,Black Kitchen,Home & Garden,2,1126.27,337.88,1914.66
+TXN-dc64bef4,165,Modern Outdoor Piece,Home & Garden,1,1298.96,259.79,1039.17
+TXN-dd16660b,2,Premium Smartphones Pro,Electronics,4,232.71,0.0,930.84
+TXN-dd16660b,91,Persevering background artificial intelligence,Books,5,30.87,0.0,154.35
+TXN-dd16660b,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,1,46.94,2.35,44.59
+TXN-dd16660b,164,MediumSlateBlue Kids Dress,Clothing,2,161.77,64.71,258.83
+TXN-dd16660b,117,Gold Furniture,Home & Garden,4,346.37,207.82,1177.66
+TXN-dd16660b,148,Crimson Furniture,Home & Garden,5,138.5,69.25,623.25
+TXN-dd16660b,65,Designer Kids Line,Clothing,5,27.97,0.0,139.85
+TXN-dd16660b,60,SandyBrown Kitchen,Home & Garden,4,523.7,209.48,1885.32
+TXN-dd16660b,124,The Ahead Save,Books,5,19.54,4.88,92.82
+TXN-378105a7,5,Modern Lighting Piece,Home & Garden,4,1330.47,0.0,5321.88
+TXN-378105a7,85,LightCoral Kitchen,Home & Garden,2,942.42,376.97,1507.87
+TXN-378105a7,14,Pro Fitness Kit,Sports,3,64.82,38.89,155.57
+TXN-378105a7,155,Organic Beverages,Food & Beverage,5,72.05,18.01,342.24
+TXN-378105a7,86,Cameras Max,Electronics,2,183.42,0.0,366.84
+TXN-378105a7,44,Organic Snacks,Food & Beverage,4,78.51,0.0,314.04
+TXN-378105a7,30,Premium Smartphones Pro,Electronics,3,700.44,0.0,2101.32
+TXN-378105a7,77,Pro Equipment Equipment,Sports,3,382.4,0.0,1147.2
+TXN-30fe2755,3,The Soon No,Books,2,41.42,4.14,78.7
+TXN-30fe2755,12,The Among Visit,Books,2,39.59,11.88,67.3
+TXN-30fe2755,65,Designer Kids Line,Clothing,2,27.97,0.0,55.94
+TXN-d6bc16aa,60,SandyBrown Kitchen,Home & Garden,1,523.7,0.0,523.7
+TXN-d6bc16aa,102,Modern Decor Set,Home & Garden,4,1483.45,296.69,5637.11
+TXN-d6bc16aa,185,Designer Shoes Collection,Clothing,5,148.39,111.29,630.66
+TXN-d6bc16aa,28,Organic Pantry,Food & Beverage,1,3.76,0.75,3.01
+TXN-d6bc16aa,81,PaleGreen Lighting,Home & Garden,5,878.29,219.57,4171.88
+TXN-d6bc16aa,144,Designer Accessrories Collection,Clothing,4,294.53,0.0,1178.12
+TXN-d6bc16aa,23,Organic Gourmet,Food & Beverage,3,30.67,0.0,92.01
+TXN-51d7786e,159,Designer Kids Style,Clothing,5,281.4,211.05,1195.95
+TXN-51d7786e,57,"King, Oliver and Norman Haircare Collection",Beauty,5,12.4,12.4,49.6
+TXN-51d7786e,152,Luxury Haircare,Beauty,5,57.43,0.0,287.15
+TXN-51d7786e,167,"Smith, Hood and Charles Smartphones",Electronics,4,598.64,0.0,2394.56
+TXN-51d7786e,36,Allen-Hopkins Pantry Mix,Food & Beverage,3,35.12,5.27,100.09
+TXN-51d7786e,131,DarkCyan Decor,Home & Garden,4,1011.77,0.0,4047.08
+TXN-51d7786e,115,Pope-Hobbs Pantry Mix,Food & Beverage,4,60.83,0.0,243.32
+TXN-eff24775,2,Premium Smartphones Pro,Electronics,4,232.71,0.0,930.84
+TXN-eff24775,105,Equipment Champion,Sports,5,391.23,195.62,1760.53
+TXN-eff24775,171,The Hit Apply,Books,1,19.76,0.99,18.77
+TXN-b9d8b01b,94,Black Kitchen,Home & Garden,2,1126.27,450.51,1802.03
+TXN-b9d8b01b,109,Barber-Benitez Skincare Essentials,Beauty,4,69.38,0.0,277.52
+TXN-b9d8b01b,35,Hughes-Miller Beverages Mix,Food & Beverage,1,24.62,0.0,24.62
+TXN-b9d8b01b,40,Outdoor Champion,Sports,4,311.6,0.0,1246.4
+TXN-b9d8b01b,134,Modern Decor Set,Home & Garden,2,1454.99,145.5,2764.48
+TXN-b9d8b01b,60,SandyBrown Kitchen,Home & Garden,3,523.7,0.0,1571.1
+TXN-b9d8b01b,30,Premium Smartphones Pro,Electronics,4,700.44,0.0,2801.76
+TXN-820f4d61,154,Fitness Champion,Sports,5,407.15,0.0,2035.75
+TXN-bf31715e,84,Turner-Reese Gourmet Mix,Food & Beverage,1,12.67,0.0,12.67
+TXN-c6763cc8,85,LightCoral Kitchen,Home & Garden,2,942.42,94.24,1790.6
+TXN-c6763cc8,182,The Hot Prepare,Books,1,23.31,2.33,20.98
+TXN-c6763cc8,6,Brennan-Garrison Snacks Mix,Food & Beverage,2,39.87,3.99,75.75
+TXN-c6763cc8,138,Premium Tablets Pro,Electronics,3,487.85,292.71,1170.84
+TXN-afe6c6c3,52,Pro Team Sports Kit,Sports,2,378.48,0.0,756.96
+TXN-afe6c6c3,140,Modern Decor Set,Home & Garden,1,465.7,46.57,419.13
+TXN-3bedbb33,126,"Vasquez, Pope and Cook Snacks Mix",Food & Beverage,4,62.66,37.6,213.04
+TXN-3bedbb33,120,Roberts Group Fragrances Collection,Beauty,2,65.01,0.0,130.02
+TXN-3bedbb33,175,Designer Accessrories Line,Clothing,5,158.02,118.52,671.58
+TXN-3bedbb33,16,The Challenge Answer,Books,2,48.4,0.0,96.8
+TXN-3bedbb33,85,LightCoral Kitchen,Home & Garden,3,942.42,565.45,2261.81
+TXN-3bedbb33,89,Optional client-server data-warehouse,Books,5,15.45,15.45,61.8
+TXN-3bedbb33,28,Organic Pantry,Food & Beverage,1,3.76,0.75,3.01
+TXN-f9ce33d0,61,Eaton-Smith Beverages Mix,Food & Beverage,3,69.99,0.0,209.97
+TXN-f9ce33d0,143,Premium Tablets Pro,Electronics,5,1587.61,1190.71,6747.34
+TXN-f9ce33d0,141,Monitored maximized Local Area Network,Books,3,37.33,0.0,111.99
+TXN-f9ce33d0,33,The During Author,Books,4,48.82,39.06,156.22
+TXN-f9ce33d0,104,Modern Decor Piece,Home & Garden,4,891.5,0.0,3566.0
+TXN-f9ce33d0,73,Smartphones X,Electronics,4,496.4,0.0,1985.6
+TXN-f9ce33d0,35,Hughes-Miller Beverages Mix,Food & Beverage,4,24.62,14.77,83.71
+TXN-3b0e45c8,152,Luxury Haircare,Beauty,5,57.43,57.43,229.72
+TXN-3b0e45c8,158,Modern Decor Piece,Home & Garden,5,1319.38,1319.38,5277.52
+TXN-3b0e45c8,86,Cameras Max,Electronics,4,183.42,36.68,697.0
+TXN-3b0e45c8,112,Pro Outdoor Gear,Sports,4,425.16,340.13,1360.51
+TXN-3b0e45c8,111,Modern Outdoor Set,Home & Garden,5,1304.78,0.0,6523.9
+TXN-c2b8bb80,112,Pro Outdoor Gear,Sports,3,425.16,63.77,1211.71
+TXN-c2b8bb80,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,2,45.33,18.13,72.53
+TXN-2fcdde8d,195,SeaShell Women Jacket,Clothing,1,233.26,11.66,221.6
+TXN-2fcdde8d,134,Modern Decor Set,Home & Garden,3,1454.99,0.0,4364.97
+TXN-2fcdde8d,28,Organic Pantry,Food & Beverage,4,3.76,0.0,15.04
+TXN-2fcdde8d,24,Smartphones Plus,Electronics,3,1189.15,713.49,2853.96
+TXN-2fcdde8d,160,PaleTurquoise Lighting,Home & Garden,3,809.55,0.0,2428.65
+TXN-2fcdde8d,171,The Hit Apply,Books,3,19.76,5.93,53.35
+TXN-87bf596e,14,Pro Fitness Kit,Sports,2,64.82,0.0,129.64
+TXN-87bf596e,62,Khaki Lighting,Home & Garden,2,566.15,169.84,962.46
+TXN-87bf596e,31,Premium Smartphones Pro,Electronics,4,1892.85,378.57,7192.83
+TXN-87bf596e,112,Pro Outdoor Gear,Sports,5,425.16,425.16,1700.64
+TXN-87bf596e,66,Pro Team Sports Equipment,Sports,2,100.34,30.1,170.58
+TXN-87bf596e,176,Apparel Champion,Sports,4,194.64,116.78,661.78
+TXN-87bf596e,99,SpringGreen Lighting,Home & Garden,4,640.31,128.06,2433.18
+TXN-87bf596e,94,Black Kitchen,Home & Garden,1,1126.27,0.0,1126.27
+TXN-87bf596e,196,Hopkins-Cook Tools Essentials,Beauty,3,35.27,0.0,105.81
+TXN-4e967866,31,Premium Smartphones Pro,Electronics,3,1892.85,283.93,5394.62
+TXN-4e967866,116,Equipment Champion,Sports,5,307.47,153.74,1383.61
+TXN-4e967866,71,The Writer Voice,Books,3,34.14,5.12,97.3
+TXN-4e967866,85,LightCoral Kitchen,Home & Garden,5,942.42,0.0,4712.1
+TXN-4e967866,147,CornflowerBlue Accessrories Shirt,Clothing,3,212.24,95.51,541.21
+TXN-4e967866,115,Pope-Hobbs Pantry Mix,Food & Beverage,4,60.83,0.0,243.32
+TXN-4e967866,181,Mayer and Sons Tools Essentials,Beauty,3,52.88,0.0,158.64
+TXN-4e967866,28,Organic Pantry,Food & Beverage,2,3.76,0.0,7.52
+TXN-4e967866,40,Outdoor Champion,Sports,2,311.6,0.0,623.2
+TXN-4e967866,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,1,46.94,7.04,39.9
+TXN-ae82f95a,178,MediumAquaMarine Lighting,Home & Garden,2,1401.88,420.56,2383.2
+TXN-ae82f95a,7,Jordan PLC Skincare Kit,Beauty,4,125.73,0.0,502.92
+TXN-ae82f95a,55,DarkOrchid Kids Dress,Clothing,5,45.81,45.81,183.24
+TXN-ae82f95a,67,Organic Pantry,Food & Beverage,5,95.07,47.53,427.82
+TXN-61d8026a,92,Luxury Fragrances,Beauty,2,168.24,0.0,336.48
+TXN-61d8026a,161,Multi-channeled attitude-oriented synergy,Books,2,42.14,0.0,84.28
+TXN-61d8026a,19,Organic Gourmet,Food & Beverage,1,81.33,12.2,69.13
+TXN-61d8026a,139,Designer Accessrories Style,Clothing,5,142.85,0.0,714.25
+TXN-61d8026a,129,Anderson and Sons Haircare Kit,Beauty,3,22.52,0.0,67.56
+TXN-a3431268,178,MediumAquaMarine Lighting,Home & Garden,4,1401.88,0.0,5607.52
+TXN-a3431268,17,Pro Fitness Gear,Sports,1,131.47,13.15,118.32
+TXN-a3431268,112,Pro Outdoor Gear,Sports,3,425.16,63.77,1211.71
+TXN-58af836a,112,Pro Outdoor Gear,Sports,3,425.16,255.1,1020.38
+TXN-245bd4e7,93,Smith-Cooper Makeup Collection,Beauty,1,129.37,12.94,116.43
+TXN-245bd4e7,71,The Writer Voice,Books,1,34.14,0.0,34.14
+TXN-245bd4e7,109,Barber-Benitez Skincare Essentials,Beauty,2,69.38,27.75,111.01
+TXN-245bd4e7,96,Miller Group Pantry Mix,Food & Beverage,5,38.48,0.0,192.4
+TXN-245bd4e7,114,Luxury Skincare,Beauty,1,27.43,0.0,27.43
+TXN-245bd4e7,111,Modern Outdoor Set,Home & Garden,1,1304.78,130.48,1174.3
+TXN-245bd4e7,172,The Painting Material,Books,4,27.04,10.82,97.34
+TXN-245bd4e7,28,Organic Pantry,Food & Beverage,5,3.76,3.76,15.04
+TXN-eeb5b629,167,"Smith, Hood and Charles Smartphones",Electronics,4,598.64,0.0,2394.56
+TXN-eeb5b629,109,Barber-Benitez Skincare Essentials,Beauty,5,69.38,17.34,329.56
+TXN-eeb5b629,124,The Ahead Save,Books,3,19.54,5.86,52.76
+TXN-eeb5b629,163,Designer Accessrories Style,Clothing,5,133.45,0.0,667.25
+TXN-eeb5b629,9,Equipment Champion,Sports,5,443.49,332.62,1884.83
+TXN-eeb5b629,192,Designer Women Line,Clothing,1,108.51,21.7,86.81
+TXN-eeb5b629,186,Tablets Plus,Electronics,2,1592.0,477.6,2706.4
+TXN-eeb5b629,147,CornflowerBlue Accessrories Shirt,Clothing,2,212.24,0.0,424.48
+TXN-c3a3e368,42,Organic Beverages,Food & Beverage,1,68.26,0.0,68.26
+TXN-c3a3e368,49,LavenderBlush Kitchen,Home & Garden,1,1135.14,56.76,1078.38
+TXN-c3a3e368,60,SandyBrown Kitchen,Home & Garden,4,523.7,314.22,1780.58
+TXN-c3a3e368,41,Outdoor Champion,Sports,5,260.48,65.12,1237.28
+TXN-c3a3e368,22,Moody-Taylor Beverages Mix,Food & Beverage,3,19.13,0.0,57.39
+TXN-c3a3e368,85,LightCoral Kitchen,Home & Garden,2,942.42,0.0,1884.84
+TXN-c3a3e368,120,Roberts Group Fragrances Collection,Beauty,3,65.01,29.25,165.78
+TXN-c3a3e368,176,Apparel Champion,Sports,4,194.64,0.0,778.56
+TXN-c3a3e368,40,Outdoor Champion,Sports,2,311.6,0.0,623.2
+TXN-b7a3c21b,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,4,34.99,0.0,139.96
+TXN-b7a3c21b,115,Pope-Hobbs Pantry Mix,Food & Beverage,5,60.83,0.0,304.15
+TXN-b7a3c21b,141,Monitored maximized Local Area Network,Books,2,37.33,0.0,74.66
+TXN-b7a3c21b,36,Allen-Hopkins Pantry Mix,Food & Beverage,2,35.12,0.0,70.24
+TXN-e5600b9a,106,Taylor and Sons Smartphones,Electronics,3,1997.24,299.59,5692.13
+TXN-e5600b9a,200,Pearson Group Tools Kit,Beauty,1,70.59,3.53,67.06
+TXN-e5600b9a,66,Pro Team Sports Equipment,Sports,3,100.34,45.15,255.87
+TXN-e5600b9a,134,Modern Decor Set,Home & Garden,4,1454.99,0.0,5819.96
+TXN-e5600b9a,194,Farley-Ford Laptops,Electronics,5,1177.71,588.86,5299.69
+TXN-e5600b9a,33,The During Author,Books,4,48.82,9.76,185.52
+TXN-e5600b9a,5,Modern Lighting Piece,Home & Garden,1,1330.47,133.05,1197.42
+TXN-e5600b9a,114,Luxury Skincare,Beauty,1,27.43,1.37,26.06
+TXN-e5600b9a,182,The Hot Prepare,Books,3,23.31,6.99,62.94
+TXN-e5600b9a,101,Modern Decor Set,Home & Garden,3,1452.95,0.0,4358.85
+TXN-9a943ef2,144,Designer Accessrories Collection,Clothing,5,294.53,0.0,1472.65
+TXN-9a943ef2,12,The Among Visit,Books,3,39.59,11.88,106.89
+TXN-9a943ef2,184,Luxury Haircare,Beauty,1,176.58,35.32,141.26
+TXN-9a943ef2,195,SeaShell Women Jacket,Clothing,2,233.26,23.33,443.19
+TXN-9a943ef2,191,Bell PLC Tools Essentials,Beauty,5,175.9,131.92,747.58
+TXN-9a943ef2,65,Designer Kids Line,Clothing,4,27.97,0.0,111.88
+TXN-9a943ef2,186,Tablets Plus,Electronics,2,1592.0,318.4,2865.6
+TXN-9a943ef2,108,Luxury Skincare,Beauty,4,172.03,103.22,584.9
+TXN-9a943ef2,20,Gilbert PLC Skincare Collection,Beauty,4,21.52,0.0,86.08
+TXN-9a943ef2,97,Reyes Ltd Organic Mix,Food & Beverage,4,13.51,0.0,54.04
+TXN-46347e34,85,LightCoral Kitchen,Home & Garden,3,942.42,141.36,2685.9
+TXN-46347e34,11,Pro Apparel Kit,Sports,4,41.13,0.0,164.52
+TXN-46347e34,134,Modern Decor Set,Home & Garden,4,1454.99,1163.99,4655.97
+TXN-bf68a64e,85,LightCoral Kitchen,Home & Garden,3,942.42,0.0,2827.26
+TXN-bf68a64e,117,Gold Furniture,Home & Garden,4,346.37,277.1,1108.38
+TXN-bf68a64e,103,LightGray Shoes Pants,Clothing,5,15.81,15.81,63.24
+TXN-bf68a64e,197,Organic Snacks,Food & Beverage,1,97.91,14.69,83.22
+TXN-bf68a64e,1,Johnson-Davis Skincare Kit,Beauty,5,14.75,3.69,70.06
+TXN-83a77eb4,114,Luxury Skincare,Beauty,4,27.43,16.46,93.26
+TXN-83a77eb4,69,Designer Women Line,Clothing,4,90.42,72.34,289.34
+TXN-83a77eb4,91,Persevering background artificial intelligence,Books,1,30.87,0.0,30.87
+TXN-83a77eb4,53,Modern Decor Set,Home & Garden,3,982.21,294.66,2651.97
+TXN-83a77eb4,25,Torres and Sons Beverages Mix,Food & Beverage,2,42.17,0.0,84.34
+TXN-83a77eb4,197,Organic Snacks,Food & Beverage,4,97.91,58.75,332.89
+TXN-83a77eb4,109,Barber-Benitez Skincare Essentials,Beauty,4,69.38,0.0,277.52
+TXN-83a77eb4,142,Crimson Furniture,Home & Garden,1,1431.04,214.66,1216.38
+TXN-83a77eb4,176,Apparel Champion,Sports,5,194.64,194.64,778.56
+TXN-83a77eb4,15,Lawson LLC Snacks Mix,Food & Beverage,2,97.86,29.36,166.36
+TXN-551e04f7,124,The Ahead Save,Books,1,19.54,0.0,19.54
+TXN-551e04f7,9,Equipment Champion,Sports,1,443.49,22.17,421.32
+TXN-551e04f7,83,Hunt-Harrison Gourmet Mix,Food & Beverage,1,40.45,6.07,34.38
+TXN-551e04f7,6,Brennan-Garrison Snacks Mix,Food & Beverage,2,39.87,3.99,75.75
+TXN-551e04f7,60,SandyBrown Kitchen,Home & Garden,3,523.7,157.11,1413.99
+TXN-551e04f7,42,Organic Beverages,Food & Beverage,3,68.26,10.24,194.54
+TXN-551e04f7,185,Designer Shoes Collection,Clothing,4,148.39,29.68,563.88
+TXN-32b6ec05,108,Luxury Skincare,Beauty,5,172.03,86.02,774.13
+TXN-32b6ec05,26,DarkTurquoise Kids Dress,Clothing,2,83.03,33.21,132.85
+TXN-32b6ec05,131,DarkCyan Decor,Home & Garden,1,1011.77,0.0,1011.77
+TXN-32b6ec05,162,Adams-Lewis Tools Collection,Beauty,4,65.04,0.0,260.16
+TXN-ab8541f6,51,Outdoor Champion,Sports,5,434.76,217.38,1956.42
+TXN-ab8541f6,74,CadetBlue Decor,Home & Garden,4,1495.48,1196.38,4785.54
+TXN-ab8541f6,5,Modern Lighting Piece,Home & Garden,2,1330.47,133.05,2527.89
+TXN-ab8541f6,164,MediumSlateBlue Kids Dress,Clothing,5,161.77,40.44,768.41
+TXN-ab8541f6,179,Team Sports Champion,Sports,3,477.76,0.0,1433.28
+TXN-99aa36c0,33,The During Author,Books,2,48.82,14.65,82.99
+TXN-99aa36c0,16,The Challenge Answer,Books,2,48.4,9.68,87.12
+TXN-99aa36c0,141,Monitored maximized Local Area Network,Books,4,37.33,0.0,149.32
+TXN-99aa36c0,19,Organic Gourmet,Food & Beverage,4,81.33,0.0,325.32
+TXN-99aa36c0,57,"King, Oliver and Norman Haircare Collection",Beauty,3,12.4,5.58,31.62
+TXN-99aa36c0,142,Crimson Furniture,Home & Garden,4,1431.04,858.62,4865.54
+TXN-4f81a400,199,Luxury Skincare,Beauty,4,56.5,0.0,226.0
+TXN-4f81a400,71,The Writer Voice,Books,2,34.14,6.83,61.45
+TXN-4f81a400,185,Designer Shoes Collection,Clothing,5,148.39,0.0,741.95
+TXN-4028cb0e,129,Anderson and Sons Haircare Kit,Beauty,4,22.52,0.0,90.08
+TXN-4028cb0e,1,Johnson-Davis Skincare Kit,Beauty,2,14.75,1.48,28.02
+TXN-4028cb0e,16,The Challenge Answer,Books,2,48.4,0.0,96.8
+TXN-4028cb0e,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,4,85.48,68.38,273.54
+TXN-4028cb0e,38,Jackson-Ellis Pantry Mix,Food & Beverage,3,69.63,0.0,208.89
+TXN-4028cb0e,197,Organic Snacks,Food & Beverage,5,97.91,73.43,416.12
+TXN-4028cb0e,175,Designer Accessrories Line,Clothing,4,158.02,94.81,537.27
+TXN-4028cb0e,183,"Garza, Black and Huerta Snacks Mix",Food & Beverage,1,66.27,13.25,53.02
+TXN-4028cb0e,171,The Hit Apply,Books,3,19.76,11.86,47.42
+TXN-cd4a03ea,168,Luxury Haircare,Beauty,4,155.13,124.1,496.42
+TXN-cd4a03ea,160,PaleTurquoise Lighting,Home & Garden,5,809.55,0.0,4047.75
+TXN-cd4a03ea,69,Designer Women Line,Clothing,5,90.42,0.0,452.1
+TXN-cd4a03ea,144,Designer Accessrories Collection,Clothing,2,294.53,88.36,500.7
+TXN-cd4a03ea,73,Smartphones X,Electronics,3,496.4,0.0,1489.2
+TXN-cd4a03ea,171,The Hit Apply,Books,1,19.76,0.99,18.77
+TXN-f61e11f6,63,LightGoldenRodYellow Decor,Home & Garden,4,198.57,0.0,794.28
+TXN-f61e11f6,187,Fitness Champion,Sports,3,100.54,0.0,301.62
+TXN-2d939eb9,27,Designer Shoes Style,Clothing,3,90.58,13.59,258.15
+TXN-2d939eb9,197,Organic Snacks,Food & Beverage,2,97.91,0.0,195.82
+TXN-2d939eb9,167,"Smith, Hood and Charles Smartphones",Electronics,5,598.64,149.66,2843.54
+TXN-2d939eb9,72,Team Sports Champion,Sports,5,352.87,264.65,1499.7
+TXN-2d939eb9,10,Pro Apparel Gear,Sports,2,205.71,0.0,411.42
+TXN-2d939eb9,3,The Soon No,Books,2,41.42,0.0,82.84
+TXN-c2b36c0d,12,The Among Visit,Books,4,39.59,15.84,142.52
+TXN-c2b36c0d,127,Proactive explicit strategy,Books,2,48.1,0.0,96.2
+TXN-c2b36c0d,129,Anderson and Sons Haircare Kit,Beauty,4,22.52,13.51,76.57
+TXN-c2b36c0d,51,Outdoor Champion,Sports,3,434.76,65.21,1239.07
+TXN-4e3248e8,62,Khaki Lighting,Home & Garden,3,566.15,254.77,1443.68
+TXN-4e3248e8,98,Modern Outdoor Set,Home & Garden,5,192.68,0.0,963.4
+TXN-4e3248e8,86,Cameras Max,Electronics,1,183.42,9.17,174.25
+TXN-4e3248e8,111,Modern Outdoor Set,Home & Garden,3,1304.78,391.43,3522.91
+TXN-4e3248e8,74,CadetBlue Decor,Home & Garden,3,1495.48,672.97,3813.47
+TXN-4e3248e8,197,Organic Snacks,Food & Beverage,4,97.91,58.75,332.89
+TXN-4e3248e8,66,Pro Team Sports Equipment,Sports,3,100.34,15.05,285.97
+TXN-4e3248e8,176,Apparel Champion,Sports,3,194.64,0.0,583.92
+TXN-25b98172,115,Pope-Hobbs Pantry Mix,Food & Beverage,5,60.83,0.0,304.15
+TXN-25b98172,35,Hughes-Miller Beverages Mix,Food & Beverage,5,24.62,0.0,123.1
+TXN-25b98172,29,The Minute Visit,Books,3,37.29,0.0,111.87
+TXN-25b98172,18,Tablets Ultra,Electronics,4,188.17,0.0,752.68
+TXN-25b98172,194,Farley-Ford Laptops,Electronics,1,1177.71,117.77,1059.94
+TXN-25b98172,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,1,46.94,4.69,42.25
+TXN-25b98172,125,Advanced analyzing flexibility,Books,4,20.84,16.67,66.69
+TXN-7d6529b1,57,"King, Oliver and Norman Haircare Collection",Beauty,2,12.4,3.72,21.08
+TXN-7d6529b1,187,Fitness Champion,Sports,2,100.54,20.11,180.97
+TXN-7d6529b1,18,Tablets Ultra,Electronics,3,188.17,84.68,479.83
+TXN-7d6529b1,114,Luxury Skincare,Beauty,2,27.43,8.23,46.63
+TXN-7d6529b1,168,Luxury Haircare,Beauty,1,155.13,23.27,131.86
+TXN-7d6529b1,10,Pro Apparel Gear,Sports,1,205.71,0.0,205.71
+TXN-ed0e0795,72,Team Sports Champion,Sports,1,352.87,0.0,352.87
+TXN-ed0e0795,127,Proactive explicit strategy,Books,3,48.1,21.64,122.66
+TXN-ed0e0795,17,Pro Fitness Gear,Sports,4,131.47,0.0,525.88
+TXN-d906b58c,138,Premium Tablets Pro,Electronics,5,487.85,243.93,2195.32
+TXN-d906b58c,81,PaleGreen Lighting,Home & Garden,3,878.29,526.97,2107.9
+TXN-d906b58c,104,Modern Decor Piece,Home & Garden,2,891.5,0.0,1783.0
+TXN-d906b58c,127,Proactive explicit strategy,Books,4,48.1,38.48,153.92
+TXN-d906b58c,148,Crimson Furniture,Home & Garden,3,138.5,62.32,353.18
+TXN-d906b58c,192,Designer Women Line,Clothing,3,108.51,65.11,260.42
+TXN-4c8359a0,30,Premium Smartphones Pro,Electronics,4,700.44,560.35,2241.41
+TXN-4c8359a0,156,Fitness Champion,Sports,5,186.84,0.0,934.2
+TXN-4c8359a0,92,Luxury Fragrances,Beauty,1,168.24,33.65,134.59
+TXN-4c8359a0,24,Smartphones Plus,Electronics,4,1189.15,0.0,4756.6
+TXN-cc6a5c20,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,5,85.48,21.37,406.03
+TXN-cc6a5c20,121,Premium Laptops Pro,Electronics,3,899.57,0.0,2698.71
+TXN-cc6a5c20,182,The Hot Prepare,Books,2,23.31,2.33,44.29
+TXN-cc6a5c20,66,Pro Team Sports Equipment,Sports,1,100.34,10.03,90.31
+TXN-cc6a5c20,99,SpringGreen Lighting,Home & Garden,5,640.31,0.0,3201.55
+TXN-faac806b,77,Pro Equipment Equipment,Sports,3,382.4,172.08,975.12
+TXN-faac806b,173,Potter LLC Snacks Mix,Food & Beverage,4,60.9,0.0,243.6
+TXN-faac806b,76,Premium Accessories Pro,Electronics,2,1736.58,0.0,3473.16
+TXN-faac806b,166,Upgradable interactive data-warehouse,Books,1,27.44,0.0,27.44
+TXN-faac806b,112,Pro Outdoor Gear,Sports,4,425.16,0.0,1700.64
+TXN-faac806b,3,The Soon No,Books,1,41.42,0.0,41.42
+TXN-faac806b,26,DarkTurquoise Kids Dress,Clothing,5,83.03,0.0,415.15
+TXN-faac806b,122,Ellis Inc Cameras,Electronics,4,1284.79,256.96,4882.2
+TXN-dae6277d,167,"Smith, Hood and Charles Smartphones",Electronics,4,598.64,239.46,2155.1
+TXN-dae6277d,51,Outdoor Champion,Sports,2,434.76,43.48,826.04
+TXN-dae6277d,24,Smartphones Plus,Electronics,1,1189.15,237.83,951.32
+TXN-dae6277d,59,Organic Snacks,Food & Beverage,4,30.06,12.02,108.22
+TXN-dae6277d,79,White Accessrories Dress,Clothing,4,280.81,0.0,1123.24
+TXN-dae6277d,142,Crimson Furniture,Home & Garden,1,1431.04,214.66,1216.38
+TXN-dae6277d,175,Designer Accessrories Line,Clothing,3,158.02,0.0,474.06
+TXN-dae6277d,101,Modern Decor Set,Home & Garden,4,1452.95,290.59,5521.21
+TXN-dae6277d,159,Designer Kids Style,Clothing,2,281.4,112.56,450.24
+TXN-d5ddb835,108,Luxury Skincare,Beauty,3,172.03,0.0,516.09
+TXN-d5ddb835,119,Weeks and Sons Organic Mix,Food & Beverage,4,9.99,0.0,39.96
+TXN-d5ddb835,64,Organic Pantry,Food & Beverage,2,60.89,0.0,121.78
+TXN-d5ddb835,170,Designer Shoes Collection,Clothing,4,160.1,0.0,640.4
+TXN-d5ddb835,8,Mccarthy Inc Snacks Mix,Food & Beverage,2,25.22,7.57,42.87
+TXN-d5ddb835,150,Luxury Makeup,Beauty,5,191.03,0.0,955.15
+TXN-d5ddb835,188,Modern Kitchen Set,Home & Garden,1,882.04,176.41,705.63
+TXN-d5ddb835,113,Luxury Haircare,Beauty,3,15.5,0.0,46.5
+TXN-d5ddb835,200,Pearson Group Tools Kit,Beauty,2,70.59,28.24,112.94
+TXN-5a7c4a0e,168,Luxury Haircare,Beauty,2,155.13,31.03,279.23
+TXN-5a7c4a0e,122,Ellis Inc Cameras,Electronics,2,1284.79,513.92,2055.66
+TXN-5a7c4a0e,154,Fitness Champion,Sports,2,407.15,0.0,814.3
+TXN-5a7c4a0e,14,Pro Fitness Kit,Sports,2,64.82,25.93,103.71
+TXN-5a7c4a0e,177,Designer Women Line,Clothing,5,94.52,0.0,472.6
+TXN-5a7c4a0e,106,Taylor and Sons Smartphones,Electronics,3,1997.24,1198.34,4793.38
+TXN-5a7c4a0e,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,2,45.33,0.0,90.66
+TXN-5a7c4a0e,147,CornflowerBlue Accessrories Shirt,Clothing,5,212.24,0.0,1061.2
+TXN-5a7c4a0e,105,Equipment Champion,Sports,2,391.23,0.0,782.46
+TXN-405b5581,194,Farley-Ford Laptops,Electronics,2,1177.71,235.54,2119.88
+TXN-405b5581,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,3,85.48,0.0,256.44
+TXN-405b5581,193,Outdoor Champion,Sports,2,261.49,0.0,522.98
+TXN-405b5581,143,Premium Tablets Pro,Electronics,1,1587.61,0.0,1587.61
+TXN-405b5581,6,Brennan-Garrison Snacks Mix,Food & Beverage,4,39.87,15.95,143.53
+TXN-405b5581,98,Modern Outdoor Set,Home & Garden,1,192.68,28.9,163.78
+TXN-ba8a2809,108,Luxury Skincare,Beauty,5,172.03,0.0,860.15
+TXN-ba8a2809,24,Smartphones Plus,Electronics,4,1189.15,475.66,4280.94
+TXN-ba8a2809,2,Premium Smartphones Pro,Electronics,2,232.71,46.54,418.88
+TXN-ba8a2809,13,Organic Beverages,Food & Beverage,1,52.25,7.84,44.41
+TXN-ba8a2809,31,Premium Smartphones Pro,Electronics,5,1892.85,0.0,9464.25
+TXN-ba8a2809,25,Torres and Sons Beverages Mix,Food & Beverage,4,42.17,25.3,143.38
+TXN-ba8a2809,199,Luxury Skincare,Beauty,1,56.5,0.0,56.5
+TXN-ba8a2809,189,Gainsboro Accessrories Shirt,Clothing,4,210.53,168.42,673.7
+TXN-ba8a2809,184,Luxury Haircare,Beauty,4,176.58,35.32,671.0
+TXN-73557b05,7,Jordan PLC Skincare Kit,Beauty,1,125.73,0.0,125.73
+TXN-73557b05,194,Farley-Ford Laptops,Electronics,3,1177.71,353.31,3179.82
+TXN-73557b05,60,SandyBrown Kitchen,Home & Garden,2,523.7,0.0,1047.4
+TXN-73557b05,49,LavenderBlush Kitchen,Home & Garden,2,1135.14,0.0,2270.28
+TXN-73557b05,99,SpringGreen Lighting,Home & Garden,5,640.31,480.23,2721.32
+TXN-73557b05,25,Torres and Sons Beverages Mix,Food & Beverage,5,42.17,21.09,189.76
+TXN-73557b05,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,3,34.99,5.25,99.72
+TXN-73557b05,71,The Writer Voice,Books,5,34.14,17.07,153.63
+TXN-34fd3b09,28,Organic Pantry,Food & Beverage,1,3.76,0.75,3.01
+TXN-34fd3b09,157,Luxury Fragrances,Beauty,5,109.88,82.41,466.99
+TXN-73069dab,10,Pro Apparel Gear,Sports,3,205.71,123.43,493.7
+TXN-73069dab,167,"Smith, Hood and Charles Smartphones",Electronics,4,598.64,119.73,2274.83
+TXN-73069dab,171,The Hit Apply,Books,4,19.76,11.86,67.18
+TXN-73069dab,101,Modern Decor Set,Home & Garden,1,1452.95,0.0,1452.95
+TXN-73069dab,80,Digitized tertiary website,Books,4,38.58,0.0,154.32
+TXN-73069dab,188,Modern Kitchen Set,Home & Garden,3,882.04,0.0,2646.12
+TXN-73069dab,70,Monitored fresh-thinking superstructure,Books,2,18.11,5.43,30.79
+TXN-8a736ef6,33,The During Author,Books,4,48.82,0.0,195.28
+TXN-8a736ef6,2,Premium Smartphones Pro,Electronics,3,232.71,139.63,558.5
+TXN-ac914536,57,"King, Oliver and Norman Haircare Collection",Beauty,5,12.4,0.0,62.0
+TXN-ac914536,112,Pro Outdoor Gear,Sports,1,425.16,21.26,403.9
+TXN-ac914536,62,Khaki Lighting,Home & Garden,3,566.15,339.69,1358.76
+TXN-ac914536,149,Tablets X,Electronics,4,1248.96,999.17,3996.67
+TXN-ac914536,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,1,34.99,0.0,34.99
+TXN-ac914536,111,Modern Outdoor Set,Home & Garden,5,1304.78,0.0,6523.9
+TXN-ac914536,101,Modern Decor Set,Home & Garden,3,1452.95,0.0,4358.85
+TXN-ac914536,8,Mccarthy Inc Snacks Mix,Food & Beverage,5,25.22,12.61,113.49
+TXN-ac914536,34,Outdoor Champion,Sports,2,140.73,0.0,281.46
+TXN-5aeb0cc2,128,Pro Apparel Equipment,Sports,5,266.15,0.0,1330.75
+TXN-5aeb0cc2,104,Modern Decor Piece,Home & Garden,1,891.5,178.3,713.2
+TXN-5aeb0cc2,90,Modern Lighting Set,Home & Garden,3,462.75,138.83,1249.42
+TXN-5aeb0cc2,156,Fitness Champion,Sports,2,186.84,74.74,298.94
+TXN-5aeb0cc2,60,SandyBrown Kitchen,Home & Garden,4,523.7,418.96,1675.84
+TXN-5aeb0cc2,65,Designer Kids Line,Clothing,5,27.97,27.97,111.88
+TXN-6fbc5919,22,Moody-Taylor Beverages Mix,Food & Beverage,5,19.13,14.35,81.3
+TXN-5b087c76,192,Designer Women Line,Clothing,3,108.51,0.0,325.53
+TXN-5b087c76,153,Hill-Holden Fragrances Collection,Beauty,1,50.77,0.0,50.77
+TXN-5b087c76,26,DarkTurquoise Kids Dress,Clothing,2,83.03,16.61,149.45
+TXN-5b087c76,27,Designer Shoes Style,Clothing,4,90.58,0.0,362.32
+TXN-5b087c76,91,Persevering background artificial intelligence,Books,2,30.87,9.26,52.48
+TXN-8d8ac9c3,77,Pro Equipment Equipment,Sports,2,382.4,38.24,726.56
+TXN-8d8ac9c3,193,Outdoor Champion,Sports,4,261.49,52.3,993.66
+TXN-8d8ac9c3,135,The Reveal No,Books,3,25.78,0.0,77.34
+TXN-8d8ac9c3,106,Taylor and Sons Smartphones,Electronics,3,1997.24,0.0,5991.72
+TXN-8d8ac9c3,30,Premium Smartphones Pro,Electronics,3,700.44,420.26,1681.06
+TXN-8d8ac9c3,144,Designer Accessrories Collection,Clothing,5,294.53,147.26,1325.39
+TXN-8d8ac9c3,110,Accessories Plus,Electronics,1,238.3,0.0,238.3
+TXN-8d8ac9c3,1,Johnson-Davis Skincare Kit,Beauty,2,14.75,0.0,29.5
+TXN-8d8ac9c3,26,DarkTurquoise Kids Dress,Clothing,5,83.03,0.0,415.15
+TXN-df4d5f8c,71,The Writer Voice,Books,4,34.14,13.66,122.9
+TXN-df4d5f8c,47,Modern Kitchen Piece,Home & Garden,4,1341.68,268.34,5098.38
+TXN-df4d5f8c,92,Luxury Fragrances,Beauty,3,168.24,0.0,504.72
+TXN-df4d5f8c,95,Team Sports Champion,Sports,5,375.81,0.0,1879.05
+TXN-df4d5f8c,148,Crimson Furniture,Home & Garden,3,138.5,20.78,394.72
+TXN-df4d5f8c,106,Taylor and Sons Smartphones,Electronics,1,1997.24,0.0,1997.24
+TXN-df4d5f8c,6,Brennan-Garrison Snacks Mix,Food & Beverage,5,39.87,9.97,189.38
+TXN-9939e54f,158,Modern Decor Piece,Home & Garden,5,1319.38,0.0,6596.9
+TXN-9939e54f,113,Luxury Haircare,Beauty,1,15.5,0.0,15.5
+TXN-9939e54f,125,Advanced analyzing flexibility,Books,3,20.84,0.0,62.52
+TXN-9939e54f,31,Premium Smartphones Pro,Electronics,2,1892.85,757.14,3028.56
+TXN-9939e54f,16,The Challenge Answer,Books,3,48.4,0.0,145.2
+TXN-9939e54f,40,Outdoor Champion,Sports,3,311.6,0.0,934.8
+TXN-9939e54f,118,Smartphones Plus,Electronics,1,1019.9,51.0,968.9
+TXN-2c2605ee,152,Luxury Haircare,Beauty,5,57.43,28.71,258.44
+TXN-2c2605ee,181,Mayer and Sons Tools Essentials,Beauty,3,52.88,0.0,158.64
+TXN-2c2605ee,33,The During Author,Books,4,48.82,39.06,156.22
+TXN-2c2605ee,77,Pro Equipment Equipment,Sports,1,382.4,19.12,363.28
+TXN-ec485747,90,Modern Lighting Set,Home & Garden,5,462.75,115.69,2198.06
+TXN-ec485747,3,The Soon No,Books,5,41.42,10.36,196.74
+TXN-ec485747,47,Modern Kitchen Piece,Home & Garden,4,1341.68,0.0,5366.72
+TXN-ec485747,34,Outdoor Champion,Sports,1,140.73,7.04,133.69
+TXN-ec485747,41,Outdoor Champion,Sports,1,260.48,0.0,260.48
+TXN-ec485747,195,SeaShell Women Jacket,Clothing,2,233.26,93.3,373.22
+TXN-e0059898,130,The Term Class,Books,1,46.25,2.31,43.94
+TXN-e0059898,17,Pro Fitness Gear,Sports,1,131.47,0.0,131.47
+TXN-e0059898,170,Designer Shoes Collection,Clothing,4,160.1,64.04,576.36
+TXN-e0059898,67,Organic Pantry,Food & Beverage,4,95.07,38.03,342.25
+TXN-e0059898,60,SandyBrown Kitchen,Home & Garden,1,523.7,26.19,497.51
+TXN-e0059898,164,MediumSlateBlue Kids Dress,Clothing,3,161.77,72.8,412.51
+TXN-6f800ebd,49,LavenderBlush Kitchen,Home & Garden,5,1135.14,851.36,4824.34
+TXN-6f800ebd,123,GreenYellow Decor,Home & Garden,1,276.78,27.68,249.1
+TXN-3733e967,50,Modern Outdoor Piece,Home & Garden,2,1091.79,0.0,2183.58
+TXN-3733e967,103,LightGray Shoes Pants,Clothing,1,15.81,0.0,15.81
+TXN-3733e967,10,Pro Apparel Gear,Sports,3,205.71,0.0,617.13
+TXN-3733e967,106,Taylor and Sons Smartphones,Electronics,2,1997.24,399.45,3595.03
+TXN-3733e967,42,Organic Beverages,Food & Beverage,2,68.26,27.3,109.22
+TXN-3733e967,115,Pope-Hobbs Pantry Mix,Food & Beverage,1,60.83,0.0,60.83
+TXN-108a54e6,79,White Accessrories Dress,Clothing,4,280.81,168.49,954.75
+TXN-108a54e6,24,Smartphones Plus,Electronics,5,1189.15,891.86,5053.89
+TXN-108a54e6,94,Black Kitchen,Home & Garden,5,1126.27,0.0,5631.35
+TXN-108a54e6,115,Pope-Hobbs Pantry Mix,Food & Beverage,3,60.83,0.0,182.49
+TXN-108a54e6,7,Jordan PLC Skincare Kit,Beauty,4,125.73,0.0,502.92
+TXN-108a54e6,146,Gibbs-Howard Snacks Mix,Food & Beverage,4,86.98,17.4,330.52
+TXN-108a54e6,51,Outdoor Champion,Sports,3,434.76,260.86,1043.42
+TXN-108a54e6,42,Organic Beverages,Food & Beverage,3,68.26,20.48,184.3
+TXN-108a54e6,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,1,85.48,0.0,85.48
+TXN-108a54e6,154,Fitness Champion,Sports,5,407.15,0.0,2035.75
+TXN-bd72c95e,15,Lawson LLC Snacks Mix,Food & Beverage,3,97.86,0.0,293.58
+TXN-bd72c95e,111,Modern Outdoor Set,Home & Garden,1,1304.78,130.48,1174.3
+TXN-bd72c95e,199,Luxury Skincare,Beauty,5,56.5,28.25,254.25
+TXN-bd72c95e,184,Luxury Haircare,Beauty,4,176.58,35.32,671.0
+TXN-bd72c95e,81,PaleGreen Lighting,Home & Garden,5,878.29,439.14,3952.31
+TXN-bd72c95e,71,The Writer Voice,Books,1,34.14,1.71,32.43
+TXN-84d4191a,62,Khaki Lighting,Home & Garden,5,566.15,0.0,2830.75
+TXN-84d4191a,102,Modern Decor Set,Home & Garden,1,1483.45,74.17,1409.28
+TXN-84d4191a,195,SeaShell Women Jacket,Clothing,1,233.26,46.65,186.61
+TXN-84d4191a,93,Smith-Cooper Makeup Collection,Beauty,3,129.37,58.22,329.89
+TXN-84d4191a,36,Allen-Hopkins Pantry Mix,Food & Beverage,1,35.12,3.51,31.61
+TXN-84d4191a,90,Modern Lighting Set,Home & Garden,2,462.75,0.0,925.5
+TXN-84d4191a,31,Premium Smartphones Pro,Electronics,2,1892.85,567.85,3217.85
+TXN-84d4191a,53,Modern Decor Set,Home & Garden,4,982.21,196.44,3732.4
+TXN-359e6d55,54,Pro Fitness Kit,Sports,3,286.35,42.95,816.1
+TXN-359e6d55,55,DarkOrchid Kids Dress,Clothing,4,45.81,36.65,146.59
+TXN-359e6d55,196,Hopkins-Cook Tools Essentials,Beauty,3,35.27,15.87,89.94
+TXN-359e6d55,94,Black Kitchen,Home & Garden,5,1126.27,0.0,5631.35
+TXN-359e6d55,61,Eaton-Smith Beverages Mix,Food & Beverage,3,69.99,0.0,209.97
+TXN-359e6d55,33,The During Author,Books,3,48.82,0.0,146.46
+TXN-aa373ca0,51,Outdoor Champion,Sports,2,434.76,0.0,869.52
+TXN-aa373ca0,16,The Challenge Answer,Books,1,48.4,4.84,43.56
+TXN-aa373ca0,157,Luxury Fragrances,Beauty,2,109.88,0.0,219.76
+TXN-aa373ca0,127,Proactive explicit strategy,Books,3,48.1,21.64,122.66
+TXN-aa373ca0,176,Apparel Champion,Sports,4,194.64,0.0,778.56
+TXN-aa373ca0,131,DarkCyan Decor,Home & Garden,5,1011.77,758.83,4300.02
+TXN-aa373ca0,72,Team Sports Champion,Sports,1,352.87,0.0,352.87
+TXN-aa373ca0,200,Pearson Group Tools Kit,Beauty,5,70.59,17.65,335.3
+TXN-aa373ca0,13,Organic Beverages,Food & Beverage,3,52.25,31.35,125.4
+TXN-aa373ca0,94,Black Kitchen,Home & Garden,2,1126.27,337.88,1914.66
+TXN-24772ca7,190,FireBrick Accessrories Dress,Clothing,1,58.66,8.8,49.86
+TXN-24772ca7,90,Modern Lighting Set,Home & Garden,4,462.75,185.1,1665.9
+TXN-24772ca7,73,Smartphones X,Electronics,3,496.4,0.0,1489.2
+TXN-24772ca7,118,Smartphones Plus,Electronics,3,1019.9,0.0,3059.7
+TXN-24772ca7,139,Designer Accessrories Style,Clothing,2,142.85,0.0,285.7
+TXN-24772ca7,45,Luxury Tools,Beauty,3,197.7,118.62,474.48
+TXN-24772ca7,52,Pro Team Sports Kit,Sports,4,378.48,0.0,1513.92
+TXN-24772ca7,19,Organic Gourmet,Food & Beverage,2,81.33,0.0,162.66
+TXN-24772ca7,169,The Various Picture,Books,2,39.4,0.0,78.8
+TXN-cb003039,12,The Among Visit,Books,5,39.59,0.0,197.95
+TXN-cb003039,85,LightCoral Kitchen,Home & Garden,3,942.42,565.45,2261.81
+TXN-cb003039,50,Modern Outdoor Piece,Home & Garden,5,1091.79,0.0,5458.95
+TXN-cb003039,129,Anderson and Sons Haircare Kit,Beauty,5,22.52,5.63,106.97
+TXN-cb003039,172,The Painting Material,Books,2,27.04,0.0,54.08
+TXN-cb003039,96,Miller Group Pantry Mix,Food & Beverage,2,38.48,15.39,61.57
+TXN-cb003039,163,Designer Accessrories Style,Clothing,5,133.45,133.45,533.8
+TXN-cb003039,14,Pro Fitness Kit,Sports,2,64.82,19.45,110.19
+TXN-cb003039,150,Luxury Makeup,Beauty,4,191.03,0.0,764.12
+TXN-6ffe8c88,21,Modern Outdoor Piece,Home & Garden,5,389.71,0.0,1948.55
+TXN-6ffe8c88,76,Premium Accessories Pro,Electronics,4,1736.58,0.0,6946.32
+TXN-6ffe8c88,195,SeaShell Women Jacket,Clothing,5,233.26,0.0,1166.3
+TXN-6ffe8c88,10,Pro Apparel Gear,Sports,3,205.71,123.43,493.7
+TXN-6ffe8c88,93,Smith-Cooper Makeup Collection,Beauty,4,129.37,103.5,413.98
+TXN-6ffe8c88,185,Designer Shoes Collection,Clothing,2,148.39,0.0,296.78
+TXN-6ffe8c88,166,Upgradable interactive data-warehouse,Books,5,27.44,6.86,130.34
+TXN-6ffe8c88,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,4,46.94,37.55,150.21
+TXN-84db896b,171,The Hit Apply,Books,2,19.76,7.9,31.62
+TXN-84db896b,185,Designer Shoes Collection,Clothing,2,148.39,59.36,237.42
+TXN-84db896b,68,Pro Equipment Gear,Sports,5,455.17,0.0,2275.85
+TXN-84db896b,100,LavenderBlush Furniture,Home & Garden,3,1041.62,0.0,3124.86
+TXN-84db896b,149,Tablets X,Electronics,4,1248.96,999.17,3996.67
+TXN-84db896b,61,Eaton-Smith Beverages Mix,Food & Beverage,3,69.99,21.0,188.97
+TXN-84db896b,136,Pro Team Sports Equipment,Sports,1,281.72,42.26,239.46
+TXN-7f5f24d0,46,Taylor-Moore Beverages Mix,Food & Beverage,3,84.47,12.67,240.74
+TXN-7f5f24d0,146,Gibbs-Howard Snacks Mix,Food & Beverage,5,86.98,0.0,434.9
+TXN-7f5f24d0,72,Team Sports Champion,Sports,4,352.87,0.0,1411.48
+TXN-1c24d98c,98,Modern Outdoor Set,Home & Garden,4,192.68,0.0,770.72
+TXN-bbf94355,117,Gold Furniture,Home & Garden,3,346.37,0.0,1039.11
+TXN-bbf94355,97,Reyes Ltd Organic Mix,Food & Beverage,1,13.51,0.0,13.51
+TXN-4ff5ba8e,149,Tablets X,Electronics,2,1248.96,0.0,2497.92
+TXN-4ff5ba8e,8,Mccarthy Inc Snacks Mix,Food & Beverage,3,25.22,15.13,60.53
+TXN-4ff5ba8e,111,Modern Outdoor Set,Home & Garden,4,1304.78,782.87,4436.25
+TXN-618e092d,196,Hopkins-Cook Tools Essentials,Beauty,1,35.27,0.0,35.27
+TXN-618e092d,114,Luxury Skincare,Beauty,1,27.43,0.0,27.43
+TXN-618e092d,175,Designer Accessrories Line,Clothing,2,158.02,63.21,252.83
+TXN-618e092d,101,Modern Decor Set,Home & Garden,2,1452.95,290.59,2615.31
+TXN-618e092d,169,The Various Picture,Books,5,39.4,19.7,177.3
+TXN-618e092d,16,The Challenge Answer,Books,4,48.4,0.0,193.6
+TXN-618e092d,57,"King, Oliver and Norman Haircare Collection",Beauty,3,12.4,0.0,37.2
+TXN-618e092d,66,Pro Team Sports Equipment,Sports,3,100.34,0.0,301.02
+TXN-618e092d,141,Monitored maximized Local Area Network,Books,1,37.33,0.0,37.33
+TXN-618e092d,154,Fitness Champion,Sports,4,407.15,244.29,1384.31
+TXN-94166114,100,LavenderBlush Furniture,Home & Garden,5,1041.62,520.81,4687.29
+TXN-94166114,135,The Reveal No,Books,1,25.78,3.87,21.91
+TXN-94166114,192,Designer Women Line,Clothing,5,108.51,54.26,488.29
+TXN-94166114,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,2,34.99,10.5,59.48
+TXN-94166114,199,Luxury Skincare,Beauty,2,56.5,0.0,113.0
+TXN-94166114,140,Modern Decor Set,Home & Garden,4,465.7,0.0,1862.8
+TXN-94166114,150,Luxury Makeup,Beauty,5,191.03,0.0,955.15
+TXN-94166114,144,Designer Accessrories Collection,Clothing,2,294.53,58.91,530.15
+TXN-8c4d80d3,65,Designer Kids Line,Clothing,3,27.97,0.0,83.91
+TXN-8c4d80d3,92,Luxury Fragrances,Beauty,5,168.24,84.12,757.08
+TXN-8c4d80d3,16,The Challenge Answer,Books,5,48.4,48.4,193.6
+TXN-8c4d80d3,28,Organic Pantry,Food & Beverage,5,3.76,1.88,16.92
+TXN-8c4d80d3,52,Pro Team Sports Kit,Sports,1,378.48,18.92,359.56
+TXN-8c4d80d3,166,Upgradable interactive data-warehouse,Books,4,27.44,0.0,109.76
+TXN-8c4d80d3,79,White Accessrories Dress,Clothing,4,280.81,0.0,1123.24
+TXN-8c4d80d3,66,Pro Team Sports Equipment,Sports,3,100.34,45.15,255.87
+TXN-8c4d80d3,93,Smith-Cooper Makeup Collection,Beauty,1,129.37,0.0,129.37
+TXN-38548082,87,Premium Accessories Pro,Electronics,5,374.41,280.81,1591.24
+TXN-38548082,173,Potter LLC Snacks Mix,Food & Beverage,3,60.9,0.0,182.7
+TXN-49eb37e3,184,Luxury Haircare,Beauty,4,176.58,105.95,600.37
+TXN-49eb37e3,7,Jordan PLC Skincare Kit,Beauty,4,125.73,75.44,427.48
+TXN-49eb37e3,5,Modern Lighting Piece,Home & Garden,2,1330.47,532.19,2128.75
+TXN-c3020b8d,182,The Hot Prepare,Books,1,23.31,0.0,23.31
+TXN-c3020b8d,154,Fitness Champion,Sports,2,407.15,0.0,814.3
+TXN-c3020b8d,125,Advanced analyzing flexibility,Books,2,20.84,0.0,41.68
+TXN-c3020b8d,86,Cameras Max,Electronics,3,183.42,0.0,550.26
+TXN-c3020b8d,102,Modern Decor Set,Home & Garden,5,1483.45,370.86,7046.39
+TXN-c3020b8d,93,Smith-Cooper Makeup Collection,Beauty,5,129.37,32.34,614.51
+TXN-c3020b8d,31,Premium Smartphones Pro,Electronics,3,1892.85,0.0,5678.55
+TXN-c3020b8d,178,MediumAquaMarine Lighting,Home & Garden,2,1401.88,0.0,2803.76
+TXN-3f6a7259,41,Outdoor Champion,Sports,3,260.48,0.0,781.44
+TXN-3f6a7259,98,Modern Outdoor Set,Home & Garden,3,192.68,28.9,549.14
+TXN-3f6a7259,167,"Smith, Hood and Charles Smartphones",Electronics,4,598.64,359.18,2035.38
+TXN-3f6a7259,198,Hayes-Thomas Skincare Kit,Beauty,4,16.12,3.22,61.26
+TXN-3f6a7259,189,Gainsboro Accessrories Shirt,Clothing,3,210.53,0.0,631.59
+TXN-3f6a7259,194,Farley-Ford Laptops,Electronics,4,1177.71,706.63,4004.21
+TXN-b4a39e91,159,Designer Kids Style,Clothing,1,281.4,42.21,239.19
+TXN-b4a39e91,141,Monitored maximized Local Area Network,Books,4,37.33,0.0,149.32
+TXN-b4a39e91,92,Luxury Fragrances,Beauty,4,168.24,67.3,605.66
+TXN-b4a39e91,161,Multi-channeled attitude-oriented synergy,Books,2,42.14,8.43,75.85
+TXN-b4a39e91,192,Designer Women Line,Clothing,3,108.51,0.0,325.53
+TXN-dea1f3c3,76,Premium Accessories Pro,Electronics,4,1736.58,694.63,6251.69
+TXN-dea1f3c3,63,LightGoldenRodYellow Decor,Home & Garden,4,198.57,0.0,794.28
+TXN-dea1f3c3,93,Smith-Cooper Makeup Collection,Beauty,4,129.37,0.0,517.48
+TXN-dea1f3c3,118,Smartphones Plus,Electronics,4,1019.9,0.0,4079.6
+TXN-dea1f3c3,109,Barber-Benitez Skincare Essentials,Beauty,3,69.38,20.81,187.33
+TXN-1e8c252a,52,Pro Team Sports Kit,Sports,1,378.48,56.77,321.71
+TXN-97138c99,36,Allen-Hopkins Pantry Mix,Food & Beverage,1,35.12,0.0,35.12
+TXN-97138c99,117,Gold Furniture,Home & Garden,5,346.37,259.78,1472.07
+TXN-97138c99,8,Mccarthy Inc Snacks Mix,Food & Beverage,4,25.22,0.0,100.88
+TXN-0ef18365,20,Gilbert PLC Skincare Collection,Beauty,3,21.52,3.23,61.33
+TXN-0ef18365,31,Premium Smartphones Pro,Electronics,5,1892.85,0.0,9464.25
+TXN-0ef18365,67,Organic Pantry,Food & Beverage,5,95.07,0.0,475.35
+TXN-0ef18365,14,Pro Fitness Kit,Sports,4,64.82,0.0,259.28
+TXN-0ef18365,147,CornflowerBlue Accessrories Shirt,Clothing,3,212.24,31.84,604.88
+TXN-0ef18365,145,Organic Beverages,Food & Beverage,1,88.92,8.89,80.03
+TXN-032717bd,141,Monitored maximized Local Area Network,Books,2,37.33,0.0,74.66
+TXN-032717bd,1,Johnson-Davis Skincare Kit,Beauty,1,14.75,2.21,12.54
+TXN-032717bd,180,Forbes-Moyer Fragrances Kit,Beauty,2,50.66,5.07,96.25
+TXN-032717bd,100,LavenderBlush Furniture,Home & Garden,5,1041.62,260.4,4947.7
+TXN-032717bd,188,Modern Kitchen Set,Home & Garden,5,882.04,0.0,4410.2
+TXN-f9b8e20e,175,Designer Accessrories Line,Clothing,5,158.02,0.0,790.1
+TXN-f9b8e20e,30,Premium Smartphones Pro,Electronics,4,700.44,0.0,2801.76
+TXN-f9b8e20e,106,Taylor and Sons Smartphones,Electronics,1,1997.24,0.0,1997.24
+TXN-f9b8e20e,41,Outdoor Champion,Sports,1,260.48,13.02,247.46
+TXN-99756621,38,Jackson-Ellis Pantry Mix,Food & Beverage,3,69.63,31.33,177.56
+TXN-99756621,59,Organic Snacks,Food & Beverage,3,30.06,13.53,76.65
+TXN-ca51f79e,114,Luxury Skincare,Beauty,2,27.43,8.23,46.63
+TXN-ca51f79e,57,"King, Oliver and Norman Haircare Collection",Beauty,2,12.4,4.96,19.84
+TXN-ca51f79e,34,Outdoor Champion,Sports,3,140.73,42.22,379.97
+TXN-ca51f79e,80,Digitized tertiary website,Books,2,38.58,0.0,77.16
+TXN-ca51f79e,184,Luxury Haircare,Beauty,2,176.58,70.63,282.53
+TXN-b959576f,148,Crimson Furniture,Home & Garden,5,138.5,69.25,623.25
+TXN-b959576f,183,"Garza, Black and Huerta Snacks Mix",Food & Beverage,3,66.27,9.94,188.87
+TXN-b959576f,87,Premium Accessories Pro,Electronics,5,374.41,0.0,1872.05
+TXN-b959576f,62,Khaki Lighting,Home & Garden,5,566.15,0.0,2830.75
+TXN-b959576f,46,Taylor-Moore Beverages Mix,Food & Beverage,1,84.47,0.0,84.47
+TXN-b959576f,74,CadetBlue Decor,Home & Garden,4,1495.48,897.29,5084.63
+TXN-238e4bbe,28,Organic Pantry,Food & Beverage,1,3.76,0.0,3.76
+TXN-238e4bbe,100,LavenderBlush Furniture,Home & Garden,3,1041.62,468.73,2656.13
+TXN-238e4bbe,184,Luxury Haircare,Beauty,1,176.58,8.83,167.75
+TXN-238e4bbe,85,LightCoral Kitchen,Home & Garden,4,942.42,565.45,3204.23
+TXN-238e4bbe,130,The Term Class,Books,5,46.25,0.0,231.25
+TXN-238e4bbe,19,Organic Gourmet,Food & Beverage,2,81.33,32.53,130.13
+TXN-238e4bbe,143,Premium Tablets Pro,Electronics,5,1587.61,1190.71,6747.34
+TXN-238e4bbe,61,Eaton-Smith Beverages Mix,Food & Beverage,5,69.99,0.0,349.95
+TXN-238e4bbe,18,Tablets Ultra,Electronics,2,188.17,18.82,357.52
+TXN-238e4bbe,161,Multi-channeled attitude-oriented synergy,Books,5,42.14,42.14,168.56
+TXN-6754617f,88,ForestGreen Shoes Pants,Clothing,2,132.43,0.0,264.86
+TXN-6754617f,25,Torres and Sons Beverages Mix,Food & Beverage,3,42.17,18.98,107.53
+TXN-6754617f,51,Outdoor Champion,Sports,2,434.76,0.0,869.52
+TXN-6754617f,181,Mayer and Sons Tools Essentials,Beauty,5,52.88,0.0,264.4
+TXN-6754617f,39,Riddle Ltd Tablets,Electronics,1,1038.89,0.0,1038.89
+TXN-d9033ed3,126,"Vasquez, Pope and Cook Snacks Mix",Food & Beverage,3,62.66,18.8,169.18
+TXN-d9033ed3,108,Luxury Skincare,Beauty,5,172.03,0.0,860.15
+TXN-d9033ed3,171,The Hit Apply,Books,5,19.76,14.82,83.98
+TXN-37281589,88,ForestGreen Shoes Pants,Clothing,5,132.43,99.32,562.83
+TXN-37281589,95,Team Sports Champion,Sports,5,375.81,0.0,1879.05
+TXN-37281589,80,Digitized tertiary website,Books,5,38.58,0.0,192.9
+TXN-4e694507,76,Premium Accessories Pro,Electronics,3,1736.58,781.46,4428.28
+TXN-4e694507,17,Pro Fitness Gear,Sports,2,131.47,52.59,210.35
+TXN-4e694507,2,Premium Smartphones Pro,Electronics,5,232.71,58.18,1105.37
+TXN-4e694507,156,Fitness Champion,Sports,5,186.84,140.13,794.07
+TXN-4e694507,104,Modern Decor Piece,Home & Garden,1,891.5,44.58,846.92
+TXN-4e694507,198,Hayes-Thomas Skincare Kit,Beauty,5,16.12,0.0,80.6
+TXN-4e694507,154,Fitness Champion,Sports,3,407.15,61.07,1160.38
+TXN-4e694507,62,Khaki Lighting,Home & Garden,2,566.15,226.46,905.84
+TXN-4e694507,151,The Material Worker,Books,4,32.23,0.0,128.92
+TXN-4e694507,140,Modern Decor Set,Home & Garden,4,465.7,0.0,1862.8
+TXN-aad7b642,96,Miller Group Pantry Mix,Food & Beverage,4,38.48,0.0,153.92
+TXN-aad7b642,131,DarkCyan Decor,Home & Garden,3,1011.77,303.53,2731.78
+TXN-aad7b642,57,"King, Oliver and Norman Haircare Collection",Beauty,2,12.4,0.0,24.8
+TXN-aad7b642,175,Designer Accessrories Line,Clothing,3,158.02,71.11,402.95
+TXN-aad7b642,89,Optional client-server data-warehouse,Books,3,15.45,2.32,44.03
+TXN-aad7b642,42,Organic Beverages,Food & Beverage,2,68.26,27.3,109.22
+TXN-aad7b642,116,Equipment Champion,Sports,3,307.47,92.24,830.17
+TXN-aad7b642,59,Organic Snacks,Food & Beverage,5,30.06,0.0,150.3
+TXN-84c7e0f1,139,Designer Accessrories Style,Clothing,2,142.85,0.0,285.7
+TXN-84c7e0f1,68,Pro Equipment Gear,Sports,1,455.17,0.0,455.17
+TXN-84c7e0f1,76,Premium Accessories Pro,Electronics,3,1736.58,260.49,4949.25
+TXN-84c7e0f1,164,MediumSlateBlue Kids Dress,Clothing,5,161.77,40.44,768.41
+TXN-84c7e0f1,64,Organic Pantry,Food & Beverage,2,60.89,24.36,97.42
+TXN-84c7e0f1,184,Luxury Haircare,Beauty,2,176.58,70.63,282.53
+TXN-84c7e0f1,122,Ellis Inc Cameras,Electronics,3,1284.79,385.44,3468.93
+TXN-84c7e0f1,54,Pro Fitness Kit,Sports,3,286.35,0.0,859.05
+TXN-6446d64b,80,Digitized tertiary website,Books,3,38.58,5.79,109.95
+TXN-6446d64b,192,Designer Women Line,Clothing,1,108.51,0.0,108.51
+TXN-6446d64b,196,Hopkins-Cook Tools Essentials,Beauty,4,35.27,14.11,126.97
+TXN-6446d64b,87,Premium Accessories Pro,Electronics,4,374.41,0.0,1497.64
+TXN-6446d64b,117,Gold Furniture,Home & Garden,2,346.37,69.27,623.47
+TXN-6446d64b,68,Pro Equipment Gear,Sports,3,455.17,0.0,1365.51
+TXN-6446d64b,63,LightGoldenRodYellow Decor,Home & Garden,1,198.57,0.0,198.57
+TXN-6446d64b,181,Mayer and Sons Tools Essentials,Beauty,4,52.88,21.15,190.37
+TXN-1fcf2a74,140,Modern Decor Set,Home & Garden,1,465.7,23.29,442.41
+TXN-38c2031b,168,Luxury Haircare,Beauty,3,155.13,0.0,465.39
+TXN-38c2031b,13,Organic Beverages,Food & Beverage,4,52.25,0.0,209.0
+TXN-38c2031b,85,LightCoral Kitchen,Home & Garden,5,942.42,471.21,4240.89
+TXN-38c2031b,140,Modern Decor Set,Home & Garden,2,465.7,0.0,931.4
+TXN-38c2031b,5,Modern Lighting Piece,Home & Garden,5,1330.47,0.0,6652.35
+TXN-38c2031b,121,Premium Laptops Pro,Electronics,1,899.57,44.98,854.59
+TXN-38c2031b,20,Gilbert PLC Skincare Collection,Beauty,5,21.52,5.38,102.22
+TXN-99e36a76,57,"King, Oliver and Norman Haircare Collection",Beauty,1,12.4,0.0,12.4
+TXN-99e36a76,109,Barber-Benitez Skincare Essentials,Beauty,1,69.38,3.47,65.91
+TXN-99e36a76,28,Organic Pantry,Food & Beverage,3,3.76,2.26,9.02
+TXN-99e36a76,49,LavenderBlush Kitchen,Home & Garden,3,1135.14,340.54,3064.88
+TXN-99e36a76,96,Miller Group Pantry Mix,Food & Beverage,3,38.48,23.09,92.35
+TXN-99e36a76,129,Anderson and Sons Haircare Kit,Beauty,2,22.52,0.0,45.04
+TXN-99e36a76,46,Taylor-Moore Beverages Mix,Food & Beverage,5,84.47,42.24,380.11
+TXN-99e36a76,125,Advanced analyzing flexibility,Books,4,20.84,8.34,75.02
+TXN-99e36a76,110,Accessories Plus,Electronics,1,238.3,0.0,238.3
+TXN-99e36a76,38,Jackson-Ellis Pantry Mix,Food & Beverage,1,69.63,0.0,69.63
+TXN-1d445ee3,162,Adams-Lewis Tools Collection,Beauty,5,65.04,32.52,292.68
+TXN-1d445ee3,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,2,45.33,0.0,90.66
+TXN-1d445ee3,59,Organic Snacks,Food & Beverage,5,30.06,0.0,150.3
+TXN-6ffde9db,16,The Challenge Answer,Books,5,48.4,0.0,242.0
+TXN-6ffde9db,117,Gold Furniture,Home & Garden,5,346.37,346.37,1385.48
+TXN-6ffde9db,178,MediumAquaMarine Lighting,Home & Garden,5,1401.88,700.94,6308.46
+TXN-6ffde9db,153,Hill-Holden Fragrances Collection,Beauty,4,50.77,30.46,172.62
+TXN-6ffde9db,78,Polarized uniform solution,Books,5,36.94,0.0,184.7
+TXN-21185a70,168,Luxury Haircare,Beauty,4,155.13,62.05,558.47
+TXN-21185a70,128,Pro Apparel Equipment,Sports,3,266.15,159.69,638.76
+TXN-fea88cc2,177,Designer Women Line,Clothing,5,94.52,47.26,425.34
+TXN-fea88cc2,137,Johnson Group Laptops,Electronics,2,1642.57,492.77,2792.37
+TXN-fea88cc2,154,Fitness Champion,Sports,1,407.15,40.72,366.43
+TXN-fea88cc2,31,Premium Smartphones Pro,Electronics,4,1892.85,0.0,7571.4
+TXN-fea88cc2,113,Luxury Haircare,Beauty,5,15.5,11.62,65.88
+TXN-1dd1366e,186,Tablets Plus,Electronics,1,1592.0,159.2,1432.8
+TXN-1dd1366e,133,Cooper Inc Pantry Mix,Food & Beverage,1,15.71,0.0,15.71
+TXN-1dd1366e,76,Premium Accessories Pro,Electronics,1,1736.58,86.83,1649.75
+TXN-1dd1366e,148,Crimson Furniture,Home & Garden,3,138.5,20.78,394.72
+TXN-28b98ee3,126,"Vasquez, Pope and Cook Snacks Mix",Food & Beverage,5,62.66,15.66,297.64
+TXN-28b98ee3,21,Modern Outdoor Piece,Home & Garden,1,389.71,58.46,331.25
+TXN-28b98ee3,69,Designer Women Line,Clothing,2,90.42,18.08,162.76
+TXN-28b98ee3,66,Pro Team Sports Equipment,Sports,2,100.34,20.07,180.61
+TXN-28b98ee3,113,Luxury Haircare,Beauty,3,15.5,6.97,39.53
+TXN-28b98ee3,174,Nguyen and Sons Makeup Collection,Beauty,4,16.0,6.4,57.6
+TXN-28b98ee3,187,Fitness Champion,Sports,4,100.54,0.0,402.16
+TXN-28b98ee3,162,Adams-Lewis Tools Collection,Beauty,2,65.04,6.5,123.58
+TXN-28b98ee3,195,SeaShell Women Jacket,Clothing,5,233.26,0.0,1166.3
+TXN-31d7e5ba,160,PaleTurquoise Lighting,Home & Garden,5,809.55,202.39,3845.36
+TXN-31d7e5ba,9,Equipment Champion,Sports,2,443.49,0.0,886.98
+TXN-31d7e5ba,70,Monitored fresh-thinking superstructure,Books,3,18.11,5.43,48.9
+TXN-31d7e5ba,97,Reyes Ltd Organic Mix,Food & Beverage,3,13.51,0.0,40.53
+TXN-31d7e5ba,74,CadetBlue Decor,Home & Garden,3,1495.48,897.29,3589.15
+TXN-4130ed65,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,3,46.94,7.04,133.78
+TXN-4130ed65,131,DarkCyan Decor,Home & Garden,3,1011.77,303.53,2731.78
+TXN-4130ed65,101,Modern Decor Set,Home & Garden,3,1452.95,0.0,4358.85
+TXN-4130ed65,113,Luxury Haircare,Beauty,1,15.5,1.55,13.95
+TXN-4130ed65,149,Tablets X,Electronics,5,1248.96,312.24,5932.56
+TXN-4130ed65,34,Outdoor Champion,Sports,4,140.73,112.58,450.34
+TXN-4130ed65,162,Adams-Lewis Tools Collection,Beauty,3,65.04,39.02,156.1
+TXN-4130ed65,118,Smartphones Plus,Electronics,2,1019.9,0.0,2039.8
+TXN-0447eab8,106,Taylor and Sons Smartphones,Electronics,4,1997.24,1198.34,6790.62
+TXN-0447eab8,176,Apparel Champion,Sports,3,194.64,87.59,496.33
+TXN-0447eab8,28,Organic Pantry,Food & Beverage,4,3.76,0.0,15.04
+TXN-0447eab8,23,Organic Gourmet,Food & Beverage,2,30.67,12.27,49.07
+TXN-0447eab8,117,Gold Furniture,Home & Garden,5,346.37,0.0,1731.85
+TXN-0447eab8,99,SpringGreen Lighting,Home & Garden,5,640.31,480.23,2721.32
+TXN-89cf1cc7,85,LightCoral Kitchen,Home & Garden,2,942.42,0.0,1884.84
+TXN-89cf1cc7,67,Organic Pantry,Food & Beverage,1,95.07,14.26,80.81
+TXN-89cf1cc7,17,Pro Fitness Gear,Sports,5,131.47,0.0,657.35
+TXN-89cf1cc7,91,Persevering background artificial intelligence,Books,2,30.87,0.0,61.74
+TXN-89cf1cc7,115,Pope-Hobbs Pantry Mix,Food & Beverage,1,60.83,3.04,57.79
+TXN-89cf1cc7,60,SandyBrown Kitchen,Home & Garden,3,523.7,235.67,1335.43
+TXN-89cf1cc7,171,The Hit Apply,Books,4,19.76,0.0,79.04
+TXN-89cf1cc7,27,Designer Shoes Style,Clothing,2,90.58,0.0,181.16
+TXN-89cf1cc7,156,Fitness Champion,Sports,5,186.84,0.0,934.2
+TXN-89cf1cc7,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,4,46.94,28.16,159.6
+TXN-e2da1f2e,126,"Vasquez, Pope and Cook Snacks Mix",Food & Beverage,3,62.66,0.0,187.98
+TXN-e2da1f2e,112,Pro Outdoor Gear,Sports,1,425.16,85.03,340.13
+TXN-e2da1f2e,116,Equipment Champion,Sports,1,307.47,46.12,261.35
+TXN-e2da1f2e,110,Accessories Plus,Electronics,5,238.3,0.0,1191.5
+TXN-e2da1f2e,142,Crimson Furniture,Home & Garden,5,1431.04,1073.28,6081.92
+TXN-52a65cc6,157,Luxury Fragrances,Beauty,1,109.88,21.98,87.9
+TXN-52a65cc6,136,Pro Team Sports Equipment,Sports,4,281.72,225.38,901.5
+TXN-52a65cc6,161,Multi-channeled attitude-oriented synergy,Books,4,42.14,0.0,168.56
+TXN-b0b89b18,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,5,45.33,0.0,226.65
+TXN-b0b89b18,18,Tablets Ultra,Electronics,3,188.17,0.0,564.51
+TXN-b0b89b18,175,Designer Accessrories Line,Clothing,4,158.02,94.81,537.27
+TXN-b0b89b18,125,Advanced analyzing flexibility,Books,5,20.84,10.42,93.78
+TXN-b0b89b18,142,Crimson Furniture,Home & Garden,4,1431.04,0.0,5724.16
+TXN-b0b89b18,137,Johnson Group Laptops,Electronics,5,1642.57,410.64,7802.21
+TXN-b0b89b18,84,Turner-Reese Gourmet Mix,Food & Beverage,3,12.67,0.0,38.01
+TXN-b0b89b18,113,Luxury Haircare,Beauty,1,15.5,0.0,15.5
+TXN-b0b89b18,199,Luxury Skincare,Beauty,2,56.5,16.95,96.05
+TXN-b0b89b18,164,MediumSlateBlue Kids Dress,Clothing,4,161.77,97.06,550.02
+TXN-96f6796e,52,Pro Team Sports Kit,Sports,3,378.48,113.54,1021.9
+TXN-96f6796e,108,Luxury Skincare,Beauty,2,172.03,0.0,344.06
+TXN-96f6796e,8,Mccarthy Inc Snacks Mix,Food & Beverage,5,25.22,25.22,100.88
+TXN-96f6796e,41,Outdoor Champion,Sports,4,260.48,208.38,833.54
+TXN-96f6796e,186,Tablets Plus,Electronics,4,1592.0,636.8,5731.2
+TXN-96f6796e,58,Luxury Tools,Beauty,3,193.44,0.0,580.32
+TXN-94eb216a,160,PaleTurquoise Lighting,Home & Garden,4,809.55,0.0,3238.2
+TXN-94eb216a,158,Modern Decor Piece,Home & Garden,2,1319.38,0.0,2638.76
+TXN-94eb216a,92,Luxury Fragrances,Beauty,3,168.24,25.24,479.48
+TXN-78a6092c,176,Apparel Champion,Sports,3,194.64,58.39,525.53
+TXN-78a6092c,161,Multi-channeled attitude-oriented synergy,Books,5,42.14,0.0,210.7
+TXN-78a6092c,4,Fitness Champion,Sports,3,185.9,83.66,474.04
+TXN-78a6092c,47,Modern Kitchen Piece,Home & Garden,3,1341.68,603.76,3421.28
+TXN-78a6092c,170,Designer Shoes Collection,Clothing,2,160.1,0.0,320.2
+TXN-78a6092c,137,Johnson Group Laptops,Electronics,1,1642.57,82.13,1560.44
+TXN-fc787699,195,SeaShell Women Jacket,Clothing,1,233.26,34.99,198.27
+TXN-fc787699,19,Organic Gourmet,Food & Beverage,3,81.33,0.0,243.99
+TXN-fc787699,146,Gibbs-Howard Snacks Mix,Food & Beverage,5,86.98,0.0,434.9
+TXN-fc787699,196,Hopkins-Cook Tools Essentials,Beauty,2,35.27,0.0,70.54
+TXN-fc787699,141,Monitored maximized Local Area Network,Books,4,37.33,0.0,149.32
+TXN-7563afe8,196,Hopkins-Cook Tools Essentials,Beauty,5,35.27,8.82,167.53
+TXN-7563afe8,141,Monitored maximized Local Area Network,Books,5,37.33,37.33,149.32
+TXN-7563afe8,115,Pope-Hobbs Pantry Mix,Food & Beverage,2,60.83,24.33,97.33
+TXN-7563afe8,131,DarkCyan Decor,Home & Garden,2,1011.77,303.53,1720.01
+TXN-7563afe8,121,Premium Laptops Pro,Electronics,5,899.57,899.57,3598.28
+TXN-7563afe8,46,Taylor-Moore Beverages Mix,Food & Beverage,1,84.47,8.45,76.02
+TXN-7563afe8,68,Pro Equipment Gear,Sports,4,455.17,182.07,1638.61
+TXN-97559aa2,185,Designer Shoes Collection,Clothing,1,148.39,29.68,118.71
+TXN-97559aa2,125,Advanced analyzing flexibility,Books,5,20.84,10.42,93.78
+TXN-fc33315b,21,Modern Outdoor Piece,Home & Garden,5,389.71,97.43,1851.12
+TXN-fc33315b,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,1,85.48,12.82,72.66
+TXN-fc33315b,27,Designer Shoes Style,Clothing,2,90.58,27.17,153.99
+TXN-fc33315b,142,Crimson Furniture,Home & Garden,5,1431.04,357.76,6797.44
+TXN-fc33315b,192,Designer Women Line,Clothing,1,108.51,10.85,97.66
+TXN-fc33315b,152,Luxury Haircare,Beauty,4,57.43,45.94,183.78
+TXN-a6778c0c,175,Designer Accessrories Line,Clothing,5,158.02,0.0,790.1
+TXN-a6778c0c,92,Luxury Fragrances,Beauty,5,168.24,42.06,799.14
+TXN-a6778c0c,76,Premium Accessories Pro,Electronics,3,1736.58,781.46,4428.28
+TXN-a6778c0c,35,Hughes-Miller Beverages Mix,Food & Beverage,1,24.62,1.23,23.39
+TXN-a6778c0c,136,Pro Team Sports Equipment,Sports,3,281.72,169.03,676.13
+TXN-a6778c0c,199,Luxury Skincare,Beauty,1,56.5,8.47,48.03
+TXN-a6778c0c,111,Modern Outdoor Set,Home & Garden,2,1304.78,260.96,2348.6
+TXN-a6778c0c,165,Modern Outdoor Piece,Home & Garden,1,1298.96,0.0,1298.96
+TXN-2b37494b,58,Luxury Tools,Beauty,1,193.44,9.67,183.77
+TXN-a2242226,159,Designer Kids Style,Clothing,4,281.4,0.0,1125.6
+TXN-a2242226,11,Pro Apparel Kit,Sports,4,41.13,8.23,156.29
+TXN-a2242226,122,Ellis Inc Cameras,Electronics,4,1284.79,256.96,4882.2
+TXN-f6f007e1,135,The Reveal No,Books,2,25.78,7.73,43.83
+TXN-f6f007e1,125,Advanced analyzing flexibility,Books,3,20.84,0.0,62.52
+TXN-f6f007e1,61,Eaton-Smith Beverages Mix,Food & Beverage,2,69.99,14.0,125.98
+TXN-f6f007e1,44,Organic Snacks,Food & Beverage,4,78.51,31.4,282.64
+TXN-f6f007e1,100,LavenderBlush Furniture,Home & Garden,2,1041.62,312.49,1770.75
+TXN-f6f007e1,108,Luxury Skincare,Beauty,2,172.03,68.81,275.25
+TXN-f6f007e1,80,Digitized tertiary website,Books,1,38.58,7.72,30.86
+TXN-f6f007e1,141,Monitored maximized Local Area Network,Books,1,37.33,0.0,37.33
+TXN-f6f007e1,15,Lawson LLC Snacks Mix,Food & Beverage,4,97.86,58.72,332.72
+TXN-99416a85,104,Modern Decor Piece,Home & Garden,2,891.5,89.15,1693.85
+TXN-99416a85,170,Designer Shoes Collection,Clothing,3,160.1,0.0,480.3
+TXN-99416a85,108,Luxury Skincare,Beauty,3,172.03,0.0,516.09
+TXN-99416a85,168,Luxury Haircare,Beauty,1,155.13,0.0,155.13
+TXN-3acebaf0,198,Hayes-Thomas Skincare Kit,Beauty,2,16.12,0.0,32.24
+TXN-6adfd838,188,Modern Kitchen Set,Home & Garden,1,882.04,0.0,882.04
+TXN-6adfd838,47,Modern Kitchen Piece,Home & Garden,1,1341.68,67.08,1274.6
+TXN-6adfd838,52,Pro Team Sports Kit,Sports,4,378.48,0.0,1513.92
+TXN-6adfd838,62,Khaki Lighting,Home & Garden,5,566.15,0.0,2830.75
+TXN-6adfd838,175,Designer Accessrories Line,Clothing,1,158.02,0.0,158.02
+TXN-6adfd838,28,Organic Pantry,Food & Beverage,5,3.76,0.0,18.8
+TXN-6adfd838,13,Organic Beverages,Food & Beverage,2,52.25,20.9,83.6
+TXN-6adfd838,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,5,46.94,0.0,234.7
+TXN-6adfd838,162,Adams-Lewis Tools Collection,Beauty,5,65.04,32.52,292.68
+TXN-6adfd838,19,Organic Gourmet,Food & Beverage,3,81.33,0.0,243.99
+TXN-050a83f0,38,Jackson-Ellis Pantry Mix,Food & Beverage,2,69.63,6.96,132.3
+TXN-050a83f0,70,Monitored fresh-thinking superstructure,Books,3,18.11,0.0,54.33
+TXN-050a83f0,114,Luxury Skincare,Beauty,1,27.43,2.74,24.69
+TXN-050a83f0,23,Organic Gourmet,Food & Beverage,5,30.67,23.0,130.35
+TXN-050a83f0,172,The Painting Material,Books,2,27.04,8.11,45.97
+TXN-050a83f0,189,Gainsboro Accessrories Shirt,Clothing,4,210.53,84.21,757.91
+TXN-050a83f0,176,Apparel Champion,Sports,4,194.64,0.0,778.56
+TXN-050a83f0,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,3,45.33,20.4,115.59
+TXN-050a83f0,88,ForestGreen Shoes Pants,Clothing,4,132.43,105.94,423.78
+TXN-a51144ae,89,Optional client-server data-warehouse,Books,3,15.45,2.32,44.03
+TXN-a51144ae,189,Gainsboro Accessrories Shirt,Clothing,2,210.53,84.21,336.85
+TXN-a51144ae,186,Tablets Plus,Electronics,5,1592.0,398.0,7562.0
+TXN-a30c7f0c,35,Hughes-Miller Beverages Mix,Food & Beverage,4,24.62,0.0,98.48
+TXN-a30c7f0c,61,Eaton-Smith Beverages Mix,Food & Beverage,5,69.99,17.5,332.45
+TXN-a30c7f0c,159,Designer Kids Style,Clothing,4,281.4,112.56,1013.04
+TXN-fb40c787,151,The Material Worker,Books,3,32.23,14.5,82.19
+TXN-fb40c787,32,Modern Kitchen Piece,Home & Garden,1,1350.49,67.52,1282.97
+TXN-fb40c787,178,MediumAquaMarine Lighting,Home & Garden,3,1401.88,0.0,4205.64
+TXN-fb40c787,137,Johnson Group Laptops,Electronics,5,1642.57,1231.93,6980.92
+TXN-555129af,68,Pro Equipment Gear,Sports,5,455.17,0.0,2275.85
+TXN-555129af,177,Designer Women Line,Clothing,1,94.52,0.0,94.52
+TXN-555129af,50,Modern Outdoor Piece,Home & Garden,5,1091.79,818.84,4640.11
+TXN-555129af,103,LightGray Shoes Pants,Clothing,5,15.81,0.0,79.05
+TXN-555129af,181,Mayer and Sons Tools Essentials,Beauty,4,52.88,0.0,211.52
+TXN-555129af,40,Outdoor Champion,Sports,3,311.6,0.0,934.8
+TXN-555129af,47,Modern Kitchen Piece,Home & Garden,1,1341.68,0.0,1341.68
+TXN-555129af,94,Black Kitchen,Home & Garden,2,1126.27,337.88,1914.66
+TXN-555129af,64,Organic Pantry,Food & Beverage,1,60.89,9.13,51.76
+TXN-555129af,25,Torres and Sons Beverages Mix,Food & Beverage,4,42.17,0.0,168.68
+TXN-56318779,161,Multi-channeled attitude-oriented synergy,Books,5,42.14,0.0,210.7
+TXN-56318779,146,Gibbs-Howard Snacks Mix,Food & Beverage,3,86.98,13.05,247.89
+TXN-56318779,150,Luxury Makeup,Beauty,4,191.03,76.41,687.71
+TXN-56318779,132,DarkOrchid Kids Pants,Clothing,3,285.09,0.0,855.27
+TXN-4a6cc86f,20,Gilbert PLC Skincare Collection,Beauty,1,21.52,4.3,17.22
+TXN-4a6cc86f,137,Johnson Group Laptops,Electronics,4,1642.57,1314.06,5256.22
+TXN-4a6cc86f,39,Riddle Ltd Tablets,Electronics,3,1038.89,0.0,3116.67
+TXN-4a6cc86f,138,Premium Tablets Pro,Electronics,3,487.85,0.0,1463.55
+TXN-4a6cc86f,117,Gold Furniture,Home & Garden,4,346.37,0.0,1385.48
+TXN-4a6cc86f,155,Organic Beverages,Food & Beverage,5,72.05,72.05,288.2
+TXN-4a6cc86f,32,Modern Kitchen Piece,Home & Garden,2,1350.49,405.15,2295.83
+TXN-4a6cc86f,76,Premium Accessories Pro,Electronics,2,1736.58,0.0,3473.16
+TXN-4011eea3,57,"King, Oliver and Norman Haircare Collection",Beauty,3,12.4,0.0,37.2
+TXN-4011eea3,178,MediumAquaMarine Lighting,Home & Garden,2,1401.88,0.0,2803.76
+TXN-4011eea3,185,Designer Shoes Collection,Clothing,2,148.39,14.84,281.94
+TXN-4011eea3,1,Johnson-Davis Skincare Kit,Beauty,5,14.75,14.75,59.0
+TXN-4011eea3,151,The Material Worker,Books,2,32.23,3.22,61.24
+TXN-4011eea3,91,Persevering background artificial intelligence,Books,5,30.87,23.15,131.2
+TXN-4011eea3,144,Designer Accessrories Collection,Clothing,3,294.53,0.0,883.59
+TXN-737a2b6f,24,Smartphones Plus,Electronics,4,1189.15,0.0,4756.6
+TXN-737a2b6f,93,Smith-Cooper Makeup Collection,Beauty,3,129.37,0.0,388.11
+TXN-737a2b6f,133,Cooper Inc Pantry Mix,Food & Beverage,2,15.71,4.71,26.71
+TXN-737a2b6f,45,Luxury Tools,Beauty,5,197.7,49.43,939.07
+TXN-737a2b6f,181,Mayer and Sons Tools Essentials,Beauty,2,52.88,10.58,95.18
+TXN-737a2b6f,80,Digitized tertiary website,Books,1,38.58,3.86,34.72
+TXN-737a2b6f,126,"Vasquez, Pope and Cook Snacks Mix",Food & Beverage,1,62.66,12.53,50.13
+TXN-737a2b6f,30,Premium Smartphones Pro,Electronics,1,700.44,140.09,560.35
+TXN-07c22197,81,PaleGreen Lighting,Home & Garden,2,878.29,0.0,1756.58
+TXN-07c22197,44,Organic Snacks,Food & Beverage,2,78.51,0.0,157.02
+TXN-07c22197,119,Weeks and Sons Organic Mix,Food & Beverage,2,9.99,2.0,17.98
+TXN-22b97154,82,PowderBlue Decor,Home & Garden,4,1471.55,882.93,5003.27
+TXN-22b97154,50,Modern Outdoor Piece,Home & Garden,4,1091.79,0.0,4367.16
+TXN-22b97154,8,Mccarthy Inc Snacks Mix,Food & Beverage,1,25.22,2.52,22.7
+TXN-22b97154,113,Luxury Haircare,Beauty,5,15.5,3.88,73.62
+TXN-22b97154,107,Designer Men Line,Clothing,1,50.96,0.0,50.96
+TXN-22b97154,39,Riddle Ltd Tablets,Electronics,5,1038.89,779.17,4415.28
+TXN-22b97154,188,Modern Kitchen Set,Home & Garden,3,882.04,264.61,2381.51
+TXN-22b97154,22,Moody-Taylor Beverages Mix,Food & Beverage,3,19.13,0.0,57.39
+TXN-22b97154,119,Weeks and Sons Organic Mix,Food & Beverage,5,9.99,9.99,39.96
+TXN-22b97154,182,The Hot Prepare,Books,4,23.31,18.65,74.59
+TXN-6125b7f3,57,"King, Oliver and Norman Haircare Collection",Beauty,2,12.4,0.0,24.8
+TXN-6125b7f3,162,Adams-Lewis Tools Collection,Beauty,5,65.04,32.52,292.68
+TXN-6125b7f3,105,Equipment Champion,Sports,3,391.23,234.74,938.95
+TXN-d17c71a2,38,Jackson-Ellis Pantry Mix,Food & Beverage,4,69.63,13.93,264.59
+TXN-d17c71a2,196,Hopkins-Cook Tools Essentials,Beauty,5,35.27,0.0,176.35
+TXN-d17c71a2,53,Modern Decor Set,Home & Garden,2,982.21,0.0,1964.42
+TXN-d17c71a2,40,Outdoor Champion,Sports,1,311.6,46.74,264.86
+TXN-d17c71a2,105,Equipment Champion,Sports,1,391.23,0.0,391.23
+TXN-d17c71a2,90,Modern Lighting Set,Home & Garden,4,462.75,92.55,1758.45
+TXN-123982a6,187,Fitness Champion,Sports,2,100.54,0.0,201.08
+TXN-9f385043,162,Adams-Lewis Tools Collection,Beauty,5,65.04,65.04,260.16
+TXN-9f385043,112,Pro Outdoor Gear,Sports,1,425.16,42.52,382.64
+TXN-9f385043,44,Organic Snacks,Food & Beverage,1,78.51,0.0,78.51
+TXN-9f385043,103,LightGray Shoes Pants,Clothing,2,15.81,6.32,25.3
+TXN-9f385043,116,Equipment Champion,Sports,5,307.47,76.87,1460.48
+TXN-9f385043,54,Pro Fitness Kit,Sports,3,286.35,0.0,859.05
+TXN-16e837e6,188,Modern Kitchen Set,Home & Garden,5,882.04,661.53,3748.67
+TXN-16e837e6,52,Pro Team Sports Kit,Sports,1,378.48,0.0,378.48
+TXN-16e837e6,134,Modern Decor Set,Home & Garden,3,1454.99,0.0,4364.97
+TXN-16e837e6,19,Organic Gourmet,Food & Beverage,2,81.33,16.27,146.39
+TXN-16e837e6,139,Designer Accessrories Style,Clothing,2,142.85,57.14,228.56
+TXN-16e837e6,112,Pro Outdoor Gear,Sports,4,425.16,0.0,1700.64
+TXN-16e837e6,174,Nguyen and Sons Makeup Collection,Beauty,3,16.0,0.0,48.0
+TXN-16e837e6,122,Ellis Inc Cameras,Electronics,5,1284.79,0.0,6423.95
+TXN-16e837e6,103,LightGray Shoes Pants,Clothing,5,15.81,15.81,63.24
+TXN-41c807ec,85,LightCoral Kitchen,Home & Garden,2,942.42,376.97,1507.87
+TXN-41c807ec,113,Luxury Haircare,Beauty,1,15.5,1.55,13.95
+TXN-41c807ec,169,The Various Picture,Books,3,39.4,0.0,118.2
+TXN-41c807ec,127,Proactive explicit strategy,Books,1,48.1,2.41,45.69
+TXN-41c807ec,73,Smartphones X,Electronics,2,496.4,198.56,794.24
+TXN-41c807ec,115,Pope-Hobbs Pantry Mix,Food & Beverage,1,60.83,0.0,60.83
+TXN-41c807ec,20,Gilbert PLC Skincare Collection,Beauty,5,21.52,21.52,86.08
+TXN-a33ac94a,14,Pro Fitness Kit,Sports,1,64.82,9.72,55.1
+TXN-a33ac94a,186,Tablets Plus,Electronics,3,1592.0,955.2,3820.8
+TXN-a33ac94a,77,Pro Equipment Equipment,Sports,4,382.4,76.48,1453.12
+TXN-a33ac94a,115,Pope-Hobbs Pantry Mix,Food & Beverage,2,60.83,0.0,121.66
+TXN-a33ac94a,153,Hill-Holden Fragrances Collection,Beauty,5,50.77,12.69,241.16
+TXN-a33ac94a,19,Organic Gourmet,Food & Beverage,4,81.33,0.0,325.32
+TXN-5267171b,167,"Smith, Hood and Charles Smartphones",Electronics,3,598.64,359.18,1436.74
+TXN-5267171b,133,Cooper Inc Pantry Mix,Food & Beverage,2,15.71,4.71,26.71
+TXN-5267171b,149,Tablets X,Electronics,1,1248.96,0.0,1248.96
+TXN-5267171b,9,Equipment Champion,Sports,3,443.49,0.0,1330.47
+TXN-5267171b,94,Black Kitchen,Home & Garden,4,1126.27,675.76,3829.32
+TXN-5267171b,172,The Painting Material,Books,2,27.04,8.11,45.97
+TXN-5267171b,55,DarkOrchid Kids Dress,Clothing,4,45.81,0.0,183.24
+TXN-5267171b,150,Luxury Makeup,Beauty,3,191.03,0.0,573.09
+TXN-5267171b,44,Organic Snacks,Food & Beverage,1,78.51,0.0,78.51
+TXN-5267171b,183,"Garza, Black and Huerta Snacks Mix",Food & Beverage,3,66.27,9.94,188.87
+TXN-0389f0f0,87,Premium Accessories Pro,Electronics,2,374.41,37.44,711.38
+TXN-0389f0f0,39,Riddle Ltd Tablets,Electronics,4,1038.89,415.56,3740.0
+TXN-8e1fa540,152,Luxury Haircare,Beauty,3,57.43,17.23,155.06
+TXN-8e1fa540,18,Tablets Ultra,Electronics,1,188.17,18.82,169.35
+TXN-98535214,61,Eaton-Smith Beverages Mix,Food & Beverage,3,69.99,10.5,199.47
+TXN-f01cbc10,194,Farley-Ford Laptops,Electronics,2,1177.71,235.54,2119.88
+TXN-f01cbc10,165,Modern Outdoor Piece,Home & Garden,5,1298.96,0.0,6494.8
+TXN-f01cbc10,189,Gainsboro Accessrories Shirt,Clothing,4,210.53,0.0,842.12
+TXN-f01cbc10,192,Designer Women Line,Clothing,2,108.51,0.0,217.02
+TXN-f01cbc10,157,Luxury Fragrances,Beauty,3,109.88,0.0,329.64
+TXN-f01cbc10,30,Premium Smartphones Pro,Electronics,4,700.44,0.0,2801.76
+TXN-f01cbc10,150,Luxury Makeup,Beauty,1,191.03,0.0,191.03
+TXN-f01cbc10,32,Modern Kitchen Piece,Home & Garden,4,1350.49,0.0,5401.96
+TXN-f01cbc10,109,Barber-Benitez Skincare Essentials,Beauty,4,69.38,0.0,277.52
+TXN-9f3de568,18,Tablets Ultra,Electronics,4,188.17,75.27,677.41
+TXN-9f3de568,2,Premium Smartphones Pro,Electronics,5,232.71,0.0,1163.55
+TXN-9f3de568,164,MediumSlateBlue Kids Dress,Clothing,4,161.77,0.0,647.08
+TXN-9f3de568,174,Nguyen and Sons Makeup Collection,Beauty,2,16.0,0.0,32.0
+TXN-f2a04e32,153,Hill-Holden Fragrances Collection,Beauty,4,50.77,40.62,162.46
+TXN-f2a04e32,200,Pearson Group Tools Kit,Beauty,3,70.59,10.59,201.18
+TXN-f2a04e32,180,Forbes-Moyer Fragrances Kit,Beauty,3,50.66,7.6,144.38
+TXN-f2a04e32,15,Lawson LLC Snacks Mix,Food & Beverage,5,97.86,0.0,489.3
+TXN-f2a04e32,148,Crimson Furniture,Home & Garden,3,138.5,0.0,415.5
+TXN-f2a04e32,69,Designer Women Line,Clothing,5,90.42,67.81,384.29
+TXN-f2a04e32,135,The Reveal No,Books,2,25.78,2.58,48.98
+TXN-f2a04e32,41,Outdoor Champion,Sports,3,260.48,0.0,781.44
+TXN-f2a04e32,59,Organic Snacks,Food & Beverage,4,30.06,0.0,120.24
+TXN-f2a04e32,66,Pro Team Sports Equipment,Sports,3,100.34,45.15,255.87
+TXN-695c1edd,70,Monitored fresh-thinking superstructure,Books,3,18.11,2.72,51.61
+TXN-695c1edd,139,Designer Accessrories Style,Clothing,3,142.85,85.71,342.84
+TXN-695c1edd,46,Taylor-Moore Beverages Mix,Food & Beverage,4,84.47,0.0,337.88
+TXN-695c1edd,173,Potter LLC Snacks Mix,Food & Beverage,1,60.9,6.09,54.81
+TXN-230a071d,90,Modern Lighting Set,Home & Garden,1,462.75,69.41,393.34
+TXN-230a071d,145,Organic Beverages,Food & Beverage,4,88.92,53.35,302.33
+TXN-230a071d,36,Allen-Hopkins Pantry Mix,Food & Beverage,2,35.12,3.51,66.73
+TXN-230a071d,110,Accessories Plus,Electronics,3,238.3,142.98,571.92
+TXN-230a071d,93,Smith-Cooper Makeup Collection,Beauty,1,129.37,25.87,103.5
+TXN-230a071d,179,Team Sports Champion,Sports,4,477.76,286.66,1624.38
+TXN-230a071d,19,Organic Gourmet,Food & Beverage,4,81.33,0.0,325.32
+TXN-230a071d,175,Designer Accessrories Line,Clothing,3,158.02,0.0,474.06
+TXN-230a071d,156,Fitness Champion,Sports,3,186.84,84.08,476.44
+TXN-39164e81,66,Pro Team Sports Equipment,Sports,4,100.34,40.14,361.22
+TXN-39164e81,181,Mayer and Sons Tools Essentials,Beauty,4,52.88,21.15,190.37
+TXN-87771faa,177,Designer Women Line,Clothing,5,94.52,0.0,472.6
+TXN-87771faa,66,Pro Team Sports Equipment,Sports,3,100.34,45.15,255.87
+TXN-87771faa,169,The Various Picture,Books,5,39.4,19.7,177.3
+TXN-87771faa,41,Outdoor Champion,Sports,1,260.48,0.0,260.48
+TXN-87771faa,48,Team Sports Champion,Sports,2,275.88,82.76,469.0
+TXN-87771faa,53,Modern Decor Set,Home & Garden,3,982.21,0.0,2946.63
+TXN-87771faa,88,ForestGreen Shoes Pants,Clothing,5,132.43,0.0,662.15
+TXN-14bacb92,107,Designer Men Line,Clothing,3,50.96,30.58,122.3
+TXN-14bacb92,167,"Smith, Hood and Charles Smartphones",Electronics,4,598.64,0.0,2394.56
+TXN-14bacb92,58,Luxury Tools,Beauty,1,193.44,0.0,193.44
+TXN-14bacb92,66,Pro Team Sports Equipment,Sports,3,100.34,0.0,301.02
+TXN-14bacb92,194,Farley-Ford Laptops,Electronics,5,1177.71,883.28,5005.27
+TXN-14bacb92,5,Modern Lighting Piece,Home & Garden,5,1330.47,665.24,5987.11
+TXN-14bacb92,36,Allen-Hopkins Pantry Mix,Food & Beverage,5,35.12,26.34,149.26
+TXN-706006e7,194,Farley-Ford Laptops,Electronics,5,1177.71,883.28,5005.27
+TXN-706006e7,29,The Minute Visit,Books,5,37.29,0.0,186.45
+TXN-706006e7,106,Taylor and Sons Smartphones,Electronics,3,1997.24,0.0,5991.72
+TXN-706006e7,21,Modern Outdoor Piece,Home & Garden,4,389.71,0.0,1558.84
+TXN-706006e7,69,Designer Women Line,Clothing,3,90.42,13.56,257.7
+TXN-706006e7,153,Hill-Holden Fragrances Collection,Beauty,1,50.77,0.0,50.77
+TXN-706006e7,94,Black Kitchen,Home & Garden,2,1126.27,0.0,2252.54
+TXN-706006e7,59,Organic Snacks,Food & Beverage,3,30.06,0.0,90.18
+TXN-a6f8d1ed,44,Organic Snacks,Food & Beverage,4,78.51,0.0,314.04
+TXN-a6f8d1ed,51,Outdoor Champion,Sports,4,434.76,260.86,1478.18
+TXN-a6f8d1ed,87,Premium Accessories Pro,Electronics,4,374.41,0.0,1497.64
+TXN-a6f8d1ed,28,Organic Pantry,Food & Beverage,1,3.76,0.0,3.76
+TXN-a6f8d1ed,132,DarkOrchid Kids Pants,Clothing,1,285.09,57.02,228.07
+TXN-a6f8d1ed,182,The Hot Prepare,Books,1,23.31,0.0,23.31
+TXN-3ced06dd,194,Farley-Ford Laptops,Electronics,2,1177.71,235.54,2119.88
+TXN-3ced06dd,135,The Reveal No,Books,2,25.78,5.16,46.4
+TXN-3ced06dd,124,The Ahead Save,Books,2,19.54,0.0,39.08
+TXN-e85154b2,88,ForestGreen Shoes Pants,Clothing,2,132.43,0.0,264.86
+TXN-e85154b2,74,CadetBlue Decor,Home & Garden,4,1495.48,299.1,5682.82
+TXN-e85154b2,131,DarkCyan Decor,Home & Garden,1,1011.77,151.77,860.0
+TXN-e85154b2,50,Modern Outdoor Piece,Home & Garden,5,1091.79,0.0,5458.95
+TXN-e85154b2,10,Pro Apparel Gear,Sports,4,205.71,82.28,740.56
+TXN-e85154b2,99,SpringGreen Lighting,Home & Garden,4,640.31,128.06,2433.18
+TXN-e85154b2,8,Mccarthy Inc Snacks Mix,Food & Beverage,1,25.22,3.78,21.44
+TXN-b91d772f,87,Premium Accessories Pro,Electronics,5,374.41,0.0,1872.05
+TXN-b91d772f,123,GreenYellow Decor,Home & Garden,5,276.78,0.0,1383.9
+TXN-884279f9,95,Team Sports Champion,Sports,4,375.81,150.32,1352.92
+TXN-884279f9,51,Outdoor Champion,Sports,3,434.76,130.43,1173.85
+TXN-884279f9,156,Fitness Champion,Sports,4,186.84,74.74,672.62
+TXN-884279f9,50,Modern Outdoor Piece,Home & Garden,4,1091.79,436.72,3930.44
+TXN-884279f9,114,Luxury Skincare,Beauty,1,27.43,0.0,27.43
+TXN-6752512a,132,DarkOrchid Kids Pants,Clothing,5,285.09,142.54,1282.91
+TXN-6752512a,33,The During Author,Books,1,48.82,7.32,41.5
+TXN-6752512a,163,Designer Accessrories Style,Clothing,2,133.45,0.0,266.9
+TXN-6752512a,3,The Soon No,Books,1,41.42,0.0,41.42
+TXN-6752512a,17,Pro Fitness Gear,Sports,3,131.47,0.0,394.41
+TXN-23acd19d,189,Gainsboro Accessrories Shirt,Clothing,4,210.53,84.21,757.91
+TXN-23acd19d,15,Lawson LLC Snacks Mix,Food & Beverage,2,97.86,19.57,176.15
+TXN-23acd19d,117,Gold Furniture,Home & Garden,4,346.37,69.27,1316.21
+TXN-23acd19d,174,Nguyen and Sons Makeup Collection,Beauty,2,16.0,1.6,30.4
+TXN-23acd19d,141,Monitored maximized Local Area Network,Books,5,37.33,28.0,158.65
+TXN-23acd19d,112,Pro Outdoor Gear,Sports,2,425.16,85.03,765.29
+TXN-23acd19d,143,Premium Tablets Pro,Electronics,2,1587.61,158.76,3016.46
+TXN-4c8f191a,142,Crimson Furniture,Home & Garden,5,1431.04,0.0,7155.2
+TXN-4c8f191a,154,Fitness Champion,Sports,3,407.15,0.0,1221.45
+TXN-4c8f191a,155,Organic Beverages,Food & Beverage,4,72.05,0.0,288.2
+TXN-4c8f191a,36,Allen-Hopkins Pantry Mix,Food & Beverage,2,35.12,14.05,56.19
+TXN-4c8f191a,126,"Vasquez, Pope and Cook Snacks Mix",Food & Beverage,4,62.66,25.06,225.58
+TXN-4c8f191a,187,Fitness Champion,Sports,5,100.54,75.41,427.29
+TXN-4c8f191a,15,Lawson LLC Snacks Mix,Food & Beverage,4,97.86,19.57,371.87
+TXN-4c8f191a,30,Premium Smartphones Pro,Electronics,4,700.44,140.09,2661.67
+TXN-249caca3,3,The Soon No,Books,5,41.42,0.0,207.1
+TXN-249caca3,151,The Material Worker,Books,2,32.23,0.0,64.46
+TXN-40b2ed5e,131,DarkCyan Decor,Home & Garden,4,1011.77,404.71,3642.37
+TXN-40b2ed5e,176,Apparel Champion,Sports,4,194.64,77.86,700.7
+TXN-40b2ed5e,57,"King, Oliver and Norman Haircare Collection",Beauty,5,12.4,0.0,62.0
+TXN-633477c7,69,Designer Women Line,Clothing,5,90.42,90.42,361.68
+TXN-633477c7,72,Team Sports Champion,Sports,1,352.87,70.57,282.3
+TXN-633477c7,61,Eaton-Smith Beverages Mix,Food & Beverage,4,69.99,28.0,251.96
+TXN-633477c7,131,DarkCyan Decor,Home & Garden,2,1011.77,101.18,1922.36
+TXN-633477c7,52,Pro Team Sports Kit,Sports,1,378.48,56.77,321.71
+TXN-633477c7,33,The During Author,Books,2,48.82,0.0,97.64
+TXN-5ef4296c,99,SpringGreen Lighting,Home & Garden,4,640.31,512.25,2048.99
+TXN-5ef4296c,76,Premium Accessories Pro,Electronics,1,1736.58,347.32,1389.26
+TXN-ccc03014,168,Luxury Haircare,Beauty,5,155.13,116.35,659.3
+TXN-ccc03014,84,Turner-Reese Gourmet Mix,Food & Beverage,4,12.67,0.0,50.68
+TXN-ccc03014,25,Torres and Sons Beverages Mix,Food & Beverage,5,42.17,0.0,210.85
+TXN-ccc03014,7,Jordan PLC Skincare Kit,Beauty,2,125.73,50.29,201.17
+TXN-ccc03014,8,Mccarthy Inc Snacks Mix,Food & Beverage,2,25.22,10.09,40.35
+TXN-ccc03014,15,Lawson LLC Snacks Mix,Food & Beverage,1,97.86,9.79,88.07
+TXN-f94edf5b,58,Luxury Tools,Beauty,3,193.44,87.05,493.27
+TXN-f94edf5b,76,Premium Accessories Pro,Electronics,3,1736.58,0.0,5209.74
+TXN-f94edf5b,143,Premium Tablets Pro,Electronics,5,1587.61,0.0,7938.05
+TXN-b509fc4e,66,Pro Team Sports Equipment,Sports,2,100.34,40.14,160.54
+TXN-b509fc4e,160,PaleTurquoise Lighting,Home & Garden,4,809.55,0.0,3238.2
+TXN-8cd2ce5d,88,ForestGreen Shoes Pants,Clothing,2,132.43,0.0,264.86
+TXN-8cd2ce5d,131,DarkCyan Decor,Home & Garden,3,1011.77,607.06,2428.25
+TXN-8cd2ce5d,42,Organic Beverages,Food & Beverage,2,68.26,27.3,109.22
+TXN-102128c4,99,SpringGreen Lighting,Home & Garden,4,640.31,128.06,2433.18
+TXN-102128c4,196,Hopkins-Cook Tools Essentials,Beauty,4,35.27,0.0,141.08
+TXN-102128c4,23,Organic Gourmet,Food & Beverage,1,30.67,1.53,29.14
+TXN-102128c4,197,Organic Snacks,Food & Beverage,5,97.91,73.43,416.12
+TXN-102128c4,54,Pro Fitness Kit,Sports,3,286.35,128.86,730.19
+TXN-b150ef22,138,Premium Tablets Pro,Electronics,1,487.85,97.57,390.28
+TXN-b150ef22,195,SeaShell Women Jacket,Clothing,1,233.26,34.99,198.27
+TXN-b150ef22,187,Fitness Champion,Sports,4,100.54,60.32,341.84
+TXN-b150ef22,73,Smartphones X,Electronics,3,496.4,297.84,1191.36
+TXN-b150ef22,133,Cooper Inc Pantry Mix,Food & Beverage,1,15.71,3.14,12.57
+TXN-b150ef22,123,GreenYellow Decor,Home & Garden,5,276.78,69.19,1314.71
+TXN-b150ef22,196,Hopkins-Cook Tools Essentials,Beauty,2,35.27,3.53,67.01
+TXN-b150ef22,87,Premium Accessories Pro,Electronics,2,374.41,37.44,711.38
+TXN-b150ef22,155,Organic Beverages,Food & Beverage,3,72.05,0.0,216.15
+TXN-b150ef22,110,Accessories Plus,Electronics,3,238.3,0.0,714.9
+TXN-473d1d83,193,Outdoor Champion,Sports,3,261.49,117.67,666.8
+TXN-473d1d83,89,Optional client-server data-warehouse,Books,1,15.45,0.0,15.45
+TXN-473d1d83,128,Pro Apparel Equipment,Sports,1,266.15,39.92,226.23
+TXN-473d1d83,50,Modern Outdoor Piece,Home & Garden,4,1091.79,0.0,4367.16
+TXN-473d1d83,42,Organic Beverages,Food & Beverage,1,68.26,13.65,54.61
+TXN-473d1d83,180,Forbes-Moyer Fragrances Kit,Beauty,2,50.66,5.07,96.25
+TXN-473d1d83,79,White Accessrories Dress,Clothing,4,280.81,0.0,1123.24
+TXN-473d1d83,85,LightCoral Kitchen,Home & Garden,4,942.42,0.0,3769.68
+TXN-885a6aef,55,DarkOrchid Kids Dress,Clothing,2,45.81,18.32,73.3
+TXN-885a6aef,33,The During Author,Books,3,48.82,0.0,146.46
+TXN-885a6aef,105,Equipment Champion,Sports,3,391.23,0.0,1173.69
+TXN-885a6aef,8,Mccarthy Inc Snacks Mix,Food & Beverage,1,25.22,0.0,25.22
+TXN-885a6aef,74,CadetBlue Decor,Home & Garden,2,1495.48,0.0,2990.96
+TXN-3c64c0cd,128,Pro Apparel Equipment,Sports,4,266.15,159.69,904.91
+TXN-3c64c0cd,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,1,46.94,7.04,39.9
+TXN-3c64c0cd,169,The Various Picture,Books,1,39.4,0.0,39.4
+TXN-3c64c0cd,173,Potter LLC Snacks Mix,Food & Beverage,2,60.9,6.09,115.71
+TXN-0b4299f0,50,Modern Outdoor Piece,Home & Garden,1,1091.79,0.0,1091.79
+TXN-0b4299f0,73,Smartphones X,Electronics,3,496.4,297.84,1191.36
+TXN-0b4299f0,145,Organic Beverages,Food & Beverage,1,88.92,17.78,71.14
+TXN-0b4299f0,119,Weeks and Sons Organic Mix,Food & Beverage,4,9.99,5.99,33.97
+TXN-0b4299f0,78,Polarized uniform solution,Books,2,36.94,3.69,70.19
+TXN-0b4299f0,134,Modern Decor Set,Home & Garden,1,1454.99,0.0,1454.99
+TXN-0b4299f0,47,Modern Kitchen Piece,Home & Garden,4,1341.68,0.0,5366.72
+TXN-0b4299f0,40,Outdoor Champion,Sports,1,311.6,0.0,311.6
+TXN-b68b2f3e,54,Pro Fitness Kit,Sports,2,286.35,85.91,486.79
+TXN-b68b2f3e,200,Pearson Group Tools Kit,Beauty,2,70.59,0.0,141.18
+TXN-b68b2f3e,132,DarkOrchid Kids Pants,Clothing,5,285.09,142.54,1282.91
+TXN-b68b2f3e,188,Modern Kitchen Set,Home & Garden,1,882.04,88.2,793.84
+TXN-b68b2f3e,100,LavenderBlush Furniture,Home & Garden,2,1041.62,104.16,1979.08
+TXN-b68b2f3e,173,Potter LLC Snacks Mix,Food & Beverage,3,60.9,27.4,155.3
+TXN-b68b2f3e,64,Organic Pantry,Food & Beverage,2,60.89,18.27,103.51
+TXN-0101c5b4,14,Pro Fitness Kit,Sports,2,64.82,0.0,129.64
+TXN-0101c5b4,2,Premium Smartphones Pro,Electronics,1,232.71,0.0,232.71
+TXN-0101c5b4,38,Jackson-Ellis Pantry Mix,Food & Beverage,1,69.63,6.96,62.67
+TXN-0101c5b4,57,"King, Oliver and Norman Haircare Collection",Beauty,4,12.4,0.0,49.6
+TXN-0101c5b4,108,Luxury Skincare,Beauty,4,172.03,0.0,688.12
+TXN-0101c5b4,100,LavenderBlush Furniture,Home & Garden,2,1041.62,0.0,2083.24
+TXN-0101c5b4,68,Pro Equipment Gear,Sports,3,455.17,204.83,1160.68
+TXN-0101c5b4,92,Luxury Fragrances,Beauty,1,168.24,0.0,168.24
+TXN-7a18181a,185,Designer Shoes Collection,Clothing,1,148.39,29.68,118.71
+TXN-7a18181a,122,Ellis Inc Cameras,Electronics,3,1284.79,0.0,3854.37
+TXN-7a18181a,169,The Various Picture,Books,5,39.4,19.7,177.3
+TXN-7a18181a,86,Cameras Max,Electronics,5,183.42,0.0,917.1
+TXN-7a18181a,177,Designer Women Line,Clothing,4,94.52,0.0,378.08
+TXN-afcff489,156,Fitness Champion,Sports,4,186.84,37.37,709.99
+TXN-afcff489,137,Johnson Group Laptops,Electronics,1,1642.57,0.0,1642.57
+TXN-afcff489,116,Equipment Champion,Sports,4,307.47,184.48,1045.4
+TXN-afcff489,110,Accessories Plus,Electronics,5,238.3,0.0,1191.5
+TXN-49ed7e90,168,Luxury Haircare,Beauty,3,155.13,0.0,465.39
+TXN-49ed7e90,54,Pro Fitness Kit,Sports,4,286.35,229.08,916.32
+TXN-49ed7e90,123,GreenYellow Decor,Home & Garden,5,276.78,69.19,1314.71
+TXN-49ed7e90,196,Hopkins-Cook Tools Essentials,Beauty,3,35.27,10.58,95.23
+TXN-49ed7e90,112,Pro Outdoor Gear,Sports,2,425.16,170.06,680.26
+TXN-49ed7e90,180,Forbes-Moyer Fragrances Kit,Beauty,4,50.66,40.53,162.11
+TXN-ef1270e9,107,Designer Men Line,Clothing,2,50.96,0.0,101.92
+TXN-ef1270e9,91,Persevering background artificial intelligence,Books,1,30.87,6.17,24.7
+TXN-ef1270e9,145,Organic Beverages,Food & Beverage,4,88.92,35.57,320.11
+TXN-ef1270e9,139,Designer Accessrories Style,Clothing,3,142.85,64.28,364.27
+TXN-ef1270e9,51,Outdoor Champion,Sports,5,434.76,434.76,1739.04
+TXN-b0788484,88,ForestGreen Shoes Pants,Clothing,5,132.43,66.22,595.93
+TXN-b0788484,174,Nguyen and Sons Makeup Collection,Beauty,2,16.0,0.0,32.0
+TXN-b0788484,183,"Garza, Black and Huerta Snacks Mix",Food & Beverage,1,66.27,0.0,66.27
+TXN-b0788484,59,Organic Snacks,Food & Beverage,1,30.06,3.01,27.05
+TXN-b0788484,68,Pro Equipment Gear,Sports,2,455.17,182.07,728.27
+TXN-b0788484,5,Modern Lighting Piece,Home & Garden,2,1330.47,266.09,2394.85
+TXN-b0788484,170,Designer Shoes Collection,Clothing,3,160.1,24.02,456.28
+TXN-b0788484,44,Organic Snacks,Food & Beverage,5,78.51,58.88,333.67
+TXN-b0788484,106,Taylor and Sons Smartphones,Electronics,1,1997.24,0.0,1997.24
+TXN-0371cd33,3,The Soon No,Books,1,41.42,0.0,41.42
+TXN-0371cd33,33,The During Author,Books,1,48.82,2.44,46.38
+TXN-0371cd33,14,Pro Fitness Kit,Sports,1,64.82,3.24,61.58
+TXN-0371cd33,144,Designer Accessrories Collection,Clothing,5,294.53,147.26,1325.39
+TXN-4d495028,149,Tablets X,Electronics,1,1248.96,0.0,1248.96
+TXN-4d495028,5,Modern Lighting Piece,Home & Garden,2,1330.47,399.14,2261.8
+TXN-4d495028,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,1,45.33,0.0,45.33
+TXN-7dd238dd,49,LavenderBlush Kitchen,Home & Garden,2,1135.14,0.0,2270.28
+TXN-7dd238dd,114,Luxury Skincare,Beauty,2,27.43,8.23,46.63
+TXN-7dd238dd,127,Proactive explicit strategy,Books,3,48.1,21.64,122.66
+TXN-7dd238dd,96,Miller Group Pantry Mix,Food & Beverage,1,38.48,7.7,30.78
+TXN-7dd238dd,144,Designer Accessrories Collection,Clothing,1,294.53,0.0,294.53
+TXN-361e2b28,38,Jackson-Ellis Pantry Mix,Food & Beverage,1,69.63,3.48,66.15
+TXN-361e2b28,197,Organic Snacks,Food & Beverage,4,97.91,39.16,352.48
+TXN-361e2b28,20,Gilbert PLC Skincare Collection,Beauty,3,21.52,0.0,64.56
+TXN-361e2b28,174,Nguyen and Sons Makeup Collection,Beauty,4,16.0,12.8,51.2
+TXN-361e2b28,60,SandyBrown Kitchen,Home & Garden,5,523.7,0.0,2618.5
+TXN-361e2b28,194,Farley-Ford Laptops,Electronics,3,1177.71,0.0,3533.13
+TXN-361e2b28,190,FireBrick Accessrories Dress,Clothing,3,58.66,35.2,140.78
+TXN-361e2b28,76,Premium Accessories Pro,Electronics,1,1736.58,173.66,1562.92
+TXN-361e2b28,117,Gold Furniture,Home & Garden,1,346.37,0.0,346.37
+TXN-361e2b28,113,Luxury Haircare,Beauty,5,15.5,0.0,77.5
+TXN-ffa87458,186,Tablets Plus,Electronics,4,1592.0,0.0,6368.0
+TXN-6bedbe32,171,The Hit Apply,Books,5,19.76,19.76,79.04
+TXN-c85e8604,8,Mccarthy Inc Snacks Mix,Food & Beverage,3,25.22,0.0,75.66
+TXN-c85e8604,23,Organic Gourmet,Food & Beverage,1,30.67,3.07,27.6
+TXN-c85e8604,176,Apparel Champion,Sports,3,194.64,0.0,583.92
+TXN-c85e8604,81,PaleGreen Lighting,Home & Garden,5,878.29,658.72,3732.73
+TXN-c85e8604,166,Upgradable interactive data-warehouse,Books,1,27.44,0.0,27.44
+TXN-c85e8604,51,Outdoor Champion,Sports,2,434.76,173.9,695.62
+TXN-c85e8604,127,Proactive explicit strategy,Books,5,48.1,0.0,240.5
+TXN-63f03602,94,Black Kitchen,Home & Garden,3,1126.27,0.0,3378.81
+TXN-63f03602,28,Organic Pantry,Food & Beverage,1,3.76,0.38,3.38
+TXN-63f03602,142,Crimson Furniture,Home & Garden,4,1431.04,0.0,5724.16
+TXN-63f03602,198,Hayes-Thomas Skincare Kit,Beauty,3,16.12,0.0,48.36
+TXN-63f03602,66,Pro Team Sports Equipment,Sports,3,100.34,30.1,270.92
+TXN-2b29f654,159,Designer Kids Style,Clothing,5,281.4,70.35,1336.65
+TXN-2b29f654,140,Modern Decor Set,Home & Garden,2,465.7,139.71,791.69
+TXN-2b29f654,168,Luxury Haircare,Beauty,5,155.13,155.13,620.52
+TXN-2b29f654,11,Pro Apparel Kit,Sports,2,41.13,0.0,82.26
+TXN-2b29f654,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,1,46.94,2.35,44.59
+TXN-2b29f654,153,Hill-Holden Fragrances Collection,Beauty,1,50.77,0.0,50.77
+TXN-767d96f4,22,Moody-Taylor Beverages Mix,Food & Beverage,3,19.13,0.0,57.39
+TXN-6dcd8464,128,Pro Apparel Equipment,Sports,1,266.15,0.0,266.15
+TXN-6dcd8464,167,"Smith, Hood and Charles Smartphones",Electronics,5,598.64,0.0,2993.2
+TXN-6dcd8464,13,Organic Beverages,Food & Beverage,4,52.25,10.45,198.55
+TXN-6dcd8464,36,Allen-Hopkins Pantry Mix,Food & Beverage,1,35.12,0.0,35.12
+TXN-6dcd8464,131,DarkCyan Decor,Home & Garden,3,1011.77,0.0,3035.31
+TXN-b25e2a1a,51,Outdoor Champion,Sports,4,434.76,260.86,1478.18
+TXN-b25e2a1a,79,White Accessrories Dress,Clothing,3,280.81,42.12,800.31
+TXN-b25e2a1a,119,Weeks and Sons Organic Mix,Food & Beverage,1,9.99,1.0,8.99
+TXN-b25e2a1a,1,Johnson-Davis Skincare Kit,Beauty,1,14.75,1.48,13.27
+TXN-b25e2a1a,122,Ellis Inc Cameras,Electronics,2,1284.79,385.44,2184.14
+TXN-b25e2a1a,81,PaleGreen Lighting,Home & Garden,4,878.29,0.0,3513.16
+TXN-b25e2a1a,54,Pro Fitness Kit,Sports,5,286.35,143.18,1288.57
+TXN-b25e2a1a,180,Forbes-Moyer Fragrances Kit,Beauty,1,50.66,2.53,48.13
+TXN-b25e2a1a,139,Designer Accessrories Style,Clothing,2,142.85,0.0,285.7
+TXN-d9826389,98,Modern Outdoor Set,Home & Garden,3,192.68,0.0,578.04
+TXN-d9826389,189,Gainsboro Accessrories Shirt,Clothing,4,210.53,0.0,842.12
+TXN-d9826389,18,Tablets Ultra,Electronics,2,188.17,0.0,376.34
+TXN-d9826389,128,Pro Apparel Equipment,Sports,2,266.15,0.0,532.3
+TXN-d9826389,131,DarkCyan Decor,Home & Garden,5,1011.77,0.0,5058.85
+TXN-d9826389,32,Modern Kitchen Piece,Home & Garden,2,1350.49,0.0,2700.98
+TXN-d9826389,8,Mccarthy Inc Snacks Mix,Food & Beverage,2,25.22,2.52,47.92
+TXN-818077cc,80,Digitized tertiary website,Books,2,38.58,3.86,73.3
+TXN-818077cc,191,Bell PLC Tools Essentials,Beauty,3,175.9,26.39,501.31
+TXN-818077cc,98,Modern Outdoor Set,Home & Garden,3,192.68,115.61,462.43
+TXN-818077cc,109,Barber-Benitez Skincare Essentials,Beauty,1,69.38,0.0,69.38
+TXN-818077cc,136,Pro Team Sports Equipment,Sports,2,281.72,112.69,450.75
+TXN-818077cc,112,Pro Outdoor Gear,Sports,3,425.16,255.1,1020.38
+TXN-778c3ac6,85,LightCoral Kitchen,Home & Garden,2,942.42,0.0,1884.84
+TXN-778c3ac6,6,Brennan-Garrison Snacks Mix,Food & Beverage,2,39.87,0.0,79.74
+TXN-778c3ac6,96,Miller Group Pantry Mix,Food & Beverage,4,38.48,15.39,138.53
+TXN-778c3ac6,105,Equipment Champion,Sports,1,391.23,58.68,332.55
+TXN-778c3ac6,154,Fitness Champion,Sports,3,407.15,0.0,1221.45
+TXN-778c3ac6,84,Turner-Reese Gourmet Mix,Food & Beverage,2,12.67,0.0,25.34
+TXN-58fd0e90,191,Bell PLC Tools Essentials,Beauty,2,175.9,0.0,351.8
+TXN-58fd0e90,118,Smartphones Plus,Electronics,4,1019.9,0.0,4079.6
+TXN-58fd0e90,185,Designer Shoes Collection,Clothing,2,148.39,0.0,296.78
+TXN-58fd0e90,155,Organic Beverages,Food & Beverage,1,72.05,0.0,72.05
+TXN-58fd0e90,81,PaleGreen Lighting,Home & Garden,2,878.29,0.0,1756.58
+TXN-58fd0e90,79,White Accessrories Dress,Clothing,2,280.81,112.32,449.3
+TXN-58fd0e90,158,Modern Decor Piece,Home & Garden,4,1319.38,0.0,5277.52
+TXN-58fd0e90,54,Pro Fitness Kit,Sports,1,286.35,28.64,257.71
+TXN-58fd0e90,65,Designer Kids Line,Clothing,5,27.97,0.0,139.85
+TXN-53e89688,122,Ellis Inc Cameras,Electronics,2,1284.79,0.0,2569.58
+TXN-53e89688,16,The Challenge Answer,Books,3,48.4,0.0,145.2
+TXN-53e89688,82,PowderBlue Decor,Home & Garden,1,1471.55,73.58,1397.97
+TXN-53e89688,39,Riddle Ltd Tablets,Electronics,1,1038.89,0.0,1038.89
+TXN-53e89688,84,Turner-Reese Gourmet Mix,Food & Beverage,5,12.67,3.17,60.18
+TXN-53e89688,128,Pro Apparel Equipment,Sports,4,266.15,53.23,1011.37
+TXN-53e89688,137,Johnson Group Laptops,Electronics,1,1642.57,82.13,1560.44
+TXN-53e89688,53,Modern Decor Set,Home & Garden,4,982.21,0.0,3928.84
+TXN-1c963ff2,164,MediumSlateBlue Kids Dress,Clothing,4,161.77,0.0,647.08
+TXN-1c963ff2,88,ForestGreen Shoes Pants,Clothing,1,132.43,13.24,119.19
+TXN-1c963ff2,69,Designer Women Line,Clothing,5,90.42,45.21,406.89
+TXN-1c963ff2,140,Modern Decor Set,Home & Garden,2,465.7,139.71,791.69
+TXN-1c963ff2,169,The Various Picture,Books,3,39.4,5.91,112.29
+TXN-95b1239f,160,PaleTurquoise Lighting,Home & Garden,3,809.55,121.43,2307.22
+TXN-95b1239f,84,Turner-Reese Gourmet Mix,Food & Beverage,2,12.67,1.27,24.07
+TXN-2a80c8d3,112,Pro Outdoor Gear,Sports,5,425.16,425.16,1700.64
+TXN-2a80c8d3,20,Gilbert PLC Skincare Collection,Beauty,1,21.52,1.08,20.44
+TXN-2a80c8d3,126,"Vasquez, Pope and Cook Snacks Mix",Food & Beverage,3,62.66,9.4,178.58
+TXN-2a80c8d3,103,LightGray Shoes Pants,Clothing,5,15.81,15.81,63.24
+TXN-19a239c2,60,SandyBrown Kitchen,Home & Garden,4,523.7,0.0,2094.8
+TXN-19a239c2,64,Organic Pantry,Food & Beverage,2,60.89,0.0,121.78
+TXN-19a239c2,30,Premium Smartphones Pro,Electronics,3,700.44,210.13,1891.19
+TXN-19a239c2,18,Tablets Ultra,Electronics,2,188.17,0.0,376.34
+TXN-19a239c2,66,Pro Team Sports Equipment,Sports,3,100.34,0.0,301.02
+TXN-19a239c2,15,Lawson LLC Snacks Mix,Food & Beverage,4,97.86,39.14,352.3
+TXN-f1337f70,64,Organic Pantry,Food & Beverage,1,60.89,0.0,60.89
+TXN-f1337f70,80,Digitized tertiary website,Books,2,38.58,0.0,77.16
+TXN-f1337f70,95,Team Sports Champion,Sports,5,375.81,375.81,1503.24
+TXN-a05ef85a,148,Crimson Furniture,Home & Garden,4,138.5,0.0,554.0
+TXN-a05ef85a,156,Fitness Champion,Sports,2,186.84,0.0,373.68
+TXN-a05ef85a,200,Pearson Group Tools Kit,Beauty,2,70.59,14.12,127.06
+TXN-a05ef85a,8,Mccarthy Inc Snacks Mix,Food & Beverage,3,25.22,15.13,60.53
+TXN-a05ef85a,159,Designer Kids Style,Clothing,3,281.4,84.42,759.78
+TXN-a05ef85a,58,Luxury Tools,Beauty,1,193.44,29.02,164.42
+TXN-a05ef85a,190,FireBrick Accessrories Dress,Clothing,3,58.66,17.6,158.38
+TXN-a05ef85a,20,Gilbert PLC Skincare Collection,Beauty,5,21.52,0.0,107.6
+TXN-a05ef85a,128,Pro Apparel Equipment,Sports,5,266.15,0.0,1330.75
+TXN-a05ef85a,103,LightGray Shoes Pants,Clothing,4,15.81,6.32,56.92
+TXN-87de4bd8,36,Allen-Hopkins Pantry Mix,Food & Beverage,2,35.12,7.02,63.22
+TXN-2ab6977c,163,Designer Accessrories Style,Clothing,5,133.45,0.0,667.25
+TXN-2ab6977c,77,Pro Equipment Equipment,Sports,2,382.4,0.0,764.8
+TXN-2ab6977c,155,Organic Beverages,Food & Beverage,2,72.05,28.82,115.28
+TXN-2ab6977c,25,Torres and Sons Beverages Mix,Food & Beverage,3,42.17,0.0,126.51
+TXN-2ab6977c,184,Luxury Haircare,Beauty,1,176.58,0.0,176.58
+TXN-2ab6977c,91,Persevering background artificial intelligence,Books,5,30.87,23.15,131.2
+TXN-d8d69265,174,Nguyen and Sons Makeup Collection,Beauty,1,16.0,0.0,16.0
+TXN-d8d69265,31,Premium Smartphones Pro,Electronics,4,1892.85,757.14,6814.26
+TXN-d8d69265,122,Ellis Inc Cameras,Electronics,1,1284.79,0.0,1284.79
+TXN-d8d69265,179,Team Sports Champion,Sports,3,477.76,0.0,1433.28
+TXN-d8d69265,148,Crimson Furniture,Home & Garden,2,138.5,0.0,277.0
+TXN-d8d69265,69,Designer Women Line,Clothing,4,90.42,72.34,289.34
+TXN-0bb74c7f,53,Modern Decor Set,Home & Garden,5,982.21,736.66,4174.39
+TXN-0bb74c7f,156,Fitness Champion,Sports,5,186.84,186.84,747.36
+TXN-0bb74c7f,65,Designer Kids Line,Clothing,3,27.97,0.0,83.91
+TXN-d4ef7bc9,132,DarkOrchid Kids Pants,Clothing,3,285.09,0.0,855.27
+TXN-d4ef7bc9,82,PowderBlue Decor,Home & Garden,2,1471.55,441.46,2501.64
+TXN-d4ef7bc9,175,Designer Accessrories Line,Clothing,1,158.02,23.7,134.32
+TXN-d4ef7bc9,105,Equipment Champion,Sports,5,391.23,97.81,1858.34
+TXN-d4ef7bc9,115,Pope-Hobbs Pantry Mix,Food & Beverage,5,60.83,0.0,304.15
+TXN-da856e29,190,FireBrick Accessrories Dress,Clothing,2,58.66,17.6,99.72
+TXN-da856e29,180,Forbes-Moyer Fragrances Kit,Beauty,5,50.66,0.0,253.3
+TXN-da856e29,162,Adams-Lewis Tools Collection,Beauty,4,65.04,0.0,260.16
+TXN-da856e29,89,Optional client-server data-warehouse,Books,3,15.45,6.95,39.4
+TXN-da856e29,46,Taylor-Moore Beverages Mix,Food & Beverage,1,84.47,0.0,84.47
+TXN-da856e29,197,Organic Snacks,Food & Beverage,3,97.91,0.0,293.73
+TXN-da856e29,155,Organic Beverages,Food & Beverage,2,72.05,21.61,122.49
+TXN-da856e29,117,Gold Furniture,Home & Garden,1,346.37,69.27,277.1
+TXN-da856e29,191,Bell PLC Tools Essentials,Beauty,3,175.9,26.39,501.31
+TXN-da856e29,30,Premium Smartphones Pro,Electronics,1,700.44,0.0,700.44
+TXN-39c8f9b1,115,Pope-Hobbs Pantry Mix,Food & Beverage,1,60.83,9.12,51.71
+TXN-39c8f9b1,119,Weeks and Sons Organic Mix,Food & Beverage,1,9.99,0.0,9.99
+TXN-39c8f9b1,196,Hopkins-Cook Tools Essentials,Beauty,4,35.27,7.05,134.03
+TXN-39c8f9b1,42,Organic Beverages,Food & Beverage,4,68.26,0.0,273.04
+TXN-39c8f9b1,117,Gold Furniture,Home & Garden,4,346.37,69.27,1316.21
+TXN-fbd61e54,139,Designer Accessrories Style,Clothing,5,142.85,107.14,607.11
+TXN-fbd61e54,51,Outdoor Champion,Sports,2,434.76,0.0,869.52
+TXN-fbd61e54,101,Modern Decor Set,Home & Garden,4,1452.95,0.0,5811.8
+TXN-fbd61e54,190,FireBrick Accessrories Dress,Clothing,1,58.66,0.0,58.66
+TXN-fbd61e54,137,Johnson Group Laptops,Electronics,1,1642.57,0.0,1642.57
+TXN-fbd61e54,189,Gainsboro Accessrories Shirt,Clothing,3,210.53,0.0,631.59
+TXN-fbd61e54,126,"Vasquez, Pope and Cook Snacks Mix",Food & Beverage,1,62.66,0.0,62.66
+TXN-fbd61e54,27,Designer Shoes Style,Clothing,2,90.58,9.06,172.1
+TXN-b46c92f9,136,Pro Team Sports Equipment,Sports,3,281.72,84.52,760.64
+TXN-b46c92f9,106,Taylor and Sons Smartphones,Electronics,5,1997.24,499.31,9486.89
+TXN-4146ce9b,40,Outdoor Champion,Sports,5,311.6,77.9,1480.1
+TXN-4146ce9b,48,Team Sports Champion,Sports,2,275.88,0.0,551.76
+TXN-4146ce9b,15,Lawson LLC Snacks Mix,Food & Beverage,1,97.86,0.0,97.86
+TXN-68bc22f0,99,SpringGreen Lighting,Home & Garden,5,640.31,0.0,3201.55
+TXN-68bc22f0,155,Organic Beverages,Food & Beverage,3,72.05,0.0,216.15
+TXN-68bc22f0,170,Designer Shoes Collection,Clothing,2,160.1,0.0,320.2
+TXN-68bc22f0,191,Bell PLC Tools Essentials,Beauty,1,175.9,8.79,167.11
+TXN-68bc22f0,14,Pro Fitness Kit,Sports,5,64.82,32.41,291.69
+TXN-68bc22f0,152,Luxury Haircare,Beauty,4,57.43,0.0,229.72
+TXN-68bc22f0,42,Organic Beverages,Food & Beverage,1,68.26,0.0,68.26
+TXN-68bc22f0,92,Luxury Fragrances,Beauty,1,168.24,8.41,159.83
+TXN-68bc22f0,5,Modern Lighting Piece,Home & Garden,1,1330.47,0.0,1330.47
+TXN-8dfde14e,47,Modern Kitchen Piece,Home & Garden,1,1341.68,0.0,1341.68
+TXN-8dfde14e,173,Potter LLC Snacks Mix,Food & Beverage,2,60.9,18.27,103.53
+TXN-529583ab,175,Designer Accessrories Line,Clothing,3,158.02,94.81,379.25
+TXN-529583ab,176,Apparel Champion,Sports,4,194.64,38.93,739.63
+TXN-98e71ed3,100,LavenderBlush Furniture,Home & Garden,4,1041.62,0.0,4166.48
+TXN-98e71ed3,78,Polarized uniform solution,Books,3,36.94,5.54,105.28
+TXN-98e71ed3,164,MediumSlateBlue Kids Dress,Clothing,3,161.77,0.0,485.31
+TXN-98e71ed3,195,SeaShell Women Jacket,Clothing,4,233.26,0.0,933.04
+TXN-98e71ed3,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,3,45.33,6.8,129.19
+TXN-98e71ed3,147,CornflowerBlue Accessrories Shirt,Clothing,4,212.24,0.0,848.96
+TXN-98e71ed3,187,Fitness Champion,Sports,2,100.54,40.22,160.86
+TXN-98e71ed3,89,Optional client-server data-warehouse,Books,3,15.45,4.63,41.72
+TXN-98e71ed3,123,GreenYellow Decor,Home & Garden,1,276.78,0.0,276.78
+TXN-0c6ee23f,18,Tablets Ultra,Electronics,5,188.17,47.04,893.81
+TXN-0c6ee23f,106,Taylor and Sons Smartphones,Electronics,5,1997.24,0.0,9986.2
+TXN-0c6ee23f,191,Bell PLC Tools Essentials,Beauty,5,175.9,0.0,879.5
+TXN-0c6ee23f,31,Premium Smartphones Pro,Electronics,4,1892.85,1514.28,6057.12
+TXN-0c6ee23f,187,Fitness Champion,Sports,5,100.54,25.14,477.56
+TXN-0c6ee23f,154,Fitness Champion,Sports,5,407.15,305.36,1730.39
+TXN-d8ba21cc,100,LavenderBlush Furniture,Home & Garden,1,1041.62,52.08,989.54
+TXN-d8ba21cc,112,Pro Outdoor Gear,Sports,1,425.16,42.52,382.64
+TXN-d8ba21cc,136,Pro Team Sports Equipment,Sports,5,281.72,140.86,1267.74
+TXN-d8ba21cc,156,Fitness Champion,Sports,5,186.84,140.13,794.07
+TXN-d8ba21cc,115,Pope-Hobbs Pantry Mix,Food & Beverage,5,60.83,0.0,304.15
+TXN-4df3035d,106,Taylor and Sons Smartphones,Electronics,2,1997.24,798.9,3195.58
+TXN-4df3035d,175,Designer Accessrories Line,Clothing,2,158.02,0.0,316.04
+TXN-4df3035d,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,1,34.99,1.75,33.24
+TXN-b93eef2f,88,ForestGreen Shoes Pants,Clothing,5,132.43,0.0,662.15
+TXN-b93eef2f,19,Organic Gourmet,Food & Beverage,3,81.33,36.6,207.39
+TXN-b93eef2f,179,Team Sports Champion,Sports,1,477.76,0.0,477.76
+TXN-52f456c1,10,Pro Apparel Gear,Sports,5,205.71,51.43,977.12
+TXN-52f456c1,93,Smith-Cooper Makeup Collection,Beauty,1,129.37,25.87,103.5
+TXN-52f456c1,44,Organic Snacks,Food & Beverage,5,78.51,39.26,353.29
+TXN-52f456c1,19,Organic Gourmet,Food & Beverage,5,81.33,81.33,325.32
+TXN-52f456c1,114,Luxury Skincare,Beauty,4,27.43,0.0,109.72
+TXN-d742e1b6,101,Modern Decor Set,Home & Garden,1,1452.95,0.0,1452.95
+TXN-d742e1b6,135,The Reveal No,Books,5,25.78,25.78,103.12
+TXN-d742e1b6,180,Forbes-Moyer Fragrances Kit,Beauty,1,50.66,10.13,40.53
+TXN-d742e1b6,80,Digitized tertiary website,Books,3,38.58,23.15,92.59
+TXN-d742e1b6,145,Organic Beverages,Food & Beverage,5,88.92,0.0,444.6
+TXN-d742e1b6,79,White Accessrories Dress,Clothing,4,280.81,0.0,1123.24
+TXN-d742e1b6,166,Upgradable interactive data-warehouse,Books,4,27.44,16.46,93.3
+TXN-d742e1b6,102,Modern Decor Set,Home & Garden,4,1483.45,593.38,5340.42
+TXN-d742e1b6,103,LightGray Shoes Pants,Clothing,5,15.81,3.95,75.1
+TXN-d742e1b6,104,Modern Decor Piece,Home & Garden,1,891.5,0.0,891.5
+TXN-3c9843ed,88,ForestGreen Shoes Pants,Clothing,1,132.43,6.62,125.81
+TXN-3c9843ed,106,Taylor and Sons Smartphones,Electronics,3,1997.24,898.76,5092.96
+TXN-3c9843ed,87,Premium Accessories Pro,Electronics,2,374.41,0.0,748.82
+TXN-3c9843ed,166,Upgradable interactive data-warehouse,Books,4,27.44,0.0,109.76
+TXN-3c9843ed,123,GreenYellow Decor,Home & Garden,3,276.78,0.0,830.34
+TXN-3c9843ed,85,LightCoral Kitchen,Home & Garden,3,942.42,565.45,2261.81
+TXN-3c9843ed,153,Hill-Holden Fragrances Collection,Beauty,3,50.77,0.0,152.31
+TXN-a432be4b,151,The Material Worker,Books,2,32.23,0.0,64.46
+TXN-a432be4b,142,Crimson Furniture,Home & Garden,3,1431.04,643.97,3649.15
+TXN-01d05d2c,29,The Minute Visit,Books,5,37.29,27.97,158.48
+TXN-01d05d2c,132,DarkOrchid Kids Pants,Clothing,1,285.09,0.0,285.09
+TXN-01d05d2c,152,Luxury Haircare,Beauty,4,57.43,0.0,229.72
+TXN-01d05d2c,23,Organic Gourmet,Food & Beverage,4,30.67,18.4,104.28
+TXN-01d05d2c,20,Gilbert PLC Skincare Collection,Beauty,4,21.52,17.22,68.86
+TXN-01d05d2c,40,Outdoor Champion,Sports,5,311.6,311.6,1246.4
+TXN-01d05d2c,133,Cooper Inc Pantry Mix,Food & Beverage,3,15.71,9.43,37.7
+TXN-40ccca4e,45,Luxury Tools,Beauty,5,197.7,49.43,939.07
+TXN-40ccca4e,185,Designer Shoes Collection,Clothing,2,148.39,59.36,237.42
+TXN-40ccca4e,123,GreenYellow Decor,Home & Garden,5,276.78,138.39,1245.51
+TXN-40ccca4e,71,The Writer Voice,Books,1,34.14,0.0,34.14
+TXN-40ccca4e,82,PowderBlue Decor,Home & Garden,2,1471.55,588.62,2354.48
+TXN-aced7eca,61,Eaton-Smith Beverages Mix,Food & Beverage,1,69.99,0.0,69.99
+TXN-aced7eca,34,Outdoor Champion,Sports,2,140.73,0.0,281.46
+TXN-aced7eca,165,Modern Outdoor Piece,Home & Garden,3,1298.96,779.38,3117.5
+TXN-aced7eca,53,Modern Decor Set,Home & Garden,4,982.21,392.88,3535.96
+TXN-aced7eca,174,Nguyen and Sons Makeup Collection,Beauty,4,16.0,9.6,54.4
+TXN-aced7eca,17,Pro Fitness Gear,Sports,1,131.47,19.72,111.75
+TXN-aced7eca,86,Cameras Max,Electronics,1,183.42,0.0,183.42
+TXN-aced7eca,18,Tablets Ultra,Electronics,3,188.17,28.23,536.28
+TXN-89310760,180,Forbes-Moyer Fragrances Kit,Beauty,5,50.66,25.33,227.97
+TXN-89310760,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,3,46.94,0.0,140.82
+TXN-89310760,2,Premium Smartphones Pro,Electronics,2,232.71,93.08,372.34
+TXN-89310760,44,Organic Snacks,Food & Beverage,3,78.51,35.33,200.2
+TXN-89310760,177,Designer Women Line,Clothing,1,94.52,0.0,94.52
+TXN-89310760,184,Luxury Haircare,Beauty,1,176.58,8.83,167.75
+TXN-89310760,87,Premium Accessories Pro,Electronics,1,374.41,0.0,374.41
+TXN-89310760,92,Luxury Fragrances,Beauty,5,168.24,168.24,672.96
+TXN-3860df41,132,DarkOrchid Kids Pants,Clothing,3,285.09,128.29,726.98
+TXN-3860df41,147,CornflowerBlue Accessrories Shirt,Clothing,4,212.24,84.9,764.06
+TXN-3860df41,113,Luxury Haircare,Beauty,1,15.5,3.1,12.4
+TXN-3860df41,171,The Hit Apply,Books,1,19.76,0.99,18.77
+TXN-57386d7e,93,Smith-Cooper Makeup Collection,Beauty,2,129.37,0.0,258.74
+TXN-9555426c,104,Modern Decor Piece,Home & Garden,4,891.5,178.3,3387.7
+TXN-9555426c,54,Pro Fitness Kit,Sports,3,286.35,42.95,816.1
+TXN-9555426c,85,LightCoral Kitchen,Home & Garden,3,942.42,0.0,2827.26
+TXN-9555426c,57,"King, Oliver and Norman Haircare Collection",Beauty,4,12.4,0.0,49.6
+TXN-9555426c,125,Advanced analyzing flexibility,Books,5,20.84,20.84,83.36
+TXN-c48b14a5,163,Designer Accessrories Style,Clothing,3,133.45,40.03,360.32
+TXN-c48b14a5,95,Team Sports Champion,Sports,5,375.81,187.91,1691.14
+TXN-c48b14a5,61,Eaton-Smith Beverages Mix,Food & Beverage,3,69.99,0.0,209.97
+TXN-c48b14a5,200,Pearson Group Tools Kit,Beauty,1,70.59,3.53,67.06
+TXN-c48b14a5,78,Polarized uniform solution,Books,1,36.94,0.0,36.94
+TXN-c48b14a5,147,CornflowerBlue Accessrories Shirt,Clothing,3,212.24,95.51,541.21
+TXN-c48b14a5,152,Luxury Haircare,Beauty,3,57.43,34.46,137.83
+TXN-c48b14a5,188,Modern Kitchen Set,Home & Garden,3,882.04,0.0,2646.12
+TXN-c48b14a5,120,Roberts Group Fragrances Collection,Beauty,3,65.01,0.0,195.03
+TXN-2436812e,169,The Various Picture,Books,5,39.4,9.85,187.15
+TXN-00d956da,18,Tablets Ultra,Electronics,4,188.17,0.0,752.68
+TXN-8f3be207,129,Anderson and Sons Haircare Kit,Beauty,5,22.52,16.89,95.71
+TXN-87e4088a,96,Miller Group Pantry Mix,Food & Beverage,5,38.48,28.86,163.54
+TXN-87e4088a,188,Modern Kitchen Set,Home & Garden,4,882.04,529.22,2998.94
+TXN-87e4088a,152,Luxury Haircare,Beauty,3,57.43,17.23,155.06
+TXN-87e4088a,86,Cameras Max,Electronics,3,183.42,110.05,440.21
+TXN-061263fa,139,Designer Accessrories Style,Clothing,3,142.85,0.0,428.55
+TXN-061263fa,107,Designer Men Line,Clothing,4,50.96,0.0,203.84
+TXN-061263fa,18,Tablets Ultra,Electronics,3,188.17,84.68,479.83
+TXN-b90ff711,193,Outdoor Champion,Sports,1,261.49,0.0,261.49
+TXN-b90ff711,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,3,85.48,0.0,256.44
+TXN-b90ff711,158,Modern Decor Piece,Home & Garden,3,1319.38,197.91,3760.23
+TXN-b90ff711,100,LavenderBlush Furniture,Home & Garden,3,1041.62,0.0,3124.86
+TXN-b90ff711,80,Digitized tertiary website,Books,3,38.58,11.57,104.17
+TXN-b90ff711,28,Organic Pantry,Food & Beverage,3,3.76,0.56,10.72
+TXN-a001fcde,167,"Smith, Hood and Charles Smartphones",Electronics,5,598.64,299.32,2693.88
+TXN-a001fcde,111,Modern Outdoor Set,Home & Garden,1,1304.78,65.24,1239.54
+TXN-a001fcde,67,Organic Pantry,Food & Beverage,2,95.07,19.01,171.13
+TXN-a001fcde,143,Premium Tablets Pro,Electronics,1,1587.61,317.52,1270.09
+TXN-a001fcde,117,Gold Furniture,Home & Garden,4,346.37,138.55,1246.93
+TXN-a001fcde,83,Hunt-Harrison Gourmet Mix,Food & Beverage,3,40.45,6.07,115.28
+TXN-a001fcde,33,The During Author,Books,1,48.82,9.76,39.06
+TXN-a001fcde,185,Designer Shoes Collection,Clothing,2,148.39,0.0,296.78
+TXN-a001fcde,129,Anderson and Sons Haircare Kit,Beauty,2,22.52,0.0,45.04
+TXN-a001fcde,5,Modern Lighting Piece,Home & Garden,4,1330.47,532.19,4789.69
+TXN-1c0d3469,9,Equipment Champion,Sports,1,443.49,22.17,421.32
+TXN-1c0d3469,156,Fitness Champion,Sports,3,186.84,84.08,476.44
+TXN-1c0d3469,150,Luxury Makeup,Beauty,2,191.03,0.0,382.06
+TXN-95ab8d89,133,Cooper Inc Pantry Mix,Food & Beverage,2,15.71,3.14,28.28
+TXN-95ab8d89,162,Adams-Lewis Tools Collection,Beauty,2,65.04,6.5,123.58
+TXN-95ab8d89,161,Multi-channeled attitude-oriented synergy,Books,1,42.14,0.0,42.14
+TXN-95ab8d89,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,5,85.48,21.37,406.03
+TXN-38f928bd,22,Moody-Taylor Beverages Mix,Food & Beverage,4,19.13,0.0,76.52
+TXN-38f928bd,32,Modern Kitchen Piece,Home & Garden,1,1350.49,135.05,1215.44
+TXN-38f928bd,93,Smith-Cooper Makeup Collection,Beauty,2,129.37,38.81,219.93
+TXN-38f928bd,193,Outdoor Champion,Sports,3,261.49,0.0,784.47
+TXN-38f928bd,172,The Painting Material,Books,3,27.04,16.22,64.9
+TXN-38f928bd,17,Pro Fitness Gear,Sports,5,131.47,0.0,657.35
+TXN-38f928bd,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,1,45.33,6.8,38.53
+TXN-38f928bd,196,Hopkins-Cook Tools Essentials,Beauty,1,35.27,5.29,29.98
+TXN-1fc3b941,137,Johnson Group Laptops,Electronics,2,1642.57,0.0,3285.14
+TXN-1fc3b941,143,Premium Tablets Pro,Electronics,4,1587.61,635.04,5715.4
+TXN-1fc3b941,145,Organic Beverages,Food & Beverage,5,88.92,0.0,444.6
+TXN-1fc3b941,157,Luxury Fragrances,Beauty,2,109.88,0.0,219.76
+TXN-1fc3b941,178,MediumAquaMarine Lighting,Home & Garden,1,1401.88,0.0,1401.88
+TXN-f8da9833,71,The Writer Voice,Books,3,34.14,5.12,97.3
+TXN-f8da9833,156,Fitness Champion,Sports,2,186.84,0.0,373.68
+TXN-f8da9833,101,Modern Decor Set,Home & Garden,4,1452.95,0.0,5811.8
+TXN-f8da9833,93,Smith-Cooper Makeup Collection,Beauty,2,129.37,0.0,258.74
+TXN-f8da9833,21,Modern Outdoor Piece,Home & Garden,4,389.71,0.0,1558.84
+TXN-f8da9833,161,Multi-channeled attitude-oriented synergy,Books,2,42.14,0.0,84.28
+TXN-f8da9833,155,Organic Beverages,Food & Beverage,2,72.05,0.0,144.1
+TXN-f8da9833,4,Fitness Champion,Sports,1,185.9,18.59,167.31
+TXN-f8da9833,119,Weeks and Sons Organic Mix,Food & Beverage,5,9.99,0.0,49.95
+TXN-4cb7149c,21,Modern Outdoor Piece,Home & Garden,4,389.71,233.83,1325.01
+TXN-2529352b,98,Modern Outdoor Set,Home & Garden,1,192.68,28.9,163.78
+TXN-2529352b,119,Weeks and Sons Organic Mix,Food & Beverage,1,9.99,1.5,8.49
+TXN-2529352b,18,Tablets Ultra,Electronics,1,188.17,0.0,188.17
+TXN-2529352b,14,Pro Fitness Kit,Sports,1,64.82,3.24,61.58
+TXN-2529352b,92,Luxury Fragrances,Beauty,4,168.24,33.65,639.31
+TXN-2529352b,158,Modern Decor Piece,Home & Garden,1,1319.38,131.94,1187.44
+TXN-2529352b,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,3,45.33,6.8,129.19
+TXN-2529352b,86,Cameras Max,Electronics,2,183.42,0.0,366.84
+TXN-2529352b,81,PaleGreen Lighting,Home & Garden,1,878.29,0.0,878.29
+TXN-2529352b,157,Luxury Fragrances,Beauty,4,109.88,65.93,373.59
+TXN-1301f7ec,67,Organic Pantry,Food & Beverage,2,95.07,9.51,180.63
+TXN-1301f7ec,188,Modern Kitchen Set,Home & Garden,1,882.04,88.2,793.84
+TXN-1301f7ec,145,Organic Beverages,Food & Beverage,5,88.92,0.0,444.6
+TXN-1301f7ec,10,Pro Apparel Gear,Sports,3,205.71,0.0,617.13
+TXN-1301f7ec,72,Team Sports Champion,Sports,1,352.87,17.64,335.23
+TXN-1301f7ec,126,"Vasquez, Pope and Cook Snacks Mix",Food & Beverage,2,62.66,12.53,112.79
+TXN-1301f7ec,195,SeaShell Women Jacket,Clothing,2,233.26,93.3,373.22
+TXN-1301f7ec,122,Ellis Inc Cameras,Electronics,3,1284.79,770.87,3083.5
+TXN-1301f7ec,8,Mccarthy Inc Snacks Mix,Food & Beverage,5,25.22,0.0,126.1
+TXN-1301f7ec,147,CornflowerBlue Accessrories Shirt,Clothing,3,212.24,95.51,541.21
+TXN-dee0e4c2,155,Organic Beverages,Food & Beverage,2,72.05,21.61,122.49
+TXN-dee0e4c2,133,Cooper Inc Pantry Mix,Food & Beverage,4,15.71,0.0,62.84
+TXN-dee0e4c2,195,SeaShell Women Jacket,Clothing,2,233.26,0.0,466.52
+TXN-dee0e4c2,198,Hayes-Thomas Skincare Kit,Beauty,1,16.12,2.42,13.7
+TXN-dee0e4c2,193,Outdoor Champion,Sports,1,261.49,0.0,261.49
+TXN-dee0e4c2,124,The Ahead Save,Books,5,19.54,14.65,83.05
+TXN-dee0e4c2,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,4,46.94,0.0,187.76
+TXN-dee0e4c2,61,Eaton-Smith Beverages Mix,Food & Beverage,1,69.99,14.0,55.99
+TXN-c74b9d43,48,Team Sports Champion,Sports,2,275.88,27.59,524.17
+TXN-c74b9d43,88,ForestGreen Shoes Pants,Clothing,3,132.43,0.0,397.29
+TXN-c74b9d43,146,Gibbs-Howard Snacks Mix,Food & Beverage,4,86.98,0.0,347.92
+TXN-c74b9d43,128,Pro Apparel Equipment,Sports,1,266.15,53.23,212.92
+TXN-c74b9d43,114,Luxury Skincare,Beauty,2,27.43,10.97,43.89
+TXN-17e5135a,195,SeaShell Women Jacket,Clothing,4,233.26,139.96,793.08
+TXN-17e5135a,98,Modern Outdoor Set,Home & Garden,1,192.68,0.0,192.68
+TXN-17e5135a,164,MediumSlateBlue Kids Dress,Clothing,1,161.77,0.0,161.77
+TXN-17e5135a,143,Premium Tablets Pro,Electronics,2,1587.61,476.28,2698.94
+TXN-17e5135a,54,Pro Fitness Kit,Sports,2,286.35,0.0,572.7
+TXN-17e5135a,40,Outdoor Champion,Sports,3,311.6,46.74,888.06
+TXN-512d1a9c,175,Designer Accessrories Line,Clothing,3,158.02,0.0,474.06
+TXN-512d1a9c,20,Gilbert PLC Skincare Collection,Beauty,1,21.52,1.08,20.44
+TXN-512d1a9c,135,The Reveal No,Books,4,25.78,5.16,97.96
+TXN-512d1a9c,38,Jackson-Ellis Pantry Mix,Food & Beverage,3,69.63,41.78,167.11
+TXN-512d1a9c,27,Designer Shoes Style,Clothing,4,90.58,54.35,307.97
+TXN-512d1a9c,15,Lawson LLC Snacks Mix,Food & Beverage,4,97.86,78.29,313.15
+TXN-c562f50e,151,The Material Worker,Books,2,32.23,9.67,54.79
+TXN-c562f50e,81,PaleGreen Lighting,Home & Garden,1,878.29,175.66,702.63
+TXN-6fb8b4fc,150,Luxury Makeup,Beauty,5,191.03,143.27,811.88
+TXN-6fb8b4fc,131,DarkCyan Decor,Home & Garden,4,1011.77,0.0,4047.08
+TXN-6fb8b4fc,100,LavenderBlush Furniture,Home & Garden,5,1041.62,260.4,4947.7
+TXN-6fb8b4fc,195,SeaShell Women Jacket,Clothing,3,233.26,69.98,629.8
+TXN-6fb8b4fc,135,The Reveal No,Books,1,25.78,5.16,20.62
+TXN-6fb8b4fc,55,DarkOrchid Kids Dress,Clothing,2,45.81,4.58,87.04
+TXN-6fb8b4fc,129,Anderson and Sons Haircare Kit,Beauty,4,22.52,0.0,90.08
+TXN-6fb8b4fc,30,Premium Smartphones Pro,Electronics,4,700.44,140.09,2661.67
+TXN-46616433,35,Hughes-Miller Beverages Mix,Food & Beverage,5,24.62,24.62,98.48
+TXN-13222ada,74,CadetBlue Decor,Home & Garden,5,1495.48,747.74,6729.66
+TXN-13222ada,21,Modern Outdoor Piece,Home & Garden,5,389.71,0.0,1948.55
+TXN-13222ada,4,Fitness Champion,Sports,4,185.9,111.54,632.06
+TXN-13222ada,110,Accessories Plus,Electronics,2,238.3,23.83,452.77
+TXN-13222ada,32,Modern Kitchen Piece,Home & Garden,3,1350.49,607.72,3443.75
+TXN-13222ada,139,Designer Accessrories Style,Clothing,4,142.85,0.0,571.4
+TXN-b0293914,140,Modern Decor Set,Home & Garden,2,465.7,93.14,838.26
+TXN-0ef01bb2,96,Miller Group Pantry Mix,Food & Beverage,4,38.48,0.0,153.92
+TXN-0ef01bb2,145,Organic Beverages,Food & Beverage,2,88.92,0.0,177.84
+TXN-af266499,111,Modern Outdoor Set,Home & Garden,4,1304.78,1043.82,4175.3
+TXN-af266499,73,Smartphones X,Electronics,2,496.4,0.0,992.8
+TXN-af266499,40,Outdoor Champion,Sports,4,311.6,62.32,1184.08
+TXN-af266499,116,Equipment Champion,Sports,5,307.47,76.87,1460.48
+TXN-af266499,79,White Accessrories Dress,Clothing,1,280.81,56.16,224.65
+TXN-af266499,162,Adams-Lewis Tools Collection,Beauty,4,65.04,13.01,247.15
+TXN-af266499,197,Organic Snacks,Food & Beverage,3,97.91,0.0,293.73
+TXN-eb78abf6,9,Equipment Champion,Sports,4,443.49,0.0,1773.96
+TXN-eb78abf6,106,Taylor and Sons Smartphones,Electronics,5,1997.24,998.62,8987.58
+TXN-eb78abf6,15,Lawson LLC Snacks Mix,Food & Beverage,1,97.86,19.57,78.29
+TXN-eb78abf6,36,Allen-Hopkins Pantry Mix,Food & Beverage,1,35.12,7.02,28.1
+TXN-eb78abf6,47,Modern Kitchen Piece,Home & Garden,5,1341.68,670.84,6037.56
+TXN-eb78abf6,19,Organic Gourmet,Food & Beverage,3,81.33,24.4,219.59
+TXN-eb78abf6,70,Monitored fresh-thinking superstructure,Books,5,18.11,0.0,90.55
+TXN-1eaff773,48,Team Sports Champion,Sports,1,275.88,55.18,220.7
+TXN-1eaff773,185,Designer Shoes Collection,Clothing,2,148.39,59.36,237.42
+TXN-1eaff773,65,Designer Kids Line,Clothing,4,27.97,0.0,111.88
+TXN-1eaff773,46,Taylor-Moore Beverages Mix,Food & Beverage,5,84.47,84.47,337.88
+TXN-1eaff773,177,Designer Women Line,Clothing,5,94.52,47.26,425.34
+TXN-1eaff773,153,Hill-Holden Fragrances Collection,Beauty,4,50.77,30.46,172.62
+TXN-6250bc7b,78,Polarized uniform solution,Books,2,36.94,0.0,73.88
+TXN-6250bc7b,29,The Minute Visit,Books,3,37.29,0.0,111.87
+TXN-67eb4232,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,3,85.48,38.47,217.97
+TXN-67eb4232,138,Premium Tablets Pro,Electronics,1,487.85,0.0,487.85
+TXN-67eb4232,110,Accessories Plus,Electronics,2,238.3,23.83,452.77
+TXN-67eb4232,153,Hill-Holden Fragrances Collection,Beauty,2,50.77,20.31,81.23
+TXN-67eb4232,93,Smith-Cooper Makeup Collection,Beauty,4,129.37,0.0,517.48
+TXN-67eb4232,137,Johnson Group Laptops,Electronics,3,1642.57,492.77,4434.94
+TXN-67eb4232,194,Farley-Ford Laptops,Electronics,2,1177.71,0.0,2355.42
+TXN-67eb4232,69,Designer Women Line,Clothing,1,90.42,18.08,72.34
+TXN-67eb4232,58,Luxury Tools,Beauty,4,193.44,0.0,773.76
+TXN-4b447e25,46,Taylor-Moore Beverages Mix,Food & Beverage,1,84.47,16.89,67.58
+TXN-4b447e25,190,FireBrick Accessrories Dress,Clothing,4,58.66,0.0,234.64
+TXN-4b447e25,137,Johnson Group Laptops,Electronics,5,1642.57,0.0,8212.85
+TXN-4b447e25,81,PaleGreen Lighting,Home & Garden,4,878.29,175.66,3337.5
+TXN-4b447e25,17,Pro Fitness Gear,Sports,5,131.47,65.73,591.62
+TXN-4b447e25,10,Pro Apparel Gear,Sports,2,205.71,20.57,390.85
+TXN-e704d4ac,118,Smartphones Plus,Electronics,5,1019.9,254.98,4844.52
+TXN-e704d4ac,109,Barber-Benitez Skincare Essentials,Beauty,5,69.38,69.38,277.52
+TXN-e704d4ac,180,Forbes-Moyer Fragrances Kit,Beauty,2,50.66,15.2,86.12
+TXN-e704d4ac,133,Cooper Inc Pantry Mix,Food & Beverage,5,15.71,0.0,78.55
+TXN-e704d4ac,38,Jackson-Ellis Pantry Mix,Food & Beverage,2,69.63,0.0,139.26
+TXN-e704d4ac,102,Modern Decor Set,Home & Garden,4,1483.45,890.07,5043.73
+TXN-e704d4ac,164,MediumSlateBlue Kids Dress,Clothing,5,161.77,80.89,727.96
+TXN-59d5ea26,199,Luxury Skincare,Beauty,2,56.5,0.0,113.0
+TXN-59d5ea26,113,Luxury Haircare,Beauty,4,15.5,0.0,62.0
+TXN-59d5ea26,14,Pro Fitness Kit,Sports,3,64.82,9.72,184.74
+TXN-59d5ea26,200,Pearson Group Tools Kit,Beauty,2,70.59,0.0,141.18
+TXN-59d5ea26,82,PowderBlue Decor,Home & Garden,4,1471.55,588.62,5297.58
+TXN-59d5ea26,173,Potter LLC Snacks Mix,Food & Beverage,5,60.9,0.0,304.5
+TXN-59d5ea26,163,Designer Accessrories Style,Clothing,5,133.45,133.45,533.8
+TXN-59d5ea26,179,Team Sports Champion,Sports,3,477.76,214.99,1218.29
+TXN-59d5ea26,170,Designer Shoes Collection,Clothing,5,160.1,120.07,680.43
+TXN-59d5ea26,68,Pro Equipment Gear,Sports,2,455.17,0.0,910.34
+TXN-dedc0bd6,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,2,45.33,13.6,77.06
+TXN-dedc0bd6,150,Luxury Makeup,Beauty,2,191.03,38.21,343.85
+TXN-dedc0bd6,148,Crimson Furniture,Home & Garden,5,138.5,103.88,588.62
+TXN-dedc0bd6,39,Riddle Ltd Tablets,Electronics,3,1038.89,467.5,2649.17
+TXN-dedc0bd6,6,Brennan-Garrison Snacks Mix,Food & Beverage,1,39.87,7.97,31.9
+TXN-dedc0bd6,119,Weeks and Sons Organic Mix,Food & Beverage,3,9.99,3.0,26.97
+TXN-d4a6ef99,78,Polarized uniform solution,Books,5,36.94,0.0,184.7
+TXN-d4a6ef99,70,Monitored fresh-thinking superstructure,Books,4,18.11,14.49,57.95
+TXN-d4a6ef99,119,Weeks and Sons Organic Mix,Food & Beverage,1,9.99,1.0,8.99
+TXN-d4a6ef99,165,Modern Outdoor Piece,Home & Garden,1,1298.96,0.0,1298.96
+TXN-d4a6ef99,30,Premium Smartphones Pro,Electronics,4,700.44,0.0,2801.76
+TXN-d4a6ef99,99,SpringGreen Lighting,Home & Garden,1,640.31,96.05,544.26
+TXN-d4a6ef99,85,LightCoral Kitchen,Home & Garden,1,942.42,0.0,942.42
+TXN-da89bb12,33,The During Author,Books,3,48.82,0.0,146.46
+TXN-da89bb12,109,Barber-Benitez Skincare Essentials,Beauty,1,69.38,10.41,58.97
+TXN-da89bb12,72,Team Sports Champion,Sports,3,352.87,0.0,1058.61
+TXN-da89bb12,54,Pro Fitness Kit,Sports,5,286.35,0.0,1431.75
+TXN-da89bb12,155,Organic Beverages,Food & Beverage,3,72.05,43.23,172.92
+TXN-7121362f,88,ForestGreen Shoes Pants,Clothing,2,132.43,39.73,225.13
+TXN-7121362f,151,The Material Worker,Books,5,32.23,8.06,153.09
+TXN-7121362f,140,Modern Decor Set,Home & Garden,2,465.7,93.14,838.26
+TXN-7121362f,73,Smartphones X,Electronics,3,496.4,223.38,1265.82
+TXN-7121362f,171,The Hit Apply,Books,1,19.76,0.99,18.77
+TXN-7121362f,117,Gold Furniture,Home & Garden,4,346.37,69.27,1316.21
+TXN-7121362f,58,Luxury Tools,Beauty,3,193.44,58.03,522.29
+TXN-7121362f,111,Modern Outdoor Set,Home & Garden,1,1304.78,0.0,1304.78
+TXN-7121362f,74,CadetBlue Decor,Home & Garden,3,1495.48,0.0,4486.44
+TXN-81e1d0ca,106,Taylor and Sons Smartphones,Electronics,2,1997.24,599.17,3395.31
+TXN-81e1d0ca,100,LavenderBlush Furniture,Home & Garden,3,1041.62,624.97,2499.89
+TXN-81e1d0ca,35,Hughes-Miller Beverages Mix,Food & Beverage,5,24.62,12.31,110.79
+TXN-81e1d0ca,197,Organic Snacks,Food & Beverage,5,97.91,0.0,489.55
+TXN-81e1d0ca,195,SeaShell Women Jacket,Clothing,2,233.26,0.0,466.52
+TXN-81e1d0ca,21,Modern Outdoor Piece,Home & Garden,4,389.71,0.0,1558.84
+TXN-81e1d0ca,99,SpringGreen Lighting,Home & Garden,1,640.31,0.0,640.31
+TXN-81e1d0ca,30,Premium Smartphones Pro,Electronics,2,700.44,210.13,1190.75
+TXN-660b8b88,90,Modern Lighting Set,Home & Garden,5,462.75,0.0,2313.75
+TXN-660b8b88,30,Premium Smartphones Pro,Electronics,2,700.44,0.0,1400.88
+TXN-660b8b88,68,Pro Equipment Gear,Sports,5,455.17,455.17,1820.68
+TXN-660b8b88,10,Pro Apparel Gear,Sports,3,205.71,0.0,617.13
+TXN-660b8b88,116,Equipment Champion,Sports,3,307.47,46.12,876.29
+TXN-53f98495,77,Pro Equipment Equipment,Sports,5,382.4,0.0,1912.0
+TXN-53f98495,142,Crimson Furniture,Home & Garden,5,1431.04,1431.04,5724.16
+TXN-53f98495,168,Luxury Haircare,Beauty,3,155.13,23.27,442.12
+TXN-53f98495,60,SandyBrown Kitchen,Home & Garden,5,523.7,261.85,2356.65
+TXN-53f98495,175,Designer Accessrories Line,Clothing,3,158.02,0.0,474.06
+TXN-53f98495,138,Premium Tablets Pro,Electronics,3,487.85,146.36,1317.19
+TXN-bed9ebe6,194,Farley-Ford Laptops,Electronics,2,1177.71,117.77,2237.65
+TXN-bed9ebe6,155,Organic Beverages,Food & Beverage,5,72.05,36.02,324.23
+TXN-bed9ebe6,79,White Accessrories Dress,Clothing,4,280.81,0.0,1123.24
+TXN-bed9ebe6,5,Modern Lighting Piece,Home & Garden,3,1330.47,0.0,3991.41
+TXN-bed9ebe6,177,Designer Women Line,Clothing,2,94.52,28.36,160.68
+TXN-bed9ebe6,172,The Painting Material,Books,3,27.04,0.0,81.12
+TXN-bed9ebe6,36,Allen-Hopkins Pantry Mix,Food & Beverage,3,35.12,0.0,105.36
+TXN-bed9ebe6,58,Luxury Tools,Beauty,2,193.44,77.38,309.5
+TXN-bed9ebe6,128,Pro Apparel Equipment,Sports,5,266.15,133.08,1197.67
+TXN-f21cf363,177,Designer Women Line,Clothing,1,94.52,14.18,80.34
+TXN-d7399bfa,106,Taylor and Sons Smartphones,Electronics,5,1997.24,0.0,9986.2
+TXN-d7399bfa,137,Johnson Group Laptops,Electronics,1,1642.57,246.39,1396.18
+TXN-d7399bfa,180,Forbes-Moyer Fragrances Kit,Beauty,3,50.66,7.6,144.38
+TXN-d7399bfa,24,Smartphones Plus,Electronics,1,1189.15,59.46,1129.69
+TXN-d7399bfa,176,Apparel Champion,Sports,3,194.64,58.39,525.53
+TXN-d7399bfa,46,Taylor-Moore Beverages Mix,Food & Beverage,3,84.47,0.0,253.41
+TXN-d7399bfa,192,Designer Women Line,Clothing,5,108.51,108.51,434.04
+TXN-d7399bfa,193,Outdoor Champion,Sports,3,261.49,78.45,706.02
+TXN-d7399bfa,146,Gibbs-Howard Snacks Mix,Food & Beverage,5,86.98,21.75,413.15
+TXN-d7399bfa,101,Modern Decor Set,Home & Garden,4,1452.95,0.0,5811.8
+TXN-6188fd0d,16,The Challenge Answer,Books,1,48.4,0.0,48.4
+TXN-6188fd0d,65,Designer Kids Line,Clothing,2,27.97,11.19,44.75
+TXN-6188fd0d,109,Barber-Benitez Skincare Essentials,Beauty,5,69.38,34.69,312.21
+TXN-6188fd0d,52,Pro Team Sports Kit,Sports,1,378.48,56.77,321.71
+TXN-6188fd0d,83,Hunt-Harrison Gourmet Mix,Food & Beverage,1,40.45,0.0,40.45
+TXN-6188fd0d,128,Pro Apparel Equipment,Sports,2,266.15,106.46,425.84
+TXN-6188fd0d,71,The Writer Voice,Books,4,34.14,27.31,109.25
+TXN-6188fd0d,149,Tablets X,Electronics,1,1248.96,0.0,1248.96
+TXN-6188fd0d,2,Premium Smartphones Pro,Electronics,5,232.71,232.71,930.84
+TXN-784bc5ed,86,Cameras Max,Electronics,1,183.42,27.51,155.91
+TXN-784bc5ed,66,Pro Team Sports Equipment,Sports,2,100.34,0.0,200.68
+TXN-784bc5ed,149,Tablets X,Electronics,4,1248.96,749.38,4246.46
+TXN-784bc5ed,171,The Hit Apply,Books,3,19.76,0.0,59.28
+TXN-784bc5ed,178,MediumAquaMarine Lighting,Home & Garden,1,1401.88,0.0,1401.88
+TXN-784bc5ed,186,Tablets Plus,Electronics,1,1592.0,0.0,1592.0
+TXN-784bc5ed,81,PaleGreen Lighting,Home & Garden,3,878.29,263.49,2371.38
+TXN-7a290025,121,Premium Laptops Pro,Electronics,4,899.57,179.91,3418.37
+TXN-7a290025,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,4,85.48,51.29,290.63
+TXN-7a290025,64,Organic Pantry,Food & Beverage,4,60.89,12.18,231.38
+TXN-7a290025,30,Premium Smartphones Pro,Electronics,3,700.44,0.0,2101.32
+TXN-7a290025,57,"King, Oliver and Norman Haircare Collection",Beauty,4,12.4,7.44,42.16
+TXN-8245916d,2,Premium Smartphones Pro,Electronics,1,232.71,46.54,186.17
+TXN-8245916d,25,Torres and Sons Beverages Mix,Food & Beverage,5,42.17,0.0,210.85
+TXN-8245916d,171,The Hit Apply,Books,1,19.76,0.0,19.76
+TXN-8245916d,1,Johnson-Davis Skincare Kit,Beauty,5,14.75,0.0,73.75
+TXN-8245916d,63,LightGoldenRodYellow Decor,Home & Garden,3,198.57,119.14,476.57
+TXN-8245916d,30,Premium Smartphones Pro,Electronics,3,700.44,210.13,1891.19
+TXN-8245916d,53,Modern Decor Set,Home & Garden,1,982.21,0.0,982.21
+TXN-8245916d,24,Smartphones Plus,Electronics,4,1189.15,237.83,4518.77
+TXN-8245916d,172,The Painting Material,Books,4,27.04,21.63,86.53
+TXN-8245916d,50,Modern Outdoor Piece,Home & Garden,1,1091.79,54.59,1037.2
+TXN-b8ed10b0,52,Pro Team Sports Kit,Sports,5,378.48,0.0,1892.4
+TXN-b8ed10b0,92,Luxury Fragrances,Beauty,2,168.24,0.0,336.48
+TXN-b8ed10b0,114,Luxury Skincare,Beauty,3,27.43,0.0,82.29
+TXN-b8ed10b0,97,Reyes Ltd Organic Mix,Food & Beverage,5,13.51,13.51,54.04
+TXN-b8ed10b0,67,Organic Pantry,Food & Beverage,5,95.07,0.0,475.35
+TXN-b8ed10b0,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,1,34.99,0.0,34.99
+TXN-b8ed10b0,130,The Term Class,Books,1,46.25,4.62,41.63
+TXN-3ed8f15e,112,Pro Outdoor Gear,Sports,3,425.16,0.0,1275.48
+TXN-3ed8f15e,58,Luxury Tools,Beauty,3,193.44,0.0,580.32
+TXN-4ef1d8ea,189,Gainsboro Accessrories Shirt,Clothing,2,210.53,0.0,421.06
+TXN-4ef1d8ea,64,Organic Pantry,Food & Beverage,2,60.89,12.18,109.6
+TXN-4ef1d8ea,71,The Writer Voice,Books,3,34.14,0.0,102.42
+TXN-49ab59d1,102,Modern Decor Set,Home & Garden,5,1483.45,370.86,7046.39
+TXN-2d466dbb,4,Fitness Champion,Sports,3,185.9,0.0,557.7
+TXN-2d466dbb,87,Premium Accessories Pro,Electronics,2,374.41,112.32,636.5
+TXN-4ae8cfd5,61,Eaton-Smith Beverages Mix,Food & Beverage,2,69.99,0.0,139.98
+TXN-4ae8cfd5,109,Barber-Benitez Skincare Essentials,Beauty,3,69.38,20.81,187.33
+TXN-4ae8cfd5,155,Organic Beverages,Food & Beverage,1,72.05,0.0,72.05
+TXN-9a122843,175,Designer Accessrories Line,Clothing,5,158.02,0.0,790.1
+TXN-9a122843,199,Luxury Skincare,Beauty,5,56.5,28.25,254.25
+TXN-9a122843,192,Designer Women Line,Clothing,3,108.51,65.11,260.42
+TXN-9a122843,27,Designer Shoes Style,Clothing,3,90.58,13.59,258.15
+TXN-9a122843,187,Fitness Champion,Sports,2,100.54,0.0,201.08
+TXN-a09829fc,150,Luxury Makeup,Beauty,3,191.03,114.62,458.47
+TXN-a09829fc,168,Luxury Haircare,Beauty,3,155.13,0.0,465.39
+TXN-a09829fc,158,Modern Decor Piece,Home & Garden,3,1319.38,197.91,3760.23
+TXN-a09829fc,178,MediumAquaMarine Lighting,Home & Garden,4,1401.88,280.38,5327.14
+TXN-a09829fc,190,FireBrick Accessrories Dress,Clothing,3,58.66,35.2,140.78
+TXN-a09829fc,53,Modern Decor Set,Home & Garden,3,982.21,147.33,2799.3
+TXN-a09829fc,4,Fitness Champion,Sports,5,185.9,0.0,929.5
+TXN-a7039622,138,Premium Tablets Pro,Electronics,2,487.85,97.57,878.13
+TXN-a7039622,55,DarkOrchid Kids Dress,Clothing,2,45.81,0.0,91.62
+TXN-a7039622,105,Equipment Champion,Sports,1,391.23,58.68,332.55
+TXN-a7039622,170,Designer Shoes Collection,Clothing,1,160.1,0.0,160.1
+TXN-a7039622,162,Adams-Lewis Tools Collection,Beauty,5,65.04,48.78,276.42
+TXN-d655f82a,79,White Accessrories Dress,Clothing,2,280.81,0.0,561.62
+TXN-d655f82a,163,Designer Accessrories Style,Clothing,5,133.45,0.0,667.25
+TXN-d655f82a,178,MediumAquaMarine Lighting,Home & Garden,5,1401.88,700.94,6308.46
+TXN-d655f82a,175,Designer Accessrories Line,Clothing,4,158.02,94.81,537.27
+TXN-d655f82a,172,The Painting Material,Books,2,27.04,0.0,54.08
+TXN-d655f82a,173,Potter LLC Snacks Mix,Food & Beverage,4,60.9,0.0,243.6
+TXN-d655f82a,109,Barber-Benitez Skincare Essentials,Beauty,5,69.38,52.03,294.87
+TXN-d655f82a,51,Outdoor Champion,Sports,3,434.76,0.0,1304.28
+TXN-d655f82a,15,Lawson LLC Snacks Mix,Food & Beverage,4,97.86,39.14,352.3
+TXN-d655f82a,32,Modern Kitchen Piece,Home & Garden,5,1350.49,0.0,6752.45
+TXN-ba8732c6,105,Equipment Champion,Sports,5,391.23,293.42,1662.73
+TXN-ba8732c6,5,Modern Lighting Piece,Home & Garden,2,1330.47,532.19,2128.75
+TXN-ba8732c6,89,Optional client-server data-warehouse,Books,5,15.45,0.0,77.25
+TXN-ba8732c6,20,Gilbert PLC Skincare Collection,Beauty,4,21.52,0.0,86.08
+TXN-25455b64,185,Designer Shoes Collection,Clothing,4,148.39,0.0,593.56
+TXN-25455b64,88,ForestGreen Shoes Pants,Clothing,1,132.43,0.0,132.43
+TXN-25455b64,26,DarkTurquoise Kids Dress,Clothing,4,83.03,0.0,332.12
+TXN-7389d9ef,78,Polarized uniform solution,Books,5,36.94,36.94,147.76
+TXN-7389d9ef,145,Organic Beverages,Food & Beverage,3,88.92,13.34,253.42
+TXN-7389d9ef,23,Organic Gourmet,Food & Beverage,4,30.67,6.13,116.55
+TXN-7389d9ef,188,Modern Kitchen Set,Home & Garden,1,882.04,0.0,882.04
+TXN-6fc35527,149,Tablets X,Electronics,3,1248.96,749.38,2997.5
+TXN-6fc35527,22,Moody-Taylor Beverages Mix,Food & Beverage,3,19.13,5.74,51.65
+TXN-6fc35527,128,Pro Apparel Equipment,Sports,5,266.15,133.08,1197.67
+TXN-6fc35527,27,Designer Shoes Style,Clothing,2,90.58,9.06,172.1
+TXN-6fc35527,114,Luxury Skincare,Beauty,4,27.43,0.0,109.72
+TXN-6fc35527,173,Potter LLC Snacks Mix,Food & Beverage,5,60.9,45.67,258.83
+TXN-6fc35527,24,Smartphones Plus,Electronics,1,1189.15,118.92,1070.23
+TXN-6fc35527,170,Designer Shoes Collection,Clothing,3,160.1,24.02,456.28
+TXN-6fc35527,143,Premium Tablets Pro,Electronics,2,1587.61,317.52,2857.7
+TXN-5c8cbb56,189,Gainsboro Accessrories Shirt,Clothing,4,210.53,84.21,757.91
+TXN-5c8cbb56,186,Tablets Plus,Electronics,1,1592.0,159.2,1432.8
+TXN-5c8cbb56,192,Designer Women Line,Clothing,2,108.51,10.85,206.17
+TXN-5c8cbb56,108,Luxury Skincare,Beauty,2,172.03,0.0,344.06
+TXN-5c8cbb56,179,Team Sports Champion,Sports,1,477.76,47.78,429.98
+TXN-5c8cbb56,159,Designer Kids Style,Clothing,3,281.4,0.0,844.2
+TXN-5c8cbb56,194,Farley-Ford Laptops,Electronics,2,1177.71,0.0,2355.42
+TXN-5c8cbb56,185,Designer Shoes Collection,Clothing,2,148.39,0.0,296.78
+TXN-620339d1,15,Lawson LLC Snacks Mix,Food & Beverage,4,97.86,78.29,313.15
+TXN-620339d1,200,Pearson Group Tools Kit,Beauty,3,70.59,31.77,180.0
+TXN-620339d1,3,The Soon No,Books,1,41.42,2.07,39.35
+TXN-620339d1,79,White Accessrories Dress,Clothing,4,280.81,56.16,1067.08
+TXN-f61b682d,94,Black Kitchen,Home & Garden,1,1126.27,0.0,1126.27
+TXN-f61b682d,123,GreenYellow Decor,Home & Garden,1,276.78,0.0,276.78
+TXN-f61b682d,12,The Among Visit,Books,5,39.59,19.8,178.15
+TXN-f61b682d,67,Organic Pantry,Food & Beverage,2,95.07,0.0,190.14
+TXN-f61b682d,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,5,85.48,0.0,427.4
+TXN-f61b682d,193,Outdoor Champion,Sports,5,261.49,0.0,1307.45
+TXN-f61b682d,119,Weeks and Sons Organic Mix,Food & Beverage,1,9.99,0.0,9.99
+TXN-b5e6e19b,88,ForestGreen Shoes Pants,Clothing,5,132.43,66.22,595.93
+TXN-b5e6e19b,16,The Challenge Answer,Books,1,48.4,7.26,41.14
+TXN-b5e6e19b,57,"King, Oliver and Norman Haircare Collection",Beauty,3,12.4,0.0,37.2
+TXN-b5e6e19b,45,Luxury Tools,Beauty,2,197.7,19.77,375.63
+TXN-b5e6e19b,102,Modern Decor Set,Home & Garden,5,1483.45,370.86,7046.39
+TXN-b5e6e19b,101,Modern Decor Set,Home & Garden,4,1452.95,0.0,5811.8
+TXN-b5e6e19b,22,Moody-Taylor Beverages Mix,Food & Beverage,2,19.13,7.65,30.61
+TXN-0690d484,15,Lawson LLC Snacks Mix,Food & Beverage,5,97.86,73.39,415.91
+TXN-0690d484,99,SpringGreen Lighting,Home & Garden,5,640.31,0.0,3201.55
+TXN-0690d484,166,Upgradable interactive data-warehouse,Books,2,27.44,8.23,46.65
+TXN-d7f542f3,180,Forbes-Moyer Fragrances Kit,Beauty,1,50.66,0.0,50.66
+TXN-d7f542f3,59,Organic Snacks,Food & Beverage,4,30.06,6.01,114.23
+TXN-d7f542f3,120,Roberts Group Fragrances Collection,Beauty,2,65.01,0.0,130.02
+TXN-d7f542f3,113,Luxury Haircare,Beauty,1,15.5,0.0,15.5
+TXN-d7f542f3,118,Smartphones Plus,Electronics,5,1019.9,1019.9,4079.6
+TXN-d7f542f3,60,SandyBrown Kitchen,Home & Garden,5,523.7,392.77,2225.73
+TXN-d7f542f3,94,Black Kitchen,Home & Garden,4,1126.27,901.02,3604.06
+TXN-d7f542f3,166,Upgradable interactive data-warehouse,Books,2,27.44,5.49,49.39
+TXN-d7f542f3,14,Pro Fitness Kit,Sports,1,64.82,0.0,64.82
+TXN-d7f542f3,90,Modern Lighting Set,Home & Garden,4,462.75,185.1,1665.9
+TXN-7c2433f5,159,Designer Kids Style,Clothing,1,281.4,0.0,281.4
+TXN-7c2433f5,142,Crimson Furniture,Home & Garden,4,1431.04,858.62,4865.54
+TXN-7c2433f5,65,Designer Kids Line,Clothing,2,27.97,5.59,50.35
+TXN-7c2433f5,46,Taylor-Moore Beverages Mix,Food & Beverage,5,84.47,84.47,337.88
+TXN-7c2433f5,30,Premium Smartphones Pro,Electronics,1,700.44,140.09,560.35
+TXN-7c2433f5,192,Designer Women Line,Clothing,4,108.51,43.4,390.64
+TXN-7c2433f5,98,Modern Outdoor Set,Home & Garden,4,192.68,0.0,770.72
+TXN-7c2433f5,2,Premium Smartphones Pro,Electronics,1,232.71,34.91,197.8
+TXN-7c2433f5,64,Organic Pantry,Food & Beverage,5,60.89,15.22,289.23
+TXN-f7ad725c,39,Riddle Ltd Tablets,Electronics,3,1038.89,311.67,2805.0
+TXN-f7ad725c,159,Designer Kids Style,Clothing,5,281.4,0.0,1407.0
+TXN-f7ad725c,101,Modern Decor Set,Home & Garden,4,1452.95,0.0,5811.8
+TXN-f7ad725c,16,The Challenge Answer,Books,3,48.4,7.26,137.94
+TXN-f7ad725c,92,Luxury Fragrances,Beauty,2,168.24,67.3,269.18
+TXN-f7ad725c,105,Equipment Champion,Sports,1,391.23,0.0,391.23
+TXN-f7ad725c,138,Premium Tablets Pro,Electronics,5,487.85,243.93,2195.32
+TXN-7f44f0b5,53,Modern Decor Set,Home & Garden,5,982.21,491.11,4419.94
+TXN-1c6ae2ba,149,Tablets X,Electronics,3,1248.96,187.34,3559.54
+TXN-1c6ae2ba,128,Pro Apparel Equipment,Sports,3,266.15,0.0,798.45
+TXN-1c6ae2ba,50,Modern Outdoor Piece,Home & Garden,2,1091.79,109.18,2074.4
+TXN-1c6ae2ba,16,The Challenge Answer,Books,5,48.4,0.0,242.0
+TXN-d8aabe18,76,Premium Accessories Pro,Electronics,5,1736.58,0.0,8682.9
+TXN-d8aabe18,174,Nguyen and Sons Makeup Collection,Beauty,4,16.0,12.8,51.2
+TXN-d8aabe18,119,Weeks and Sons Organic Mix,Food & Beverage,2,9.99,1.0,18.98
+TXN-d8aabe18,45,Luxury Tools,Beauty,5,197.7,197.7,790.8
+TXN-d8aabe18,78,Polarized uniform solution,Books,5,36.94,9.23,175.47
+TXN-d8aabe18,59,Organic Snacks,Food & Beverage,2,30.06,0.0,60.12
+TXN-49407780,86,Cameras Max,Electronics,5,183.42,0.0,917.1
+TXN-49407780,111,Modern Outdoor Set,Home & Garden,4,1304.78,782.87,4436.25
+TXN-49407780,100,LavenderBlush Furniture,Home & Garden,2,1041.62,416.65,1666.59
+TXN-49407780,99,SpringGreen Lighting,Home & Garden,1,640.31,96.05,544.26
+TXN-49407780,49,LavenderBlush Kitchen,Home & Garden,2,1135.14,113.51,2156.77
+TXN-7cdb41da,158,Modern Decor Piece,Home & Garden,4,1319.38,1055.5,4222.02
+TXN-7cdb41da,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,3,34.99,20.99,83.98
+TXN-7cdb41da,20,Gilbert PLC Skincare Collection,Beauty,5,21.52,10.76,96.84
+TXN-7cdb41da,145,Organic Beverages,Food & Beverage,1,88.92,0.0,88.92
+TXN-7cdb41da,130,The Term Class,Books,4,46.25,27.75,157.25
+TXN-7cdb41da,149,Tablets X,Electronics,1,1248.96,249.79,999.17
+TXN-7cdb41da,11,Pro Apparel Kit,Sports,1,41.13,8.23,32.9
+TXN-7cdb41da,35,Hughes-Miller Beverages Mix,Food & Beverage,2,24.62,2.46,46.78
+TXN-7cdb41da,64,Organic Pantry,Food & Beverage,5,60.89,15.22,289.23
+TXN-34f9a4f8,154,Fitness Champion,Sports,5,407.15,0.0,2035.75
+TXN-34f9a4f8,199,Luxury Skincare,Beauty,4,56.5,11.3,214.7
+TXN-372eb13f,187,Fitness Champion,Sports,1,100.54,20.11,80.43
+TXN-372eb13f,183,"Garza, Black and Huerta Snacks Mix",Food & Beverage,2,66.27,19.88,112.66
+TXN-372eb13f,146,Gibbs-Howard Snacks Mix,Food & Beverage,4,86.98,17.4,330.52
+TXN-372eb13f,86,Cameras Max,Electronics,1,183.42,0.0,183.42
+TXN-372eb13f,108,Luxury Skincare,Beauty,5,172.03,0.0,860.15
+TXN-372eb13f,130,The Term Class,Books,2,46.25,0.0,92.5
+TXN-372eb13f,68,Pro Equipment Gear,Sports,5,455.17,227.59,2048.26
+TXN-372eb13f,87,Premium Accessories Pro,Electronics,5,374.41,280.81,1591.24
+TXN-372eb13f,21,Modern Outdoor Piece,Home & Garden,2,389.71,77.94,701.48
+TXN-372eb13f,5,Modern Lighting Piece,Home & Garden,2,1330.47,399.14,2261.8
+TXN-2cb6148b,165,Modern Outdoor Piece,Home & Garden,1,1298.96,0.0,1298.96
+TXN-2cb6148b,159,Designer Kids Style,Clothing,4,281.4,0.0,1125.6
+TXN-2cb6148b,167,"Smith, Hood and Charles Smartphones",Electronics,4,598.64,119.73,2274.83
+TXN-d99a7a98,192,Designer Women Line,Clothing,1,108.51,10.85,97.66
+TXN-d99a7a98,59,Organic Snacks,Food & Beverage,3,30.06,13.53,76.65
+TXN-44ae064b,133,Cooper Inc Pantry Mix,Food & Beverage,2,15.71,3.14,28.28
+TXN-44ae064b,17,Pro Fitness Gear,Sports,2,131.47,13.15,249.79
+TXN-44ae064b,36,Allen-Hopkins Pantry Mix,Food & Beverage,4,35.12,14.05,126.43
+TXN-44ae064b,14,Pro Fitness Kit,Sports,1,64.82,0.0,64.82
+TXN-44ae064b,159,Designer Kids Style,Clothing,2,281.4,28.14,534.66
+TXN-5c76c906,33,The During Author,Books,3,48.82,0.0,146.46
+TXN-5c76c906,27,Designer Shoes Style,Clothing,5,90.58,0.0,452.9
+TXN-5c76c906,70,Monitored fresh-thinking superstructure,Books,5,18.11,18.11,72.44
+TXN-5c76c906,12,The Among Visit,Books,5,39.59,0.0,197.95
+TXN-5c76c906,141,Monitored maximized Local Area Network,Books,4,37.33,7.47,141.85
+TXN-6d5e38fc,151,The Material Worker,Books,4,32.23,19.34,109.58
+TXN-6d5e38fc,179,Team Sports Champion,Sports,4,477.76,191.1,1719.94
+TXN-6d5e38fc,76,Premium Accessories Pro,Electronics,1,1736.58,86.83,1649.75
+TXN-6d5e38fc,103,LightGray Shoes Pants,Clothing,1,15.81,0.0,15.81
+TXN-6d5e38fc,183,"Garza, Black and Huerta Snacks Mix",Food & Beverage,1,66.27,3.31,62.96
+TXN-6d5e38fc,61,Eaton-Smith Beverages Mix,Food & Beverage,2,69.99,21.0,118.98
+TXN-3244d92d,80,Digitized tertiary website,Books,5,38.58,19.29,173.61
+TXN-3244d92d,32,Modern Kitchen Piece,Home & Garden,1,1350.49,202.57,1147.92
+TXN-3244d92d,49,LavenderBlush Kitchen,Home & Garden,3,1135.14,0.0,3405.42
+TXN-3244d92d,39,Riddle Ltd Tablets,Electronics,3,1038.89,0.0,3116.67
+TXN-3244d92d,122,Ellis Inc Cameras,Electronics,4,1284.79,770.87,4368.29
+TXN-3244d92d,94,Black Kitchen,Home & Garden,3,1126.27,0.0,3378.81
+TXN-d47f2910,116,Equipment Champion,Sports,2,307.47,61.49,553.45
+TXN-d47f2910,29,The Minute Visit,Books,3,37.29,0.0,111.87
+TXN-d47f2910,143,Premium Tablets Pro,Electronics,2,1587.61,158.76,3016.46
+TXN-d47f2910,80,Digitized tertiary website,Books,2,38.58,0.0,77.16
+TXN-d47f2910,34,Outdoor Champion,Sports,2,140.73,56.29,225.17
+TXN-d47f2910,26,DarkTurquoise Kids Dress,Clothing,3,83.03,0.0,249.09
+TXN-14399501,172,The Painting Material,Books,3,27.04,0.0,81.12
+TXN-14399501,122,Ellis Inc Cameras,Electronics,1,1284.79,0.0,1284.79
+TXN-14399501,93,Smith-Cooper Makeup Collection,Beauty,1,129.37,19.41,109.96
+TXN-14399501,110,Accessories Plus,Electronics,4,238.3,95.32,857.88
+TXN-14399501,53,Modern Decor Set,Home & Garden,1,982.21,196.44,785.77
+TXN-14399501,145,Organic Beverages,Food & Beverage,5,88.92,0.0,444.6
+TXN-14399501,76,Premium Accessories Pro,Electronics,4,1736.58,0.0,6946.32
+TXN-14399501,68,Pro Equipment Gear,Sports,5,455.17,0.0,2275.85
+TXN-14399501,58,Luxury Tools,Beauty,4,193.44,77.38,696.38
+TXN-14399501,32,Modern Kitchen Piece,Home & Garden,3,1350.49,202.57,3848.9
+TXN-d16736ad,86,Cameras Max,Electronics,4,183.42,0.0,733.68
+TXN-d16736ad,146,Gibbs-Howard Snacks Mix,Food & Beverage,5,86.98,0.0,434.9
+TXN-d16736ad,3,The Soon No,Books,1,41.42,4.14,37.28
+TXN-d16736ad,170,Designer Shoes Collection,Clothing,4,160.1,32.02,608.38
+TXN-d16736ad,155,Organic Beverages,Food & Beverage,5,72.05,0.0,360.25
+TXN-8c9c5e9f,120,Roberts Group Fragrances Collection,Beauty,4,65.01,0.0,260.04
+TXN-8c9c5e9f,132,DarkOrchid Kids Pants,Clothing,5,285.09,71.27,1354.18
+TXN-8c9c5e9f,72,Team Sports Champion,Sports,3,352.87,158.79,899.82
+TXN-6d1442dd,148,Crimson Furniture,Home & Garden,1,138.5,0.0,138.5
+TXN-6d1442dd,108,Luxury Skincare,Beauty,3,172.03,51.61,464.48
+TXN-6d1442dd,79,White Accessrories Dress,Clothing,3,280.81,0.0,842.43
+TXN-6d1442dd,34,Outdoor Champion,Sports,5,140.73,0.0,703.65
+TXN-6d1442dd,53,Modern Decor Set,Home & Garden,2,982.21,0.0,1964.42
+TXN-6d1442dd,31,Premium Smartphones Pro,Electronics,4,1892.85,757.14,6814.26
+TXN-6d1442dd,23,Organic Gourmet,Food & Beverage,3,30.67,0.0,92.01
+TXN-6d1442dd,178,MediumAquaMarine Lighting,Home & Garden,2,1401.88,140.19,2663.57
+TXN-6d1442dd,48,Team Sports Champion,Sports,4,275.88,0.0,1103.52
+TXN-6d1442dd,152,Luxury Haircare,Beauty,4,57.43,34.46,195.26
+TXN-e5ff6ca8,147,CornflowerBlue Accessrories Shirt,Clothing,2,212.24,42.45,382.03
+TXN-e5ff6ca8,140,Modern Decor Set,Home & Garden,2,465.7,93.14,838.26
+TXN-e5ff6ca8,84,Turner-Reese Gourmet Mix,Food & Beverage,2,12.67,5.07,20.27
+TXN-e5ff6ca8,12,The Among Visit,Books,1,39.59,5.94,33.65
+TXN-e5ff6ca8,148,Crimson Furniture,Home & Garden,3,138.5,83.1,332.4
+TXN-e5ff6ca8,48,Team Sports Champion,Sports,2,275.88,55.18,496.58
+TXN-e5ff6ca8,22,Moody-Taylor Beverages Mix,Food & Beverage,4,19.13,15.3,61.22
+TXN-e5ff6ca8,11,Pro Apparel Kit,Sports,4,41.13,0.0,164.52
+TXN-5bd44c99,5,Modern Lighting Piece,Home & Garden,1,1330.47,0.0,1330.47
+TXN-5bd44c99,113,Luxury Haircare,Beauty,4,15.5,3.1,58.9
+TXN-5bd44c99,15,Lawson LLC Snacks Mix,Food & Beverage,2,97.86,39.14,156.58
+TXN-5bd44c99,82,PowderBlue Decor,Home & Garden,5,1471.55,735.78,6621.97
+TXN-5bd44c99,103,LightGray Shoes Pants,Clothing,3,15.81,9.49,37.94
+TXN-5bd44c99,52,Pro Team Sports Kit,Sports,4,378.48,0.0,1513.92
+TXN-5bd44c99,173,Potter LLC Snacks Mix,Food & Beverage,3,60.9,18.27,164.43
+TXN-5bd44c99,119,Weeks and Sons Organic Mix,Food & Beverage,5,9.99,0.0,49.95
+TXN-7e69ef30,171,The Hit Apply,Books,3,19.76,2.96,56.32
+TXN-7e69ef30,110,Accessories Plus,Electronics,1,238.3,11.92,226.38
+TXN-7e69ef30,184,Luxury Haircare,Beauty,3,176.58,0.0,529.74
+TXN-7e69ef30,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,3,85.48,0.0,256.44
+TXN-58ca61bd,35,Hughes-Miller Beverages Mix,Food & Beverage,1,24.62,1.23,23.39
+TXN-58ca61bd,191,Bell PLC Tools Essentials,Beauty,1,175.9,0.0,175.9
+TXN-58ca61bd,150,Luxury Makeup,Beauty,5,191.03,0.0,955.15
+TXN-58ca61bd,78,Polarized uniform solution,Books,5,36.94,18.47,166.23
+TXN-58ca61bd,89,Optional client-server data-warehouse,Books,5,15.45,0.0,77.25
+TXN-58ca61bd,17,Pro Fitness Gear,Sports,3,131.47,0.0,394.41
+TXN-931fd4f6,86,Cameras Max,Electronics,1,183.42,9.17,174.25
+TXN-931fd4f6,136,Pro Team Sports Equipment,Sports,5,281.72,0.0,1408.6
+TXN-931fd4f6,64,Organic Pantry,Food & Beverage,4,60.89,36.53,207.03
+TXN-931fd4f6,55,DarkOrchid Kids Dress,Clothing,2,45.81,18.32,73.3
+TXN-931fd4f6,186,Tablets Plus,Electronics,2,1592.0,477.6,2706.4
+TXN-931fd4f6,110,Accessories Plus,Electronics,3,238.3,35.75,679.15
+TXN-931fd4f6,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,5,85.48,42.74,384.66
+TXN-931fd4f6,29,The Minute Visit,Books,4,37.29,29.83,119.33
+TXN-4e3d8f3b,16,The Challenge Answer,Books,3,48.4,21.78,123.42
+TXN-4e3d8f3b,83,Hunt-Harrison Gourmet Mix,Food & Beverage,3,40.45,18.2,103.15
+TXN-4e3d8f3b,179,Team Sports Champion,Sports,3,477.76,143.33,1289.95
+TXN-4e3d8f3b,64,Organic Pantry,Food & Beverage,4,60.89,0.0,243.56
+TXN-4e3d8f3b,30,Premium Smartphones Pro,Electronics,4,700.44,560.35,2241.41
+TXN-4e3d8f3b,46,Taylor-Moore Beverages Mix,Food & Beverage,3,84.47,38.01,215.4
+TXN-8df563e8,45,Luxury Tools,Beauty,2,197.7,79.08,316.32
+TXN-8df563e8,148,Crimson Furniture,Home & Garden,1,138.5,0.0,138.5
+TXN-8df563e8,121,Premium Laptops Pro,Electronics,2,899.57,269.87,1529.27
+TXN-2559984d,136,Pro Team Sports Equipment,Sports,2,281.72,0.0,563.44
+TXN-2559984d,156,Fitness Champion,Sports,4,186.84,0.0,747.36
+TXN-8ed934d8,102,Modern Decor Set,Home & Garden,1,1483.45,0.0,1483.45
+TXN-8ed934d8,169,The Various Picture,Books,4,39.4,15.76,141.84
+TXN-8ed934d8,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,1,45.33,0.0,45.33
+TXN-8ed934d8,27,Designer Shoes Style,Clothing,3,90.58,27.17,244.57
+TXN-8ed934d8,109,Barber-Benitez Skincare Essentials,Beauty,2,69.38,0.0,138.76
+TXN-8ed934d8,4,Fitness Champion,Sports,4,185.9,0.0,743.6
+TXN-8ed934d8,13,Organic Beverages,Food & Beverage,2,52.25,0.0,104.5
+TXN-8ed934d8,141,Monitored maximized Local Area Network,Books,3,37.33,5.6,106.39
+TXN-8ed934d8,143,Premium Tablets Pro,Electronics,2,1587.61,0.0,3175.22
+TXN-02f110c5,51,Outdoor Champion,Sports,3,434.76,260.86,1043.42
+TXN-02f110c5,187,Fitness Champion,Sports,4,100.54,20.11,382.05
+TXN-02f110c5,67,Organic Pantry,Food & Beverage,5,95.07,0.0,475.35
+TXN-02f110c5,68,Pro Equipment Gear,Sports,5,455.17,113.79,2162.06
+TXN-02f110c5,66,Pro Team Sports Equipment,Sports,2,100.34,30.1,170.58
+TXN-02f110c5,182,The Hot Prepare,Books,5,23.31,0.0,116.55
+TXN-04265bb9,21,Modern Outdoor Piece,Home & Garden,4,389.71,155.88,1402.96
+TXN-04265bb9,48,Team Sports Champion,Sports,5,275.88,0.0,1379.4
+TXN-04265bb9,129,Anderson and Sons Haircare Kit,Beauty,3,22.52,3.38,64.18
+TXN-04265bb9,1,Johnson-Davis Skincare Kit,Beauty,5,14.75,0.0,73.75
+TXN-04265bb9,15,Lawson LLC Snacks Mix,Food & Beverage,1,97.86,4.89,92.97
+TXN-04265bb9,192,Designer Women Line,Clothing,3,108.51,0.0,325.53
+TXN-04265bb9,121,Premium Laptops Pro,Electronics,4,899.57,0.0,3598.28
+TXN-04265bb9,193,Outdoor Champion,Sports,2,261.49,0.0,522.98
+TXN-04265bb9,139,Designer Accessrories Style,Clothing,1,142.85,0.0,142.85
+TXN-04265bb9,188,Modern Kitchen Set,Home & Garden,5,882.04,882.04,3528.16
+TXN-2dc06215,173,Potter LLC Snacks Mix,Food & Beverage,4,60.9,48.72,194.88
+TXN-03ad2d32,143,Premium Tablets Pro,Electronics,5,1587.61,0.0,7938.05
+TXN-03ad2d32,77,Pro Equipment Equipment,Sports,1,382.4,38.24,344.16
+TXN-03ad2d32,72,Team Sports Champion,Sports,3,352.87,0.0,1058.61
+TXN-03ad2d32,181,Mayer and Sons Tools Essentials,Beauty,4,52.88,21.15,190.37
+TXN-03ad2d32,113,Luxury Haircare,Beauty,4,15.5,3.1,58.9
+TXN-11675ed4,131,DarkCyan Decor,Home & Garden,4,1011.77,0.0,4047.08
+TXN-11675ed4,41,Outdoor Champion,Sports,3,260.48,0.0,781.44
+TXN-11675ed4,160,PaleTurquoise Lighting,Home & Garden,4,809.55,485.73,2752.47
+TXN-11675ed4,105,Equipment Champion,Sports,2,391.23,78.25,704.21
+TXN-11675ed4,73,Smartphones X,Electronics,5,496.4,496.4,1985.6
+TXN-11675ed4,125,Advanced analyzing flexibility,Books,3,20.84,0.0,62.52
+TXN-11675ed4,35,Hughes-Miller Beverages Mix,Food & Beverage,5,24.62,24.62,98.48
+TXN-86a85fef,23,Organic Gourmet,Food & Beverage,2,30.67,0.0,61.34
+TXN-86a85fef,25,Torres and Sons Beverages Mix,Food & Beverage,1,42.17,6.33,35.84
+TXN-86a85fef,88,ForestGreen Shoes Pants,Clothing,4,132.43,52.97,476.75
+TXN-618d1acc,154,Fitness Champion,Sports,3,407.15,0.0,1221.45
+TXN-618d1acc,18,Tablets Ultra,Electronics,2,188.17,0.0,376.34
+TXN-618d1acc,91,Persevering background artificial intelligence,Books,5,30.87,0.0,154.35
+TXN-618d1acc,100,LavenderBlush Furniture,Home & Garden,2,1041.62,0.0,2083.24
+TXN-277fc842,107,Designer Men Line,Clothing,2,50.96,0.0,101.92
+TXN-7c7ef14b,53,Modern Decor Set,Home & Garden,3,982.21,589.33,2357.3
+TXN-7c7ef14b,176,Apparel Champion,Sports,4,194.64,0.0,778.56
+TXN-7c7ef14b,58,Luxury Tools,Beauty,4,193.44,116.06,657.7
+TXN-7c7ef14b,124,The Ahead Save,Books,1,19.54,0.0,19.54
+TXN-7c7ef14b,2,Premium Smartphones Pro,Electronics,1,232.71,46.54,186.17
+TXN-7c7ef14b,196,Hopkins-Cook Tools Essentials,Beauty,2,35.27,0.0,70.54
+TXN-7c7ef14b,27,Designer Shoes Style,Clothing,3,90.58,54.35,217.39
+TXN-5e32f576,200,Pearson Group Tools Kit,Beauty,3,70.59,42.35,169.42
+TXN-5e32f576,88,ForestGreen Shoes Pants,Clothing,4,132.43,105.94,423.78
+TXN-5e32f576,170,Designer Shoes Collection,Clothing,1,160.1,0.0,160.1
+TXN-5e32f576,92,Luxury Fragrances,Beauty,2,168.24,16.82,319.66
+TXN-f04aabc7,168,Luxury Haircare,Beauty,4,155.13,93.08,527.44
+TXN-f04aabc7,118,Smartphones Plus,Electronics,1,1019.9,101.99,917.91
+TXN-f04aabc7,63,LightGoldenRodYellow Decor,Home & Garden,2,198.57,19.86,377.28
+TXN-f04aabc7,109,Barber-Benitez Skincare Essentials,Beauty,4,69.38,41.63,235.89
+TXN-6e5e2e7b,67,Organic Pantry,Food & Beverage,5,95.07,47.53,427.82
+TXN-677d4d3d,141,Monitored maximized Local Area Network,Books,3,37.33,0.0,111.99
+TXN-677d4d3d,42,Organic Beverages,Food & Beverage,2,68.26,0.0,136.52
+TXN-677d4d3d,92,Luxury Fragrances,Beauty,2,168.24,50.47,286.01
+TXN-677d4d3d,124,The Ahead Save,Books,4,19.54,0.0,78.16
+TXN-332dc8ce,45,Luxury Tools,Beauty,4,197.7,158.16,632.64
+TXN-332dc8ce,84,Turner-Reese Gourmet Mix,Food & Beverage,2,12.67,0.0,25.34
+TXN-78c15ea2,178,MediumAquaMarine Lighting,Home & Garden,2,1401.88,0.0,2803.76
+TXN-78c15ea2,32,Modern Kitchen Piece,Home & Garden,1,1350.49,0.0,1350.49
+TXN-78c15ea2,62,Khaki Lighting,Home & Garden,2,566.15,56.62,1075.68
+TXN-78c15ea2,79,White Accessrories Dress,Clothing,1,280.81,42.12,238.69
+TXN-78c15ea2,110,Accessories Plus,Electronics,5,238.3,0.0,1191.5
+TXN-78c15ea2,104,Modern Decor Piece,Home & Garden,1,891.5,0.0,891.5
+TXN-78c15ea2,140,Modern Decor Set,Home & Garden,3,465.7,209.56,1187.54
+TXN-78c15ea2,169,The Various Picture,Books,2,39.4,11.82,66.98
+TXN-78c15ea2,74,CadetBlue Decor,Home & Garden,5,1495.48,1495.48,5981.92
+TXN-78c15ea2,85,LightCoral Kitchen,Home & Garden,1,942.42,0.0,942.42
+TXN-cb3e0618,57,"King, Oliver and Norman Haircare Collection",Beauty,4,12.4,7.44,42.16
+TXN-cb3e0618,185,Designer Shoes Collection,Clothing,2,148.39,0.0,296.78
+TXN-cb3e0618,81,PaleGreen Lighting,Home & Garden,4,878.29,0.0,3513.16
+TXN-cb3e0618,40,Outdoor Champion,Sports,2,311.6,0.0,623.2
+TXN-cb3e0618,30,Premium Smartphones Pro,Electronics,1,700.44,35.02,665.42
+TXN-cb3e0618,186,Tablets Plus,Electronics,4,1592.0,636.8,5731.2
+TXN-4e82dc67,1,Johnson-Davis Skincare Kit,Beauty,2,14.75,2.95,26.55
+TXN-4e82dc67,61,Eaton-Smith Beverages Mix,Food & Beverage,3,69.99,0.0,209.97
+TXN-4e82dc67,28,Organic Pantry,Food & Beverage,4,3.76,0.0,15.04
+TXN-4e82dc67,144,Designer Accessrories Collection,Clothing,5,294.53,294.53,1178.12
+TXN-4e82dc67,138,Premium Tablets Pro,Electronics,5,487.85,0.0,2439.25
+TXN-4e82dc67,137,Johnson Group Laptops,Electronics,1,1642.57,164.26,1478.31
+TXN-4e82dc67,34,Outdoor Champion,Sports,2,140.73,14.07,267.39
+TXN-4e82dc67,46,Taylor-Moore Beverages Mix,Food & Beverage,3,84.47,50.68,202.73
+TXN-4e82dc67,76,Premium Accessories Pro,Electronics,3,1736.58,520.97,4688.77
+TXN-4e82dc67,55,DarkOrchid Kids Dress,Clothing,3,45.81,6.87,130.56
+TXN-220e1bbb,79,White Accessrories Dress,Clothing,1,280.81,28.08,252.73
+TXN-220e1bbb,18,Tablets Ultra,Electronics,3,188.17,112.9,451.61
+TXN-220e1bbb,1,Johnson-Davis Skincare Kit,Beauty,5,14.75,0.0,73.75
+TXN-33cc598b,110,Accessories Plus,Electronics,4,238.3,0.0,953.2
+TXN-33cc598b,134,Modern Decor Set,Home & Garden,5,1454.99,1091.24,6183.71
+TXN-33cc598b,73,Smartphones X,Electronics,4,496.4,397.12,1588.48
+TXN-33cc598b,49,LavenderBlush Kitchen,Home & Garden,5,1135.14,0.0,5675.7
+TXN-33cc598b,132,DarkOrchid Kids Pants,Clothing,5,285.09,0.0,1425.45
+TXN-33cc598b,31,Premium Smartphones Pro,Electronics,3,1892.85,283.93,5394.62
+TXN-33cc598b,15,Lawson LLC Snacks Mix,Food & Beverage,3,97.86,0.0,293.58
+TXN-33cc598b,61,Eaton-Smith Beverages Mix,Food & Beverage,1,69.99,7.0,62.99
+TXN-33cc598b,197,Organic Snacks,Food & Beverage,1,97.91,0.0,97.91
+TXN-02abaab1,135,The Reveal No,Books,4,25.78,0.0,103.12
+TXN-02abaab1,96,Miller Group Pantry Mix,Food & Beverage,1,38.48,0.0,38.48
+TXN-7eaad068,124,The Ahead Save,Books,5,19.54,9.77,87.93
+TXN-7eaad068,135,The Reveal No,Books,5,25.78,0.0,128.9
+TXN-7eaad068,5,Modern Lighting Piece,Home & Garden,1,1330.47,0.0,1330.47
+TXN-7eaad068,38,Jackson-Ellis Pantry Mix,Food & Beverage,2,69.63,13.93,125.33
+TXN-7eaad068,72,Team Sports Champion,Sports,1,352.87,0.0,352.87
+TXN-7eaad068,125,Advanced analyzing flexibility,Books,2,20.84,6.25,35.43
+TXN-7eaad068,35,Hughes-Miller Beverages Mix,Food & Beverage,4,24.62,19.7,78.78
+TXN-7eaad068,26,DarkTurquoise Kids Dress,Clothing,1,83.03,4.15,78.88
+TXN-505a37de,139,Designer Accessrories Style,Clothing,3,142.85,85.71,342.84
+TXN-505a37de,184,Luxury Haircare,Beauty,1,176.58,35.32,141.26
+TXN-505a37de,156,Fitness Champion,Sports,5,186.84,0.0,934.2
+TXN-505a37de,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,5,34.99,0.0,174.95
+TXN-505a37de,31,Premium Smartphones Pro,Electronics,1,1892.85,378.57,1514.28
+TXN-505a37de,67,Organic Pantry,Food & Beverage,3,95.07,0.0,285.21
+TXN-505a37de,79,White Accessrories Dress,Clothing,2,280.81,56.16,505.46
+TXN-b7196071,46,Taylor-Moore Beverages Mix,Food & Beverage,2,84.47,0.0,168.94
+TXN-b7196071,109,Barber-Benitez Skincare Essentials,Beauty,5,69.38,52.03,294.87
+TXN-b7196071,97,Reyes Ltd Organic Mix,Food & Beverage,2,13.51,2.7,24.32
+TXN-b7196071,123,GreenYellow Decor,Home & Garden,2,276.78,55.36,498.2
+TXN-b7196071,103,LightGray Shoes Pants,Clothing,5,15.81,3.95,75.1
+TXN-b7196071,14,Pro Fitness Kit,Sports,1,64.82,12.96,51.86
+TXN-b7196071,84,Turner-Reese Gourmet Mix,Food & Beverage,5,12.67,0.0,63.35
+TXN-4395db98,20,Gilbert PLC Skincare Collection,Beauty,2,21.52,8.61,34.43
+TXN-4395db98,153,Hill-Holden Fragrances Collection,Beauty,2,50.77,10.15,91.39
+TXN-7f6d38e5,12,The Among Visit,Books,5,39.59,9.9,188.05
+TXN-7f6d38e5,125,Advanced analyzing flexibility,Books,3,20.84,0.0,62.52
+TXN-7f6d38e5,23,Organic Gourmet,Food & Beverage,5,30.67,0.0,153.35
+TXN-7f6d38e5,151,The Material Worker,Books,3,32.23,4.83,91.86
+TXN-7f6d38e5,66,Pro Team Sports Equipment,Sports,4,100.34,80.27,321.09
+TXN-7f6d38e5,115,Pope-Hobbs Pantry Mix,Food & Beverage,3,60.83,18.25,164.24
+TXN-7f6d38e5,114,Luxury Skincare,Beauty,2,27.43,5.49,49.37
+TXN-7f6d38e5,121,Premium Laptops Pro,Electronics,5,899.57,0.0,4497.85
+TXN-7f6d38e5,94,Black Kitchen,Home & Garden,4,1126.27,901.02,3604.06
+TXN-ecb1c7bc,20,Gilbert PLC Skincare Collection,Beauty,4,21.52,4.3,81.78
+TXN-ecb1c7bc,50,Modern Outdoor Piece,Home & Garden,1,1091.79,163.77,928.02
+TXN-ecb1c7bc,95,Team Sports Champion,Sports,1,375.81,0.0,375.81
+TXN-ecb1c7bc,13,Organic Beverages,Food & Beverage,5,52.25,0.0,261.25
+TXN-ecb1c7bc,174,Nguyen and Sons Makeup Collection,Beauty,5,16.0,0.0,80.0
+TXN-ecb1c7bc,169,The Various Picture,Books,3,39.4,0.0,118.2
+TXN-ecb1c7bc,85,LightCoral Kitchen,Home & Garden,3,942.42,0.0,2827.26
+TXN-ecb1c7bc,113,Luxury Haircare,Beauty,2,15.5,6.2,24.8
+TXN-6f0788fb,61,Eaton-Smith Beverages Mix,Food & Beverage,5,69.99,34.99,314.96
+TXN-6f0788fb,105,Equipment Champion,Sports,5,391.23,195.62,1760.53
+TXN-6f0788fb,65,Designer Kids Line,Clothing,5,27.97,0.0,139.85
+TXN-6f0788fb,155,Organic Beverages,Food & Beverage,1,72.05,0.0,72.05
+TXN-6f0788fb,186,Tablets Plus,Electronics,4,1592.0,0.0,6368.0
+TXN-8311af02,123,GreenYellow Decor,Home & Garden,2,276.78,0.0,553.56
+TXN-8311af02,155,Organic Beverages,Food & Beverage,3,72.05,43.23,172.92
+TXN-8311af02,106,Taylor and Sons Smartphones,Electronics,3,1997.24,0.0,5991.72
+TXN-8311af02,133,Cooper Inc Pantry Mix,Food & Beverage,5,15.71,3.93,74.62
+TXN-8311af02,51,Outdoor Champion,Sports,5,434.76,0.0,2173.8
+TXN-8311af02,54,Pro Fitness Kit,Sports,1,286.35,42.95,243.4
+TXN-8311af02,81,PaleGreen Lighting,Home & Garden,3,878.29,526.97,2107.9
+TXN-8311af02,38,Jackson-Ellis Pantry Mix,Food & Beverage,4,69.63,0.0,278.52
+TXN-8311af02,34,Outdoor Champion,Sports,4,140.73,112.58,450.34
+TXN-8311af02,91,Persevering background artificial intelligence,Books,5,30.87,30.87,123.48
+TXN-b9984850,117,Gold Furniture,Home & Garden,4,346.37,0.0,1385.48
+TXN-b9984850,70,Monitored fresh-thinking superstructure,Books,1,18.11,3.62,14.49
+TXN-b9984850,68,Pro Equipment Gear,Sports,3,455.17,0.0,1365.51
+TXN-b9984850,3,The Soon No,Books,4,41.42,8.28,157.4
+TXN-b9984850,30,Premium Smartphones Pro,Electronics,1,700.44,140.09,560.35
+TXN-b9984850,97,Reyes Ltd Organic Mix,Food & Beverage,2,13.51,4.05,22.97
+TXN-b9984850,133,Cooper Inc Pantry Mix,Food & Beverage,5,15.71,0.0,78.55
+TXN-b9984850,72,Team Sports Champion,Sports,4,352.87,0.0,1411.48
+TXN-b9984850,41,Outdoor Champion,Sports,3,260.48,78.14,703.3
+TXN-b9984850,147,CornflowerBlue Accessrories Shirt,Clothing,1,212.24,0.0,212.24
+TXN-8db401af,97,Reyes Ltd Organic Mix,Food & Beverage,2,13.51,0.0,27.02
+TXN-8db401af,77,Pro Equipment Equipment,Sports,4,382.4,76.48,1453.12
+TXN-8db401af,133,Cooper Inc Pantry Mix,Food & Beverage,5,15.71,7.86,70.69
+TXN-8db401af,19,Organic Gourmet,Food & Beverage,5,81.33,0.0,406.65
+TXN-9d3c8f13,179,Team Sports Champion,Sports,2,477.76,0.0,955.52
+TXN-9d3c8f13,192,Designer Women Line,Clothing,1,108.51,5.43,103.08
+TXN-9d3c8f13,166,Upgradable interactive data-warehouse,Books,5,27.44,20.58,116.62
+TXN-f069feb5,10,Pro Apparel Gear,Sports,5,205.71,51.43,977.12
+TXN-f069feb5,181,Mayer and Sons Tools Essentials,Beauty,2,52.88,21.15,84.61
+TXN-f069feb5,194,Farley-Ford Laptops,Electronics,2,1177.71,117.77,2237.65
+TXN-f069feb5,80,Digitized tertiary website,Books,5,38.58,0.0,192.9
+TXN-f069feb5,131,DarkCyan Decor,Home & Garden,4,1011.77,202.35,3844.73
+TXN-f069feb5,54,Pro Fitness Kit,Sports,5,286.35,0.0,1431.75
+TXN-f069feb5,25,Torres and Sons Beverages Mix,Food & Beverage,5,42.17,21.09,189.76
+TXN-a1c6e373,164,MediumSlateBlue Kids Dress,Clothing,3,161.77,72.8,412.51
+TXN-a1c6e373,107,Designer Men Line,Clothing,5,50.96,0.0,254.8
+TXN-a1c6e373,86,Cameras Max,Electronics,1,183.42,27.51,155.91
+TXN-a1c6e373,177,Designer Women Line,Clothing,4,94.52,18.9,359.18
+TXN-a1c6e373,158,Modern Decor Piece,Home & Garden,3,1319.38,0.0,3958.14
+TXN-a1c6e373,149,Tablets X,Electronics,2,1248.96,0.0,2497.92
+TXN-a1c6e373,103,LightGray Shoes Pants,Clothing,3,15.81,4.74,42.69
+TXN-bcbd4ba1,16,The Challenge Answer,Books,5,48.4,48.4,193.6
+TXN-bcbd4ba1,12,The Among Visit,Books,4,39.59,15.84,142.52
+TXN-bcbd4ba1,127,Proactive explicit strategy,Books,2,48.1,4.81,91.39
+TXN-bcbd4ba1,3,The Soon No,Books,1,41.42,8.28,33.14
+TXN-bcbd4ba1,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,2,45.33,0.0,90.66
+TXN-bcbd4ba1,185,Designer Shoes Collection,Clothing,3,148.39,0.0,445.17
+TXN-55561d52,195,SeaShell Women Jacket,Clothing,2,233.26,93.3,373.22
+TXN-55561d52,163,Designer Accessrories Style,Clothing,3,133.45,0.0,400.35
+TXN-55561d52,17,Pro Fitness Gear,Sports,3,131.47,59.16,335.25
+TXN-55561d52,8,Mccarthy Inc Snacks Mix,Food & Beverage,1,25.22,0.0,25.22
+TXN-55561d52,191,Bell PLC Tools Essentials,Beauty,4,175.9,35.18,668.42
+TXN-55561d52,76,Premium Accessories Pro,Electronics,1,1736.58,0.0,1736.58
+TXN-55561d52,189,Gainsboro Accessrories Shirt,Clothing,2,210.53,63.16,357.9
+TXN-55561d52,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,5,46.94,0.0,234.7
+TXN-55561d52,47,Modern Kitchen Piece,Home & Garden,2,1341.68,268.34,2415.02
+TXN-55561d52,70,Monitored fresh-thinking superstructure,Books,5,18.11,18.11,72.44
+TXN-1025bbb5,63,LightGoldenRodYellow Decor,Home & Garden,1,198.57,9.93,188.64
+TXN-1025bbb5,35,Hughes-Miller Beverages Mix,Food & Beverage,5,24.62,18.46,104.64
+TXN-1025bbb5,9,Equipment Champion,Sports,5,443.49,0.0,2217.45
+TXN-7cbec89e,49,LavenderBlush Kitchen,Home & Garden,3,1135.14,0.0,3405.42
+TXN-7cbec89e,194,Farley-Ford Laptops,Electronics,4,1177.71,706.63,4004.21
+TXN-7cbec89e,50,Modern Outdoor Piece,Home & Garden,1,1091.79,0.0,1091.79
+TXN-7cbec89e,114,Luxury Skincare,Beauty,4,27.43,16.46,93.26
+TXN-7cbec89e,171,The Hit Apply,Books,3,19.76,8.89,50.39
+TXN-7cbec89e,73,Smartphones X,Electronics,3,496.4,297.84,1191.36
+TXN-7cbec89e,52,Pro Team Sports Kit,Sports,1,378.48,0.0,378.48
+TXN-7cbec89e,60,SandyBrown Kitchen,Home & Garden,3,523.7,314.22,1256.88
+TXN-7cbec89e,187,Fitness Champion,Sports,4,100.54,0.0,402.16
+TXN-7cbec89e,59,Organic Snacks,Food & Beverage,4,30.06,12.02,108.22
+TXN-adf71ef8,173,Potter LLC Snacks Mix,Food & Beverage,5,60.9,0.0,304.5
+TXN-adf71ef8,131,DarkCyan Decor,Home & Garden,2,1011.77,0.0,2023.54
+TXN-adf71ef8,164,MediumSlateBlue Kids Dress,Clothing,5,161.77,40.44,768.41
+TXN-adf71ef8,69,Designer Women Line,Clothing,5,90.42,67.81,384.29
+TXN-adf71ef8,163,Designer Accessrories Style,Clothing,1,133.45,0.0,133.45
+TXN-adf71ef8,116,Equipment Champion,Sports,2,307.47,61.49,553.45
+TXN-adf71ef8,48,Team Sports Champion,Sports,3,275.88,0.0,827.64
+TXN-adf71ef8,107,Designer Men Line,Clothing,4,50.96,10.19,193.65
+TXN-adf71ef8,142,Crimson Furniture,Home & Garden,2,1431.04,0.0,2862.08
+TXN-adf71ef8,143,Premium Tablets Pro,Electronics,3,1587.61,714.42,4048.41
+TXN-e03b7cd4,26,DarkTurquoise Kids Dress,Clothing,3,83.03,49.82,199.27
+TXN-e03b7cd4,160,PaleTurquoise Lighting,Home & Garden,1,809.55,121.43,688.12
+TXN-e03b7cd4,153,Hill-Holden Fragrances Collection,Beauty,3,50.77,7.62,144.69
+TXN-e03b7cd4,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,1,34.99,3.5,31.49
+TXN-e03b7cd4,32,Modern Kitchen Piece,Home & Garden,3,1350.49,0.0,4051.47
+TXN-e03b7cd4,78,Polarized uniform solution,Books,2,36.94,0.0,73.88
+TXN-e03b7cd4,150,Luxury Makeup,Beauty,4,191.03,114.62,649.5
+TXN-e03b7cd4,77,Pro Equipment Equipment,Sports,2,382.4,0.0,764.8
+TXN-e03b7cd4,42,Organic Beverages,Food & Beverage,4,68.26,27.3,245.74
+TXN-24822569,8,Mccarthy Inc Snacks Mix,Food & Beverage,4,25.22,0.0,100.88
+TXN-24822569,117,Gold Furniture,Home & Garden,5,346.37,0.0,1731.85
+TXN-24822569,82,PowderBlue Decor,Home & Garden,4,1471.55,0.0,5886.2
+TXN-24822569,61,Eaton-Smith Beverages Mix,Food & Beverage,5,69.99,0.0,349.95
+TXN-e2371078,200,Pearson Group Tools Kit,Beauty,5,70.59,35.3,317.65
+TXN-e2371078,84,Turner-Reese Gourmet Mix,Food & Beverage,2,12.67,5.07,20.27
+TXN-e2371078,147,CornflowerBlue Accessrories Shirt,Clothing,2,212.24,0.0,424.48
+TXN-416d7a6e,176,Apparel Champion,Sports,4,194.64,155.71,622.85
+TXN-416d7a6e,191,Bell PLC Tools Essentials,Beauty,2,175.9,52.77,299.03
+TXN-416d7a6e,178,MediumAquaMarine Lighting,Home & Garden,5,1401.88,0.0,7009.4
+TXN-14b972d9,51,Outdoor Champion,Sports,2,434.76,0.0,869.52
+TXN-14b972d9,26,DarkTurquoise Kids Dress,Clothing,2,83.03,24.91,141.15
+TXN-aa780f44,187,Fitness Champion,Sports,4,100.54,0.0,402.16
+TXN-aa780f44,19,Organic Gourmet,Food & Beverage,4,81.33,48.8,276.52
+TXN-aa780f44,156,Fitness Champion,Sports,3,186.84,0.0,560.52
+TXN-aa780f44,35,Hughes-Miller Beverages Mix,Food & Beverage,2,24.62,0.0,49.24
+TXN-aa780f44,177,Designer Women Line,Clothing,2,94.52,0.0,189.04
+TXN-aa780f44,174,Nguyen and Sons Makeup Collection,Beauty,1,16.0,3.2,12.8
+TXN-aa780f44,131,DarkCyan Decor,Home & Garden,5,1011.77,505.89,4552.96
+TXN-32125f6d,110,Accessories Plus,Electronics,2,238.3,0.0,476.6
+TXN-32125f6d,190,FireBrick Accessrories Dress,Clothing,1,58.66,0.0,58.66
+TXN-32125f6d,137,Johnson Group Laptops,Electronics,1,1642.57,246.39,1396.18
+TXN-32125f6d,11,Pro Apparel Kit,Sports,4,41.13,0.0,164.52
+TXN-32125f6d,147,CornflowerBlue Accessrories Shirt,Clothing,5,212.24,212.24,848.96
+TXN-32125f6d,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,5,34.99,8.75,166.2
+TXN-32125f6d,160,PaleTurquoise Lighting,Home & Garden,3,809.55,0.0,2428.65
+TXN-32125f6d,139,Designer Accessrories Style,Clothing,4,142.85,28.57,542.83
+TXN-32125f6d,164,MediumSlateBlue Kids Dress,Clothing,4,161.77,0.0,647.08
+TXN-32125f6d,2,Premium Smartphones Pro,Electronics,2,232.71,0.0,465.42
+TXN-cf16d68f,41,Outdoor Champion,Sports,3,260.48,39.07,742.37
+TXN-484ebb7e,148,Crimson Furniture,Home & Garden,1,138.5,0.0,138.5
+TXN-484ebb7e,18,Tablets Ultra,Electronics,4,188.17,150.54,602.14
+TXN-484ebb7e,99,SpringGreen Lighting,Home & Garden,5,640.31,160.08,3041.47
+TXN-484ebb7e,63,LightGoldenRodYellow Decor,Home & Garden,3,198.57,119.14,476.57
+TXN-fe67647d,189,Gainsboro Accessrories Shirt,Clothing,5,210.53,157.9,894.75
+TXN-5b9514df,14,Pro Fitness Kit,Sports,5,64.82,32.41,291.69
+TXN-5b9514df,4,Fitness Champion,Sports,5,185.9,139.42,790.08
+TXN-5b9514df,164,MediumSlateBlue Kids Dress,Clothing,1,161.77,16.18,145.59
+TXN-5b9514df,132,DarkOrchid Kids Pants,Clothing,1,285.09,14.25,270.84
+TXN-5b9514df,74,CadetBlue Decor,Home & Garden,4,1495.48,1196.38,4785.54
+TXN-5b9514df,10,Pro Apparel Gear,Sports,1,205.71,0.0,205.71
+TXN-5b9514df,112,Pro Outdoor Gear,Sports,5,425.16,212.58,1913.22
+TXN-5b9514df,129,Anderson and Sons Haircare Kit,Beauty,4,22.52,13.51,76.57
+TXN-5b9514df,158,Modern Decor Piece,Home & Garden,1,1319.38,131.94,1187.44
+TXN-5b9514df,175,Designer Accessrories Line,Clothing,4,158.02,63.21,568.87
+TXN-552dfa51,10,Pro Apparel Gear,Sports,4,205.71,0.0,822.84
+TXN-552dfa51,164,MediumSlateBlue Kids Dress,Clothing,3,161.77,24.27,461.04
+TXN-552dfa51,99,SpringGreen Lighting,Home & Garden,2,640.31,64.03,1216.59
+TXN-552dfa51,106,Taylor and Sons Smartphones,Electronics,3,1997.24,599.17,5392.55
+TXN-552dfa51,36,Allen-Hopkins Pantry Mix,Food & Beverage,1,35.12,5.27,29.85
+TXN-552dfa51,108,Luxury Skincare,Beauty,5,172.03,0.0,860.15
+TXN-552dfa51,156,Fitness Champion,Sports,4,186.84,149.47,597.89
+TXN-552dfa51,48,Team Sports Champion,Sports,4,275.88,0.0,1103.52
+TXN-96b96da1,98,Modern Outdoor Set,Home & Garden,2,192.68,19.27,366.09
+TXN-96b96da1,78,Polarized uniform solution,Books,4,36.94,0.0,147.76
+TXN-96b96da1,4,Fitness Champion,Sports,4,185.9,0.0,743.6
+TXN-96b96da1,95,Team Sports Champion,Sports,2,375.81,37.58,714.04
+TXN-96b96da1,166,Upgradable interactive data-warehouse,Books,5,27.44,20.58,116.62
+TXN-96b96da1,33,The During Author,Books,2,48.82,4.88,92.76
+TXN-96b96da1,172,The Painting Material,Books,1,27.04,0.0,27.04
+TXN-96b96da1,185,Designer Shoes Collection,Clothing,3,148.39,66.78,378.39
+TXN-96b96da1,180,Forbes-Moyer Fragrances Kit,Beauty,2,50.66,15.2,86.12
+TXN-d28f37a7,48,Team Sports Champion,Sports,1,275.88,27.59,248.29
+TXN-d28f37a7,67,Organic Pantry,Food & Beverage,4,95.07,57.04,323.24
+TXN-d28f37a7,89,Optional client-server data-warehouse,Books,5,15.45,7.73,69.52
+TXN-d28f37a7,26,DarkTurquoise Kids Dress,Clothing,2,83.03,8.3,157.76
+TXN-d28f37a7,118,Smartphones Plus,Electronics,5,1019.9,254.98,4844.52
+TXN-d28f37a7,9,Equipment Champion,Sports,1,443.49,88.7,354.79
+TXN-cf1782ac,176,Apparel Champion,Sports,2,194.64,77.86,311.42
+TXN-cf1782ac,169,The Various Picture,Books,2,39.4,0.0,78.8
+TXN-cf1782ac,58,Luxury Tools,Beauty,1,193.44,9.67,183.77
+TXN-1b8b1dd5,156,Fitness Champion,Sports,3,186.84,84.08,476.44
+TXN-1b8b1dd5,136,Pro Team Sports Equipment,Sports,2,281.72,0.0,563.44
+TXN-1b8b1dd5,140,Modern Decor Set,Home & Garden,2,465.7,0.0,931.4
+TXN-1b8b1dd5,63,LightGoldenRodYellow Decor,Home & Garden,1,198.57,19.86,178.71
+TXN-1b8b1dd5,126,"Vasquez, Pope and Cook Snacks Mix",Food & Beverage,3,62.66,0.0,187.98
+TXN-1b8b1dd5,181,Mayer and Sons Tools Essentials,Beauty,4,52.88,10.58,200.94
+TXN-1b8b1dd5,20,Gilbert PLC Skincare Collection,Beauty,4,21.52,8.61,77.47
+TXN-1b8b1dd5,59,Organic Snacks,Food & Beverage,1,30.06,3.01,27.05
+TXN-a827b148,183,"Garza, Black and Huerta Snacks Mix",Food & Beverage,4,66.27,13.25,251.83
+TXN-a827b148,68,Pro Equipment Gear,Sports,4,455.17,0.0,1820.68
+TXN-a827b148,32,Modern Kitchen Piece,Home & Garden,5,1350.49,675.25,6077.2
+TXN-a827b148,14,Pro Fitness Kit,Sports,1,64.82,0.0,64.82
+TXN-a827b148,180,Forbes-Moyer Fragrances Kit,Beauty,5,50.66,0.0,253.3
+TXN-a827b148,5,Modern Lighting Piece,Home & Garden,5,1330.47,997.85,5654.5
+TXN-a827b148,7,Jordan PLC Skincare Kit,Beauty,5,125.73,125.73,502.92
+TXN-a827b148,22,Moody-Taylor Beverages Mix,Food & Beverage,2,19.13,0.0,38.26
+TXN-9f16e906,35,Hughes-Miller Beverages Mix,Food & Beverage,2,24.62,9.85,39.39
+TXN-76a69110,168,Luxury Haircare,Beauty,3,155.13,0.0,465.39
+TXN-76a69110,21,Modern Outdoor Piece,Home & Garden,1,389.71,0.0,389.71
+TXN-76a69110,47,Modern Kitchen Piece,Home & Garden,4,1341.68,0.0,5366.72
+TXN-76a69110,113,Luxury Haircare,Beauty,2,15.5,4.65,26.35
+TXN-76a69110,103,LightGray Shoes Pants,Clothing,3,15.81,4.74,42.69
+TXN-48c877f4,87,Premium Accessories Pro,Electronics,2,374.41,37.44,711.38
+TXN-48c877f4,108,Luxury Skincare,Beauty,5,172.03,0.0,860.15
+TXN-48c877f4,174,Nguyen and Sons Makeup Collection,Beauty,1,16.0,0.0,16.0
+TXN-48c877f4,2,Premium Smartphones Pro,Electronics,3,232.71,0.0,698.13
+TXN-48c877f4,155,Organic Beverages,Food & Beverage,3,72.05,10.81,205.34
+TXN-48c877f4,149,Tablets X,Electronics,1,1248.96,249.79,999.17
+TXN-48c877f4,124,The Ahead Save,Books,4,19.54,15.63,62.53
+TXN-48c877f4,170,Designer Shoes Collection,Clothing,5,160.1,0.0,800.5
+TXN-48c877f4,9,Equipment Champion,Sports,3,443.49,66.52,1263.95
+TXN-c192b25b,46,Taylor-Moore Beverages Mix,Food & Beverage,5,84.47,21.12,401.23
+TXN-c192b25b,57,"King, Oliver and Norman Haircare Collection",Beauty,5,12.4,0.0,62.0
+TXN-c192b25b,21,Modern Outdoor Piece,Home & Garden,2,389.71,77.94,701.48
+TXN-c192b25b,135,The Reveal No,Books,1,25.78,0.0,25.78
+TXN-c192b25b,48,Team Sports Champion,Sports,5,275.88,206.91,1172.49
+TXN-c192b25b,7,Jordan PLC Skincare Kit,Beauty,5,125.73,0.0,628.65
+TXN-377a26ae,40,Outdoor Champion,Sports,4,311.6,124.64,1121.76
+TXN-377a26ae,3,The Soon No,Books,3,41.42,0.0,124.26
+TXN-377a26ae,7,Jordan PLC Skincare Kit,Beauty,5,125.73,62.87,565.78
+TXN-377a26ae,105,Equipment Champion,Sports,5,391.23,0.0,1956.15
+TXN-377a26ae,59,Organic Snacks,Food & Beverage,2,30.06,6.01,54.11
+TXN-8aac8c73,84,Turner-Reese Gourmet Mix,Food & Beverage,4,12.67,10.14,40.54
+TXN-8aac8c73,161,Multi-channeled attitude-oriented synergy,Books,2,42.14,8.43,75.85
+TXN-8aac8c73,27,Designer Shoes Style,Clothing,2,90.58,27.17,153.99
+TXN-8aac8c73,14,Pro Fitness Kit,Sports,3,64.82,0.0,194.46
+TXN-8aac8c73,50,Modern Outdoor Piece,Home & Garden,1,1091.79,0.0,1091.79
+TXN-8aac8c73,109,Barber-Benitez Skincare Essentials,Beauty,1,69.38,3.47,65.91
+TXN-8aac8c73,101,Modern Decor Set,Home & Garden,1,1452.95,217.94,1235.01
+TXN-8aac8c73,45,Luxury Tools,Beauty,2,197.7,79.08,316.32
+TXN-c1a1671c,83,Hunt-Harrison Gourmet Mix,Food & Beverage,3,40.45,12.14,109.21
+TXN-c1a1671c,200,Pearson Group Tools Kit,Beauty,2,70.59,0.0,141.18
+TXN-c1a1671c,21,Modern Outdoor Piece,Home & Garden,2,389.71,116.91,662.51
+TXN-c1a1671c,165,Modern Outdoor Piece,Home & Garden,3,1298.96,0.0,3896.88
+TXN-c1a1671c,96,Miller Group Pantry Mix,Food & Beverage,1,38.48,0.0,38.48
+TXN-c1a1671c,182,The Hot Prepare,Books,3,23.31,6.99,62.94
+TXN-7753769c,117,Gold Furniture,Home & Garden,3,346.37,51.96,987.15
+TXN-7753769c,82,PowderBlue Decor,Home & Garden,5,1471.55,735.78,6621.97
+TXN-7753769c,8,Mccarthy Inc Snacks Mix,Food & Beverage,1,25.22,5.04,20.18
+TXN-7753769c,79,White Accessrories Dress,Clothing,2,280.81,0.0,561.62
+TXN-7753769c,189,Gainsboro Accessrories Shirt,Clothing,3,210.53,126.32,505.27
+TXN-7753769c,158,Modern Decor Piece,Home & Garden,3,1319.38,593.72,3364.42
+TXN-bed61c11,35,Hughes-Miller Beverages Mix,Food & Beverage,4,24.62,0.0,98.48
+TXN-bed61c11,176,Apparel Champion,Sports,4,194.64,155.71,622.85
+TXN-bed61c11,53,Modern Decor Set,Home & Garden,5,982.21,0.0,4911.05
+TXN-41cfdcd7,83,Hunt-Harrison Gourmet Mix,Food & Beverage,5,40.45,0.0,202.25
+TXN-efa200a3,22,Moody-Taylor Beverages Mix,Food & Beverage,1,19.13,0.0,19.13
+TXN-efa200a3,90,Modern Lighting Set,Home & Garden,5,462.75,347.06,1966.69
+TXN-efa200a3,28,Organic Pantry,Food & Beverage,3,3.76,2.26,9.02
+TXN-efa200a3,81,PaleGreen Lighting,Home & Garden,3,878.29,0.0,2634.87
+TXN-efa200a3,193,Outdoor Champion,Sports,2,261.49,0.0,522.98
+TXN-efa200a3,196,Hopkins-Cook Tools Essentials,Beauty,1,35.27,0.0,35.27
+TXN-efa200a3,78,Polarized uniform solution,Books,4,36.94,22.16,125.6
+TXN-efa200a3,43,"Hodges, Sanchez and Smith Tools Kit",Beauty,5,46.94,46.94,187.76
+TXN-efa200a3,86,Cameras Max,Electronics,2,183.42,36.68,330.16
+TXN-c936e67e,155,Organic Beverages,Food & Beverage,3,72.05,32.42,183.73
+TXN-c936e67e,142,Crimson Furniture,Home & Garden,1,1431.04,0.0,1431.04
+TXN-c936e67e,71,The Writer Voice,Books,4,34.14,0.0,136.56
+TXN-c936e67e,17,Pro Fitness Gear,Sports,4,131.47,0.0,525.88
+TXN-c936e67e,146,Gibbs-Howard Snacks Mix,Food & Beverage,3,86.98,13.05,247.89
+TXN-74065875,48,Team Sports Champion,Sports,3,275.88,165.53,662.11
+TXN-74065875,112,Pro Outdoor Gear,Sports,1,425.16,85.03,340.13
+TXN-f41596fd,14,Pro Fitness Kit,Sports,4,64.82,25.93,233.35
+TXN-2d644347,109,Barber-Benitez Skincare Essentials,Beauty,3,69.38,41.63,166.51
+TXN-2d644347,181,Mayer and Sons Tools Essentials,Beauty,3,52.88,0.0,158.64
+TXN-2d644347,140,Modern Decor Set,Home & Garden,1,465.7,93.14,372.56
+TXN-2d644347,19,Organic Gourmet,Food & Beverage,5,81.33,61.0,345.65
+TXN-2d644347,70,Monitored fresh-thinking superstructure,Books,2,18.11,0.0,36.22
+TXN-2d644347,166,Upgradable interactive data-warehouse,Books,1,27.44,1.37,26.07
+TXN-2d644347,41,Outdoor Champion,Sports,4,260.48,156.29,885.63
+TXN-2d644347,92,Luxury Fragrances,Beauty,5,168.24,0.0,841.2
+TXN-2d644347,137,Johnson Group Laptops,Electronics,1,1642.57,0.0,1642.57
+TXN-08419357,101,Modern Decor Set,Home & Garden,3,1452.95,217.94,4140.91
+TXN-08419357,188,Modern Kitchen Set,Home & Garden,1,882.04,0.0,882.04
+TXN-e717cf30,107,Designer Men Line,Clothing,5,50.96,50.96,203.84
+TXN-dd2f3bfb,87,Premium Accessories Pro,Electronics,2,374.41,0.0,748.82
+TXN-dd2f3bfb,122,Ellis Inc Cameras,Electronics,3,1284.79,385.44,3468.93
+TXN-dd2f3bfb,191,Bell PLC Tools Essentials,Beauty,3,175.9,105.54,422.16
+TXN-dd2f3bfb,91,Persevering background artificial intelligence,Books,4,30.87,18.52,104.96
+TXN-a15817e4,88,ForestGreen Shoes Pants,Clothing,1,132.43,13.24,119.19
+TXN-a15817e4,92,Luxury Fragrances,Beauty,5,168.24,84.12,757.08
+TXN-2e42f6d3,163,Designer Accessrories Style,Clothing,3,133.45,0.0,400.35
+TXN-2e42f6d3,56,"Moon, Farmer and Hill Organic Mix",Food & Beverage,3,85.48,25.64,230.8
+TXN-2e42f6d3,1,Johnson-Davis Skincare Kit,Beauty,2,14.75,0.0,29.5
+TXN-2e42f6d3,24,Smartphones Plus,Electronics,1,1189.15,0.0,1189.15
+TXN-2e42f6d3,72,Team Sports Champion,Sports,5,352.87,0.0,1764.35
+TXN-2e42f6d3,108,Luxury Skincare,Beauty,5,172.03,43.01,817.14
+TXN-aec16295,181,Mayer and Sons Tools Essentials,Beauty,1,52.88,2.64,50.24
+TXN-a9e37a0f,90,Modern Lighting Set,Home & Garden,5,462.75,347.06,1966.69
+TXN-a9e37a0f,105,Equipment Champion,Sports,4,391.23,156.49,1408.43
+TXN-a9e37a0f,11,Pro Apparel Kit,Sports,3,41.13,0.0,123.39
+TXN-a9e37a0f,72,Team Sports Champion,Sports,3,352.87,211.72,846.89
+TXN-a9e37a0f,53,Modern Decor Set,Home & Garden,2,982.21,294.66,1669.76
+TXN-a9e37a0f,171,The Hit Apply,Books,5,19.76,0.0,98.8
+TXN-a9e37a0f,140,Modern Decor Set,Home & Garden,4,465.7,186.28,1676.52
+TXN-a9e37a0f,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,2,34.99,0.0,69.98
+TXN-a9e37a0f,24,Smartphones Plus,Electronics,4,1189.15,0.0,4756.6
+TXN-a9e37a0f,46,Taylor-Moore Beverages Mix,Food & Beverage,4,84.47,0.0,337.88
+TXN-8f0a10c0,177,Designer Women Line,Clothing,2,94.52,0.0,189.04
+TXN-8f0a10c0,189,Gainsboro Accessrories Shirt,Clothing,2,210.53,84.21,336.85
+TXN-8f0a10c0,111,Modern Outdoor Set,Home & Garden,5,1304.78,0.0,6523.9
+TXN-8f0a10c0,112,Pro Outdoor Gear,Sports,3,425.16,63.77,1211.71
+TXN-8f0a10c0,46,Taylor-Moore Beverages Mix,Food & Beverage,2,84.47,25.34,143.6
+TXN-8f0a10c0,52,Pro Team Sports Kit,Sports,3,378.48,227.09,908.35
+TXN-8f0a10c0,135,The Reveal No,Books,3,25.78,3.87,73.47
+TXN-8f0a10c0,102,Modern Decor Set,Home & Garden,4,1483.45,0.0,5933.8
+TXN-cbb59214,109,Barber-Benitez Skincare Essentials,Beauty,2,69.38,0.0,138.76
+TXN-cbb59214,106,Taylor and Sons Smartphones,Electronics,3,1997.24,599.17,5392.55
+TXN-cbb59214,93,Smith-Cooper Makeup Collection,Beauty,5,129.37,0.0,646.85
+TXN-cbb59214,77,Pro Equipment Equipment,Sports,5,382.4,0.0,1912.0
+TXN-cbb59214,49,LavenderBlush Kitchen,Home & Garden,4,1135.14,908.11,3632.45
+TXN-cbb59214,10,Pro Apparel Gear,Sports,1,205.71,0.0,205.71
+TXN-cbb59214,52,Pro Team Sports Kit,Sports,5,378.48,283.86,1608.54
+TXN-cbb59214,193,Outdoor Champion,Sports,1,261.49,52.3,209.19
+TXN-a6c03d88,129,Anderson and Sons Haircare Kit,Beauty,2,22.52,4.5,40.54
+TXN-a6c03d88,135,The Reveal No,Books,2,25.78,5.16,46.4
+TXN-a6c03d88,173,Potter LLC Snacks Mix,Food & Beverage,2,60.9,6.09,115.71
+TXN-a6c03d88,112,Pro Outdoor Gear,Sports,4,425.16,0.0,1700.64
+TXN-a6c03d88,165,Modern Outdoor Piece,Home & Garden,3,1298.96,0.0,3896.88
+TXN-a6c03d88,189,Gainsboro Accessrories Shirt,Clothing,5,210.53,52.63,1000.02
+TXN-a6c03d88,80,Digitized tertiary website,Books,4,38.58,15.43,138.89
+TXN-86deaa17,41,Outdoor Champion,Sports,5,260.48,260.48,1041.92
+TXN-86deaa17,25,Torres and Sons Beverages Mix,Food & Beverage,4,42.17,0.0,168.68
+TXN-9ba4a475,32,Modern Kitchen Piece,Home & Garden,4,1350.49,0.0,5401.96
+TXN-9ba4a475,30,Premium Smartphones Pro,Electronics,3,700.44,105.07,1996.25
+TXN-11dc6808,52,Pro Team Sports Kit,Sports,4,378.48,0.0,1513.92
+TXN-11dc6808,60,SandyBrown Kitchen,Home & Garden,4,523.7,314.22,1780.58
+TXN-11dc6808,129,Anderson and Sons Haircare Kit,Beauty,1,22.52,0.0,22.52
+TXN-11dc6808,145,Organic Beverages,Food & Beverage,2,88.92,35.57,142.27
+TXN-11dc6808,120,Roberts Group Fragrances Collection,Beauty,2,65.01,13.0,117.02
+TXN-11dc6808,11,Pro Apparel Kit,Sports,1,41.13,8.23,32.9
+TXN-11dc6808,41,Outdoor Champion,Sports,2,260.48,78.14,442.82
+TXN-11dc6808,162,Adams-Lewis Tools Collection,Beauty,2,65.04,6.5,123.58
+TXN-11dc6808,57,"King, Oliver and Norman Haircare Collection",Beauty,5,12.4,0.0,62.0
+TXN-11dc6808,144,Designer Accessrories Collection,Clothing,4,294.53,117.81,1060.31
+TXN-410f773a,136,Pro Team Sports Equipment,Sports,3,281.72,84.52,760.64
+TXN-410f773a,107,Designer Men Line,Clothing,3,50.96,7.64,145.24
+TXN-410f773a,128,Pro Apparel Equipment,Sports,3,266.15,0.0,798.45
+TXN-410f773a,49,LavenderBlush Kitchen,Home & Garden,5,1135.14,0.0,5675.7
+TXN-410f773a,189,Gainsboro Accessrories Shirt,Clothing,5,210.53,105.27,947.38
+TXN-410f773a,127,Proactive explicit strategy,Books,4,48.1,38.48,153.92
+TXN-d84eeab8,182,The Hot Prepare,Books,1,23.31,0.0,23.31
+TXN-d84eeab8,131,DarkCyan Decor,Home & Garden,5,1011.77,1011.77,4047.08
+TXN-d84eeab8,67,Organic Pantry,Food & Beverage,3,95.07,0.0,285.21
+TXN-d84eeab8,71,The Writer Voice,Books,3,34.14,20.48,81.94
+TXN-d84eeab8,157,Luxury Fragrances,Beauty,1,109.88,0.0,109.88
+TXN-d84eeab8,29,The Minute Visit,Books,4,37.29,22.37,126.79
+TXN-d84eeab8,158,Modern Decor Piece,Home & Garden,5,1319.38,329.85,6267.05
+TXN-d84eeab8,60,SandyBrown Kitchen,Home & Garden,3,523.7,235.67,1335.43
+TXN-d84eeab8,74,CadetBlue Decor,Home & Garden,4,1495.48,299.1,5682.82
+TXN-1348b0db,152,Luxury Haircare,Beauty,4,57.43,0.0,229.72
+TXN-1348b0db,81,PaleGreen Lighting,Home & Garden,2,878.29,175.66,1580.92
+TXN-1348b0db,109,Barber-Benitez Skincare Essentials,Beauty,4,69.38,55.5,222.02
+TXN-0ebe84b8,141,Monitored maximized Local Area Network,Books,2,37.33,0.0,74.66
+TXN-0ebe84b8,95,Team Sports Champion,Sports,1,375.81,56.37,319.44
+TXN-0ebe84b8,149,Tablets X,Electronics,1,1248.96,0.0,1248.96
+TXN-9bbe8928,30,Premium Smartphones Pro,Electronics,1,700.44,0.0,700.44
+TXN-9bbe8928,133,Cooper Inc Pantry Mix,Food & Beverage,4,15.71,12.57,50.27
+TXN-9bbe8928,171,The Hit Apply,Books,4,19.76,15.81,63.23
+TXN-4fb75c05,29,The Minute Visit,Books,4,37.29,14.92,134.24
+TXN-4fb75c05,62,Khaki Lighting,Home & Garden,4,566.15,226.46,2038.14
+TXN-4fb75c05,105,Equipment Champion,Sports,4,391.23,78.25,1486.67
+TXN-51b55fc0,166,Upgradable interactive data-warehouse,Books,5,27.44,6.86,130.34
+TXN-618bc646,45,Luxury Tools,Beauty,5,197.7,0.0,988.5
+TXN-618bc646,116,Equipment Champion,Sports,1,307.47,0.0,307.47
+TXN-618bc646,170,Designer Shoes Collection,Clothing,5,160.1,40.03,760.47
+TXN-618bc646,1,Johnson-Davis Skincare Kit,Beauty,3,14.75,0.0,44.25
+TXN-618bc646,181,Mayer and Sons Tools Essentials,Beauty,5,52.88,13.22,251.18
+TXN-618bc646,99,SpringGreen Lighting,Home & Garden,1,640.31,0.0,640.31
+TXN-618bc646,112,Pro Outdoor Gear,Sports,5,425.16,425.16,1700.64
+TXN-618bc646,73,Smartphones X,Electronics,3,496.4,74.46,1414.74
+TXN-618bc646,101,Modern Decor Set,Home & Garden,5,1452.95,0.0,7264.75
+TXN-c7bad8e1,140,Modern Decor Set,Home & Garden,1,465.7,69.85,395.85
+TXN-c7bad8e1,177,Designer Women Line,Clothing,5,94.52,94.52,378.08
+TXN-c7bad8e1,192,Designer Women Line,Clothing,5,108.51,0.0,542.55
+TXN-c7bad8e1,20,Gilbert PLC Skincare Collection,Beauty,5,21.52,0.0,107.6
+TXN-c7bad8e1,107,Designer Men Line,Clothing,3,50.96,15.29,137.59
+TXN-c7bad8e1,195,SeaShell Women Jacket,Clothing,1,233.26,11.66,221.6
+TXN-c7bad8e1,82,PowderBlue Decor,Home & Garden,4,1471.55,588.62,5297.58
+TXN-c7bad8e1,58,Luxury Tools,Beauty,4,193.44,77.38,696.38
+TXN-7cb994c3,36,Allen-Hopkins Pantry Mix,Food & Beverage,3,35.12,0.0,105.36
+TXN-7cb994c3,83,Hunt-Harrison Gourmet Mix,Food & Beverage,1,40.45,6.07,34.38
+TXN-7cb994c3,49,LavenderBlush Kitchen,Home & Garden,5,1135.14,851.36,4824.34
+TXN-7cb994c3,158,Modern Decor Piece,Home & Garden,3,1319.38,593.72,3364.42
+TXN-7cb994c3,85,LightCoral Kitchen,Home & Garden,5,942.42,0.0,4712.1
+TXN-76ad7183,42,Organic Beverages,Food & Beverage,1,68.26,10.24,58.02
+TXN-76ad7183,146,Gibbs-Howard Snacks Mix,Food & Beverage,3,86.98,52.19,208.75
+TXN-76ad7183,179,Team Sports Champion,Sports,5,477.76,0.0,2388.8
+TXN-76ad7183,76,Premium Accessories Pro,Electronics,3,1736.58,260.49,4949.25
+TXN-76ad7183,36,Allen-Hopkins Pantry Mix,Food & Beverage,1,35.12,0.0,35.12
+TXN-76ad7183,70,Monitored fresh-thinking superstructure,Books,5,18.11,0.0,90.55
+TXN-76ad7183,133,Cooper Inc Pantry Mix,Food & Beverage,3,15.71,0.0,47.13
+TXN-76ad7183,23,Organic Gourmet,Food & Beverage,2,30.67,6.13,55.21
+TXN-76ad7183,17,Pro Fitness Gear,Sports,3,131.47,0.0,394.41
+TXN-76ad7183,117,Gold Furniture,Home & Garden,3,346.37,0.0,1039.11
+TXN-53a482f8,40,Outdoor Champion,Sports,4,311.6,0.0,1246.4
+TXN-53a482f8,27,Designer Shoes Style,Clothing,2,90.58,0.0,181.16
+TXN-53a482f8,28,Organic Pantry,Food & Beverage,2,3.76,0.38,7.14
+TXN-74ab9caf,48,Team Sports Champion,Sports,1,275.88,0.0,275.88
+TXN-74ab9caf,197,Organic Snacks,Food & Beverage,5,97.91,97.91,391.64
+TXN-74ab9caf,23,Organic Gourmet,Food & Beverage,2,30.67,12.27,49.07
+TXN-74ab9caf,53,Modern Decor Set,Home & Garden,4,982.21,785.77,3143.07
+TXN-74ab9caf,148,Crimson Furniture,Home & Garden,4,138.5,110.8,443.2
+TXN-74ab9caf,187,Fitness Champion,Sports,4,100.54,0.0,402.16
+TXN-28bda13c,8,Mccarthy Inc Snacks Mix,Food & Beverage,5,25.22,18.91,107.19
+TXN-28bda13c,178,MediumAquaMarine Lighting,Home & Garden,3,1401.88,0.0,4205.64
+TXN-28bda13c,30,Premium Smartphones Pro,Electronics,3,700.44,420.26,1681.06
+TXN-28bda13c,54,Pro Fitness Kit,Sports,1,286.35,0.0,286.35
+TXN-c8b0742c,51,Outdoor Champion,Sports,5,434.76,0.0,2173.8
+TXN-c8b0742c,92,Luxury Fragrances,Beauty,4,168.24,100.94,572.02
+TXN-c8b0742c,151,The Material Worker,Books,4,32.23,6.45,122.47
+TXN-c8b0742c,12,The Among Visit,Books,3,39.59,0.0,118.77
+TXN-c8b0742c,192,Designer Women Line,Clothing,5,108.51,108.51,434.04
+TXN-c8b0742c,23,Organic Gourmet,Food & Beverage,4,30.67,0.0,122.68
+TXN-c8b0742c,37,"Simmons, Murray and Salinas Organic Mix",Food & Beverage,3,45.33,27.2,108.79
+TXN-c8b0742c,188,Modern Kitchen Set,Home & Garden,4,882.04,176.41,3351.75
+TXN-eb5c45d5,117,Gold Furniture,Home & Garden,1,346.37,34.64,311.73
+TXN-bb1f1a0e,148,Crimson Furniture,Home & Garden,3,138.5,0.0,415.5
+TXN-bb1f1a0e,18,Tablets Ultra,Electronics,3,188.17,0.0,564.51
+TXN-bb1f1a0e,110,Accessories Plus,Electronics,1,238.3,0.0,238.3
+TXN-bb1f1a0e,196,Hopkins-Cook Tools Essentials,Beauty,5,35.27,8.82,167.53
+TXN-bb1f1a0e,152,Luxury Haircare,Beauty,4,57.43,45.94,183.78
+TXN-bb1f1a0e,40,Outdoor Champion,Sports,2,311.6,93.48,529.72
+TXN-bb1f1a0e,199,Luxury Skincare,Beauty,5,56.5,56.5,226.0
+TXN-bb1f1a0e,86,Cameras Max,Electronics,2,183.42,36.68,330.16
+TXN-bb1f1a0e,47,Modern Kitchen Piece,Home & Garden,3,1341.68,603.76,3421.28
+TXN-bb1f1a0e,28,Organic Pantry,Food & Beverage,2,3.76,0.0,7.52
+TXN-caf3f235,59,Organic Snacks,Food & Beverage,1,30.06,1.5,28.56
+TXN-caf3f235,55,DarkOrchid Kids Dress,Clothing,1,45.81,4.58,41.23
+TXN-fcc7c725,78,Polarized uniform solution,Books,3,36.94,0.0,110.82
+TXN-fcc7c725,179,Team Sports Champion,Sports,1,477.76,0.0,477.76
+TXN-fcc7c725,39,Riddle Ltd Tablets,Electronics,5,1038.89,0.0,5194.45
+TXN-fcc7c725,85,LightCoral Kitchen,Home & Garden,1,942.42,94.24,848.18
+TXN-fcc7c725,17,Pro Fitness Gear,Sports,2,131.47,26.29,236.65
+TXN-60681065,187,Fitness Champion,Sports,5,100.54,0.0,502.7
+TXN-60681065,26,DarkTurquoise Kids Dress,Clothing,4,83.03,49.82,282.3
+TXN-d4ae57f5,179,Team Sports Champion,Sports,2,477.76,0.0,955.52
+TXN-d4ae57f5,60,SandyBrown Kitchen,Home & Garden,3,523.7,78.56,1492.54
+TXN-2892066a,32,Modern Kitchen Piece,Home & Garden,4,1350.49,810.29,4591.67
+TXN-2892066a,77,Pro Equipment Equipment,Sports,3,382.4,0.0,1147.2
+TXN-2892066a,45,Luxury Tools,Beauty,2,197.7,79.08,316.32
+TXN-2892066a,132,DarkOrchid Kids Pants,Clothing,1,285.09,0.0,285.09
+TXN-2892066a,135,The Reveal No,Books,1,25.78,1.29,24.49
+TXN-8fc55988,124,The Ahead Save,Books,2,19.54,1.95,37.13
+TXN-8fc55988,138,Premium Tablets Pro,Electronics,1,487.85,24.39,463.46
+TXN-8fc55988,74,CadetBlue Decor,Home & Garden,2,1495.48,299.1,2691.86
+TXN-8fc55988,176,Apparel Champion,Sports,4,194.64,0.0,778.56
+TXN-8fc55988,75,"Mahoney, Hill and Maxwell Beverages Mix",Food & Beverage,4,34.99,0.0,139.96
+TXN-932e4f39,4,Fitness Champion,Sports,1,185.9,9.29,176.61
+TXN-932e4f39,199,Luxury Skincare,Beauty,3,56.5,0.0,169.5
+TXN-932e4f39,176,Apparel Champion,Sports,1,194.64,0.0,194.64
+TXN-932e4f39,85,LightCoral Kitchen,Home & Garden,1,942.42,94.24,848.18
+TXN-932e4f39,111,Modern Outdoor Set,Home & Garden,3,1304.78,782.87,3131.47
+TXN-932e4f39,197,Organic Snacks,Food & Beverage,4,97.91,0.0,391.64
+TXN-932e4f39,158,Modern Decor Piece,Home & Garden,4,1319.38,0.0,5277.52
+TXN-932e4f39,120,Roberts Group Fragrances Collection,Beauty,1,65.01,0.0,65.01
+TXN-932e4f39,51,Outdoor Champion,Sports,4,434.76,0.0,1739.04
+TXN-932e4f39,78,Polarized uniform solution,Books,2,36.94,11.08,62.8
+TXN-d1c93a36,64,Organic Pantry,Food & Beverage,4,60.89,12.18,231.38
+TXN-d1c93a36,114,Luxury Skincare,Beauty,4,27.43,5.49,104.23
+TXN-d1c93a36,28,Organic Pantry,Food & Beverage,1,3.76,0.38,3.38
+TXN-d1c93a36,170,Designer Shoes Collection,Clothing,2,160.1,0.0,320.2
+TXN-d1c93a36,152,Luxury Haircare,Beauty,4,57.43,34.46,195.26
+TXN-d1c93a36,111,Modern Outdoor Set,Home & Garden,4,1304.78,0.0,5219.12
+TXN-d1c93a36,194,Farley-Ford Laptops,Electronics,5,1177.71,588.86,5299.69
+TXN-d1c93a36,131,DarkCyan Decor,Home & Garden,3,1011.77,0.0,3035.31
+TXN-d1c93a36,147,CornflowerBlue Accessrories Shirt,Clothing,3,212.24,31.84,604.88
+TXN-d2d3bb96,84,Turner-Reese Gourmet Mix,Food & Beverage,3,12.67,3.8,34.21
+TXN-d2d3bb96,148,Crimson Furniture,Home & Garden,3,138.5,0.0,415.5
+TXN-c458c87a,71,The Writer Voice,Books,2,34.14,6.83,61.45
+TXN-c458c87a,116,Equipment Champion,Sports,1,307.47,15.37,292.1
+TXN-c458c87a,144,Designer Accessrories Collection,Clothing,2,294.53,0.0,589.06
+TXN-c458c87a,151,The Material Worker,Books,4,32.23,0.0,128.92
+TXN-267da09f,151,The Material Worker,Books,2,32.23,0.0,64.46
+TXN-267da09f,80,Digitized tertiary website,Books,1,38.58,0.0,38.58
+TXN-267da09f,69,Designer Women Line,Clothing,1,90.42,13.56,76.86
+TXN-267da09f,111,Modern Outdoor Set,Home & Garden,5,1304.78,0.0,6523.9
+TXN-267da09f,16,The Challenge Answer,Books,4,48.4,9.68,183.92
+TXN-267da09f,139,Designer Accessrories Style,Clothing,1,142.85,28.57,114.28
+TXN-267da09f,113,Luxury Haircare,Beauty,5,15.5,11.62,65.88
+TXN-267da09f,76,Premium Accessories Pro,Electronics,3,1736.58,260.49,4949.25
+TXN-6cf00e48,187,Fitness Champion,Sports,1,100.54,0.0,100.54
+TXN-dd7537d6,194,Farley-Ford Laptops,Electronics,1,1177.71,0.0,1177.71
+TXN-dd7537d6,16,The Challenge Answer,Books,5,48.4,12.1,229.9
+TXN-dd7537d6,15,Lawson LLC Snacks Mix,Food & Beverage,5,97.86,0.0,489.3
+TXN-dd7537d6,66,Pro Team Sports Equipment,Sports,5,100.34,0.0,501.7
+TXN-dd7537d6,26,DarkTurquoise Kids Dress,Clothing,1,83.03,0.0,83.03
+TXN-dd7537d6,176,Apparel Champion,Sports,2,194.64,19.46,369.82
+TXN-dd7537d6,187,Fitness Champion,Sports,1,100.54,5.03,95.51
