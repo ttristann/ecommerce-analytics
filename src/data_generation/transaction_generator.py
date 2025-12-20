@@ -371,4 +371,4 @@ if __name__ == "__main__":
     save_to_csv(transactions_df, transactions_file)
     save_to_csv(items_df, items_file)
 
-    print("Files have been saved successsfully")
+    print("Files have been saved successsfully insde the data directory")
