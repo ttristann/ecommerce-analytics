@@ -336,6 +336,7 @@ if __name__ == "__main__":
     print("E-COMMERCE TRANSACTION GENERATOR")
     print("=" * 70)
 
+    
     # setup data directory
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.join(script_dir, '..', '..')
