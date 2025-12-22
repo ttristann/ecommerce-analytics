@@ -107,7 +107,6 @@ if __name__ == "__main__":
 
     # for now, script to save to csv
     import os
-    
     script_dir = os.path.dirname(os.path.abspath(__file__))
     # up two levels to project root
     project_root = os.path.join(script_dir, '..', '..')

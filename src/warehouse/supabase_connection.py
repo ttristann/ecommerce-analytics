@@ -5,17 +5,26 @@ This provides functions to connect to PostgreSQL database on Supabase
 
 import os
 import psycopg2
+from dotenv import load_dotenv
 from contextlib import contextmanager
 from psycopg2.extras import execute_batch
 
 # databae configuration
+load_dotenv()
 DB_CONFIG = {
-    'host': 'db.ewwytsmlhruqmnlbakst.supabase.co',
-    'port': 5432,
-    'database': 'postgres',
-    'user': 'postgres', 
-    'password': 'etlproject123!'
+    "host": os.getenv("DB_HOST"),
+    "port": int(os.getenv("DB_PORT")),
+    "database": os.getenv("DB_NAME"),
+    "user": os.getenv("DB_USER"),
+    "password": os.getenv("DB_PASSWORD"),
 }
+
+def test_config():
+    print(DB_CONFIG['host'])
+    print(DB_CONFIG['port'])
+    print(DB_CONFIG['database'])
+    print(DB_CONFIG['user'])
+    print(DB_CONFIG['password'])
 
 def get_connection():
     """
@@ -181,12 +190,14 @@ def get_table_info(table_name:str):
             print(f"{col_name:<25} {type_str:<20} {nullable:<10} {default_str:<15}")
 
 if __name__ == "__main__":
+    # testing db_config
+    test_config()
+
     # testing connection
-    success = test_connection()
-    if success:
-        print()
-        print("=" * 70)
-        print("BONUS: TABLE SCHEMA DETAILS")
-        print("=" * 70)
-        get_table_info("customers")
-        
+    # success = test_connection()
+    # if success:
+    #     print()
+    #     print("=" * 70)
+    #     print("BONUS: TABLE SCHEMA DETAILS")
+    #     print("=" * 70)
+    #     get_table_info("customers")
